@@ -19,6 +19,7 @@ jobs:
     env:
       FOGOCRUZADO_EMAIL: ${{ secrets.FOGOCRUZADO_EMAIL }}
       FOGOCRUZADO_PASSWORD: ${{ secrets.FOGOCRUZADO_PASSWORD }}
+      FOGOCRUZADO_INITIAL_DATE: "2026-09-01"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

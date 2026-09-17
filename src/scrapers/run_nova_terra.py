@@ -1,5 +1,6 @@
 import glob
 import json
+import os
 from datetime import datetime, timedelta
 from pathlib import Path
 
@@ -53,7 +54,7 @@ def main():
         last_date = max(_occurrence_date(o) for o in consolidated.values())
         since_date = (last_date - timedelta(days=OVERLAP_DAYS)).strftime("%Y-%m-%d")
     else:
-        since_date = FIRST_RUN_INITIAL_DATE
+        since_date = os.environ.get("FOGOCRUZADO_INITIAL_DATE", FIRST_RUN_INITIAL_DATE)
 
     client = FogoCruzadoClient()
     fetched = client.fetch_occurrences_since(
