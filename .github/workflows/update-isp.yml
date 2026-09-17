@@ -1,0 +1,28 @@
+name: Atualizar ISP-RJ
+
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-isp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: pip install -r requirements.txt
+      - run: python -m src.scrapers.run_isp_nova_terra
+      - name: Publicar resultado
+        run: |
+          git config user.name "Nova Terra Data Bot"
+          git config user.email "bot@novaterra.local"
+          git add data/processed/isp_dp_evolucao_mensal_nova_terra_aoi.csv
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Atualiza dados ISP-RJ"
+          git push

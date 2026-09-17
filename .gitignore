@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/*.json
+!data/processed/*.csv
