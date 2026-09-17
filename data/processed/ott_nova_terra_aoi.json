@@ -1,0 +1,90 @@
+[
+  {
+    "datetime": "2026-09-17T10:55:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8852712,
+    "lng": -43.3101488,
+    "address": "Avenida Dom Hélder Câmara, 8614",
+    "fetched_at": "2026-09-17T19:27:17.278026+00:00"
+  },
+  {
+    "datetime": "2026-09-17T07:20:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8775871,
+    "lng": -43.3158373,
+    "address": "Rua Padre Manuel da Nóbrega, 996",
+    "fetched_at": "2026-09-17T19:27:17.278068+00:00"
+  },
+  {
+    "datetime": "2026-09-17T05:50:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8361906,
+    "lng": -43.2759767,
+    "address": "Avenida Montevideu, 900",
+    "fetched_at": "2026-09-17T19:27:17.278098+00:00"
+  },
+  {
+    "datetime": "2026-09-17T00:08:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9324433,
+    "lng": -43.2411073,
+    "address": "Tijuca, Rio de Janeiro",
+    "fetched_at": "2026-09-17T19:27:17.278138+00:00"
+  },
+  {
+    "datetime": "2026-09-17T00:07:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Parada de Lucas",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8207934,
+    "lng": -43.3064598,
+    "address": "Rua Cordovil, 835",
+    "fetched_at": "2026-09-17T19:27:17.278147+00:00"
+  },
+  {
+    "datetime": "2026-09-17T00:05:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9298162,
+    "lng": -43.2534437,
+    "address": "Rua Leopoldo, 610",
+    "fetched_at": "2026-09-17T19:27:17.278157+00:00"
+  },
+  {
+    "datetime": "2026-09-17T00:03:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9252121,
+    "lng": -43.2053745,
+    "address": "Rua Barão de Petrópolis, 01",
+    "fetched_at": "2026-09-17T19:27:17.278176+00:00"
+  },
+  {
+    "datetime": "2026-09-16T21:17:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Grajaú",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.920238,
+    "lng": -43.2597941,
+    "address": "Rua Barão do Bom Retiro, 2353",
+    "fetched_at": "2026-09-17T19:27:17.278205+00:00"
+  }
+]
