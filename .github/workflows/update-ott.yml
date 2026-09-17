@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: public-data-updates
+  cancel-in-progress: false
+
 jobs:
   update-ott:
     runs-on: ubuntu-latest
