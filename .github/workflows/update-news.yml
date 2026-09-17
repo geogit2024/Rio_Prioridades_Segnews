@@ -1,0 +1,45 @@
+name: Atualizar feed de noticias
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar codigo
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Coletar noticias
+        run: python -m src.scrapers.run_news_nova_terra
+
+      - name: Exportar feed publico
+        env:
+          PUBLIC_REPO_DIR: .
+          PUBLISH_TO_GITHUB: "false"
+        run: python -m src.publish_news
+
+      - name: Publicar alteracoes
+        run: |
+          git config user.name "Nova Terra News Bot"
+          git config user.email "bot@novaterra.local"
+          git add noticias.json noticias.txt
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteracao no feed"
+            exit 0
+          fi
+          git commit -m "Atualizacao automatica do feed"
+          git push
