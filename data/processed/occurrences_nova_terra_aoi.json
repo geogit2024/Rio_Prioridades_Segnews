@@ -1051,7 +1051,7 @@
     "transports": [],
     "victims": [
       {
-        "id": "d2a9076c-15a8-4ffd-a167-168639c583d7",
+        "id": "cad2d566-36e6-4787-8fd0-39608b596480",
         "occurrenceId": "e213a5df-54b8-4f1c-9e9d-a03d03c7264f",
         "type": "People",
         "situation": "Dead",
@@ -1064,7 +1064,7 @@
         ],
         "deathDate": "2026-09-11T02:00:00.000Z",
         "personType": "Civilian",
-        "age": 30,
+        "age": 37,
         "ageGroup": {
           "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
           "name": "Adulto"
@@ -1118,7 +1118,7 @@
         "unit": ""
       },
       {
-        "id": "cad2d566-36e6-4787-8fd0-39608b596480",
+        "id": "d2a9076c-15a8-4ffd-a167-168639c583d7",
         "occurrenceId": "e213a5df-54b8-4f1c-9e9d-a03d03c7264f",
         "type": "People",
         "situation": "Dead",
@@ -1131,7 +1131,7 @@
         ],
         "deathDate": "2026-09-11T02:00:00.000Z",
         "personType": "Civilian",
-        "age": 37,
+        "age": 30,
         "ageGroup": {
           "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
           "name": "Adulto"
@@ -1370,6 +1370,149 @@
       "clippings": [],
       "massacre": false,
       "policeUnit": "PC (DRF); PM (UPP SOAO JOAO)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "80614b6f-f09a-4241-b0ba-8b7b5f545ffa",
+    "documentNumber": 79082,
+    "address": "Morro do São Carlos - Estácio, Rio de Janeiro - RJ, 20250-150, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "901e52d2-7012-48b3-b2c6-05bf333c8602",
+      "name": "ESTACIO"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "00d3e312-341c-4b59-b53b-505bf17abb77",
+      "name": "MORRO DO SAO CARLOS (COMPLEXO DO SAO CARLOS)"
+    },
+    "latitude": "-22.91824946\t",
+    "longitude": "-43.20363845",
+    "date": "2026-09-17T00:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "fb45daa3-52ed-4ec2-87b1-44b48fda2f6b",
+    "documentNumber": 79084,
+    "address": "R. Cordovil, Parada de Lucas, Rio de Janeiro - RJ, 21250-450, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "cffee0cf-d2d2-47ab-a9fd-ab4985bce02a",
+      "name": "PARADA DE LUCAS"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.818736470565923",
+    "longitude": "-43.302018061871344",
+    "date": "2026-09-17T16:30:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "db6e70f3-6550-446d-9e4a-cffb3078c259",
+    "documentNumber": 79085,
+    "address": "Complexo da Penha, Penha, Rio de Janeiro - RJ, 21072-590, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "9c1e0ddd-2d99-47ba-a72b-320af30c4bed",
+      "name": "PENHA"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "1a942e2e-5d97-41d2-9c3d-5ad7c060fb77",
+      "name": "COMPLEXO DA PENHA"
+    },
+    "latitude": "-22.84802717",
+    "longitude": "-43.28613964",
+    "date": "2026-09-17T18:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "a00fa7af-e091-46c1-8dc7-b8b60a144a9c",
+        "name": "Disputa"
+      },
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
     },
     "transports": [],
     "victims": [],
