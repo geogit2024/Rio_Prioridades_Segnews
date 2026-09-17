@@ -1,5 +1,49 @@
 [
   {
+    "datetime": "2026-09-17T18:35:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Ramos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8552552,
+    "lng": -43.2605562,
+    "address": "Rua Uranos, 1005",
+    "fetched_at": "2026-09-17T22:20:34.293915+00:00"
+  },
+  {
+    "datetime": "2026-09-17T16:30:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8223046,
+    "lng": -43.3009409,
+    "address": "Rua Aragão Gesteira, 96",
+    "fetched_at": "2026-09-17T22:20:34.293970+00:00"
+  },
+  {
+    "datetime": "2026-09-17T16:29:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8240447,
+    "lng": -43.3017907,
+    "address": "Praça Treze de Junho, 97a",
+    "fetched_at": "2026-09-17T22:20:34.293980+00:00"
+  },
+  {
+    "datetime": "2026-09-17T16:28:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8313548,
+    "lng": -43.3022253,
+    "address": "Estrada do Quitungo, 961",
+    "fetched_at": "2026-09-17T22:20:34.293990+00:00"
+  },
+  {
     "datetime": "2026-09-17T10:55:00+00:00",
     "type": "Assalto",
     "neighborhood": "Piedade",
@@ -86,5 +130,16 @@
     "lng": -43.2597941,
     "address": "Rua Barão do Bom Retiro, 2353",
     "fetched_at": "2026-09-17T19:27:17.278205+00:00"
+  },
+  {
+    "datetime": "17/09/2026, 17:46:01",
+    "type": "Tiroteio",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.892494,
+    "lng": -43.3327547,
+    "address": "Comunidade do Fubá",
+    "fetched_at": "2026-09-17T22:20:34.293938+00:00"
   }
 ]
