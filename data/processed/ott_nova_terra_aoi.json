@@ -1,5 +1,16 @@
 [
   {
+    "datetime": "2026-09-18T18:24:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Lins de Vasconcelos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9111876,
+    "lng": -43.2819769,
+    "address": "Rua Ernestina, 7",
+    "fetched_at": "2026-09-18T22:16:00.616179+00:00"
+  },
+  {
     "datetime": "2026-09-18T06:19:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Cascadura",
