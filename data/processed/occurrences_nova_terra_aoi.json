@@ -1517,5 +1517,49 @@
     "transports": [],
     "victims": [],
     "animalVictims": []
+  },
+  {
+    "id": "83fc2f2c-3ebb-44f0-84ad-96eb67050cc6",
+    "documentNumber": 79088,
+    "address": "R. Itapiru, Catumbi, Rio de Janeiro - RJ, 20251-030, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "4c3f50f6-0776-4ed4-9f5b-192613b2e819",
+      "name": "CATUMBI"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.9222658",
+    "longitude": "-43.1974191",
+    "date": "2026-09-17T22:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
   }
 ]
