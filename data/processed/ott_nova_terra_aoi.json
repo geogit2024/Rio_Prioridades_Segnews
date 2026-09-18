@@ -1,5 +1,16 @@
 [
   {
+    "datetime": "2026-09-17T23:13:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8178981,
+    "lng": -43.3083784,
+    "address": "Avenida Brasil, 208",
+    "fetched_at": "2026-09-18T05:11:46.761686+00:00"
+  },
+  {
     "datetime": "2026-09-17T18:35:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Ramos",
