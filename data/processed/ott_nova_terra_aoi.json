@@ -1,5 +1,38 @@
 [
   {
+    "datetime": "2026-09-18T06:19:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8813762,
+    "lng": -43.3307266,
+    "address": "Rua �ngelo Dantas, 69",
+    "fetched_at": "2026-09-18T09:45:17.598020+00:00"
+  },
+  {
+    "datetime": "2026-09-18T06:09:00+00:00",
+    "type": "Carros na contramão",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8809094,
+    "lng": -43.3309526,
+    "address": "Rua �ngelo Dantas, 82",
+    "fetched_at": "2026-09-18T09:45:17.598053+00:00"
+  },
+  {
+    "datetime": "2026-09-18T05:56:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9165886,
+    "lng": -43.2502461,
+    "address": "Boulevard 28 de Setembro, 420",
+    "fetched_at": "2026-09-18T09:45:17.598112+00:00"
+  },
+  {
     "datetime": "2026-09-17T23:13:00+00:00",
     "type": "Assalto",
     "neighborhood": "Vigário Geral",
