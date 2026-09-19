@@ -1,5 +1,27 @@
 [
   {
+    "datetime": "2026-09-19T17:28:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9286398,
+    "lng": -43.2535108,
+    "address": "Rua Dona Amélia, 74",
+    "fetched_at": "2026-09-19T21:01:51.867273+00:00"
+  },
+  {
+    "datetime": "2026-09-19T16:02:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.884806,
+    "lng": -43.313832,
+    "address": "Avenida Dom Hélder Câmara, 8986",
+    "fetched_at": "2026-09-19T21:01:51.867314+00:00"
+  },
+  {
     "datetime": "2026-09-19T14:01:00+00:00",
     "type": "Toque de recolher",
     "neighborhood": "Brás de Pina",
