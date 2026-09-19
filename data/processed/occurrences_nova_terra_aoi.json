@@ -1561,5 +1561,49 @@
     "transports": [],
     "victims": [],
     "animalVictims": []
+  },
+  {
+    "id": "b73085d3-042e-489b-986c-c33236bf5285",
+    "documentNumber": 79104,
+    "address": "Rua João Henrique - Cordovil, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "abb9ba0a-5915-4ba4-9ed6-037679beb45b",
+      "name": "CORDOVIL"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.8265798",
+    "longitude": "-43.3004059",
+    "date": "2026-09-19T05:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
   }
 ]
