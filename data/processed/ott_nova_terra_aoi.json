@@ -1,5 +1,38 @@
 [
   {
+    "datetime": "2026-09-18T22:48:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.828067,
+    "lng": -43.29769,
+    "address": "Rua Bertioga, 53",
+    "fetched_at": "2026-09-19T04:52:10.445669+00:00"
+  },
+  {
+    "datetime": "2026-09-18T22:38:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8303345,
+    "lng": -43.295955,
+    "address": "Rua Orica, 1230",
+    "fetched_at": "2026-09-19T04:52:10.445680+00:00"
+  },
+  {
+    "datetime": "2026-09-18T21:31:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8239006,
+    "lng": -43.3010908,
+    "address": "Rua Dourados, 6a",
+    "fetched_at": "2026-09-19T04:52:10.445713+00:00"
+  },
+  {
     "datetime": "2026-09-18T18:24:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Lins de Vasconcelos",
