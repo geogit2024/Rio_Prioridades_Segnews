@@ -1,5 +1,38 @@
 [
   {
+    "datetime": "2026-09-19T03:05:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8425552,
+    "lng": -43.3347292,
+    "address": "Metrô Colégio",
+    "fetched_at": "2026-09-19T09:05:59.094207+00:00"
+  },
+  {
+    "datetime": "2026-09-19T02:39:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Estácio",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9143864,
+    "lng": -43.2050104,
+    "address": "Rua Estácio de Sá, 87",
+    "fetched_at": "2026-09-19T09:05:59.094242+00:00"
+  },
+  {
+    "datetime": "2026-09-19T02:35:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9208705,
+    "lng": -43.2150763,
+    "address": "Rua do Bispo, 311",
+    "fetched_at": "2026-09-19T09:05:59.094263+00:00"
+  },
+  {
     "datetime": "2026-09-18T22:48:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Brás de Pina",
