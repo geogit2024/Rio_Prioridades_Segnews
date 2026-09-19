@@ -1,5 +1,16 @@
 [
   {
+    "datetime": "2026-09-19T14:01:00+00:00",
+    "type": "Toque de recolher",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8344389,
+    "lng": -43.3027813,
+    "address": "Estrada do Quitungo, 1267",
+    "fetched_at": "2026-09-19T18:42:30.222905+00:00"
+  },
+  {
     "datetime": "2026-09-19T13:15:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Cordovil",
