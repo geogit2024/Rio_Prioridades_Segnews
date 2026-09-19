@@ -1,5 +1,38 @@
 [
   {
+    "datetime": "2026-09-19T13:15:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8222995,
+    "lng": -43.30095,
+    "address": "Rua Aragão Gesteira, 96",
+    "fetched_at": "2026-09-19T16:27:46.622890+00:00"
+  },
+  {
+    "datetime": "2026-09-19T13:10:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8270787,
+    "lng": -43.3001932,
+    "address": "Rua João Henrique, 346",
+    "fetched_at": "2026-09-19T16:27:46.622922+00:00"
+  },
+  {
+    "datetime": "2026-09-19T13:08:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8313548,
+    "lng": -43.3022253,
+    "address": "Estrada do Quitungo, 961",
+    "fetched_at": "2026-09-19T16:27:46.622940+00:00"
+  },
+  {
     "datetime": "2026-09-19T03:05:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Irajá",
