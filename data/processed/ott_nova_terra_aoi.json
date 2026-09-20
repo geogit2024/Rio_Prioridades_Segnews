@@ -1,5 +1,38 @@
 [
   {
+    "datetime": "2026-09-19T21:37:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8925916,
+    "lng": -43.324568,
+    "address": "Rua Clarimundo de Melo, 847",
+    "fetched_at": "2026-09-20T00:51:30.908874+00:00"
+  },
+  {
+    "datetime": "2026-09-19T20:56:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8785016,
+    "lng": -43.3114935,
+    "address": "Rua Ada, 162f",
+    "fetched_at": "2026-09-20T00:51:30.908898+00:00"
+  },
+  {
+    "datetime": "2026-09-19T20:18:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8313548,
+    "lng": -43.3022253,
+    "address": "Estrada do Quitungo, 961",
+    "fetched_at": "2026-09-20T00:51:30.908908+00:00"
+  },
+  {
     "datetime": "2026-09-19T17:28:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Andaraí",
