@@ -1,5 +1,104 @@
 [
   {
+    "datetime": "2026-09-21T08:47:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8060539,
+    "lng": -43.3149972,
+    "address": "Rua Isidro Rocha, 12",
+    "fetched_at": "2026-09-21T14:08:07.251894+00:00"
+  },
+  {
+    "datetime": "2026-09-21T07:17:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Parada de Lucas",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8146065,
+    "lng": -43.2918635,
+    "address": "Avenida Brasil, 13656",
+    "fetched_at": "2026-09-21T14:08:07.251926+00:00"
+  },
+  {
+    "datetime": "2026-09-21T07:07:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Parada de Lucas",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8160928,
+    "lng": -43.2948518,
+    "address": "Rua Caruna, 600",
+    "fetched_at": "2026-09-21T14:08:07.251939+00:00"
+  },
+  {
+    "datetime": "2026-09-21T07:06:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8239006,
+    "lng": -43.3010908,
+    "address": "Rua Dourados, 6a",
+    "fetched_at": "2026-09-21T14:08:07.251952+00:00"
+  },
+  {
+    "datetime": "2026-09-21T06:50:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8195045,
+    "lng": -43.2959818,
+    "address": "Rua Luísa Aranha, 19",
+    "fetched_at": "2026-09-21T14:08:07.251963+00:00"
+  },
+  {
+    "datetime": "2026-09-21T06:46:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9153266,
+    "lng": -43.2440327,
+    "address": "Boulevard 28 de Setembro, 238",
+    "fetched_at": "2026-09-21T14:08:07.251974+00:00"
+  },
+  {
+    "datetime": "2026-09-21T06:42:00+00:00",
+    "type": "Falta de luz",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.82381,
+    "lng": -43.29609,
+    "address": "Rua Tail�ndia, 43",
+    "fetched_at": "2026-09-21T14:08:07.252006+00:00"
+  },
+  {
+    "datetime": "2026-09-21T06:27:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Parada de Lucas",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8155044,
+    "lng": -43.2935885,
+    "address": "Rua Pinto da Luz, 896",
+    "fetched_at": "2026-09-21T14:08:07.252022+00:00"
+  },
+  {
+    "datetime": "2026-09-21T06:19:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8207138,
+    "lng": -43.2917724,
+    "address": "Estrada do Porto Velho, 561",
+    "fetched_at": "2026-09-21T14:08:07.252033+00:00"
+  },
+  {
     "datetime": "2026-09-21T03:06:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Riachuelo",
