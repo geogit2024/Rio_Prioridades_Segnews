@@ -1,5 +1,104 @@
 [
   {
+    "datetime": "22/09/2026, 16:23:35",
+    "type": "Tiroteio",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9229884,
+    "lng": -43.2449626,
+    "address": "Rua Ladislau Neto, 63",
+    "fetched_at": "2026-09-22T22:06:56.758966+00:00"
+  },
+  {
+    "datetime": "2026-09-22T16:53:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9165886,
+    "lng": -43.2502461,
+    "address": "Boulevard 28 de Setembro, 420",
+    "fetched_at": "2026-09-22T22:06:56.758858+00:00"
+  },
+  {
+    "datetime": "2026-09-22T16:36:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9352778,
+    "lng": -43.2563889,
+    "address": "Estrada da Casa Branca, 195",
+    "fetched_at": "2026-09-22T22:06:56.758892+00:00"
+  },
+  {
+    "datetime": "2026-09-22T16:32:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9352778,
+    "lng": -43.2563889,
+    "address": "Estrada da Casa Branca, 195",
+    "fetched_at": "2026-09-22T22:06:56.758912+00:00"
+  },
+  {
+    "datetime": "2026-09-22T16:29:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9293683,
+    "lng": -43.2518611,
+    "address": "Travessa Vasconcelos, 25",
+    "fetched_at": "2026-09-22T22:06:56.758927+00:00"
+  },
+  {
+    "datetime": "2026-09-22T16:28:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.930095,
+    "lng": -43.252317,
+    "address": "Rua Feliz Lembrança, 40",
+    "fetched_at": "2026-09-22T22:06:56.758942+00:00"
+  },
+  {
+    "datetime": "2026-09-22T16:25:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9277778,
+    "lng": -43.2483333,
+    "address": "Rua França Júnior, 48",
+    "fetched_at": "2026-09-22T22:06:56.758955+00:00"
+  },
+  {
+    "datetime": "2026-09-22T16:23:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9276183,
+    "lng": -43.254072,
+    "address": "Rua Paula Brito, 394",
+    "fetched_at": "2026-09-22T22:06:56.758979+00:00"
+  },
+  {
+    "datetime": "2026-09-22T16:22:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Grajaú",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9266235,
+    "lng": -43.2568426,
+    "address": "Rua Botucatu, 337",
+    "fetched_at": "2026-09-22T22:06:56.758992+00:00"
+  },
+  {
     "datetime": "2026-09-22T07:47:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Cascadura",
