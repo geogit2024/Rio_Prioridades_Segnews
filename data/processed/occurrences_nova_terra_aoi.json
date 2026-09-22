@@ -1605,5 +1605,112 @@
     "transports": [],
     "victims": [],
     "animalVictims": []
+  },
+  {
+    "id": "801f04a8-46e5-4649-b971-dd0feefb52ff",
+    "documentNumber": 79125,
+    "address": "Favela de Vigário Geral (Complexo de Israel), Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "1c65d48b-5c56-4722-bac1-a7ee0fe7bbc1",
+      "name": "VIGARIO GERAL"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "179b8eb0-5db9-4622-8e36-6fc629127e1e",
+      "name": "FAVELA DE VIGARIO GERAL (COMPLEXO DE ISRAEL)"
+    },
+    "latitude": "-22.8086939",
+    "longitude": "-43.3071081",
+    "date": "2026-09-21T05:55:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "b70c8ccc-3c64-4189-8381-66b810a9797d",
+        "name": "Operação policial"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PC (DRFC-CAP)"
+    },
+    "transports": [
+      {
+        "id": "c9cf36c2-3427-4916-b0d7-1eefc0691170",
+        "occurrenceId": "801f04a8-46e5-4649-b971-dd0feefb52ff",
+        "transport": {
+          "id": "9aabafb2-1c17-4865-a680-e6e715e6f3aa",
+          "name": "Via"
+        },
+        "interruptedTransport": true,
+        "dateInterruption": "2026-09-21T06:00:00.000Z",
+        "releaseDate": null,
+        "transportDescription": "Avenida Brasil"
+      }
+    ],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "16a11787-2024-4f59-a5f0-646b0b8ca5f2",
+    "documentNumber": 79140,
+    "address": "Morro do Cruz - Andaraí, Rio de Janeiro - RJ, 20530-530, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "c4d3a042-9414-4585-af7e-21220079971e",
+      "name": "ANDARAI"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "8fee8760-ec73-4007-aced-c92ed57389e5",
+      "name": "MORRO DO CRUZ"
+    },
+    "latitude": "-22.930738",
+    "longitude": "-43.251766",
+    "date": "2026-09-21T17:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
   }
 ]
