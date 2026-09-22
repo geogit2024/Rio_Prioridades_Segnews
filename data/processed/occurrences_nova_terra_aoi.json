@@ -1410,8 +1410,8 @@
     "relatedRecord": "",
     "contextInfo": {
       "mainReason": {
-        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
-        "name": "Não identificado"
+        "id": "35befd16-552d-459c-8e27-44a98c81658d",
+        "name": "Tiros a esmo"
       },
       "complementaryReasons": [],
       "clippings": [],
@@ -1425,7 +1425,7 @@
   {
     "id": "fb45daa3-52ed-4ec2-87b1-44b48fda2f6b",
     "documentNumber": 79084,
-    "address": "R. Cordovil, Parada de Lucas, Rio de Janeiro - RJ, 21250-450, Brasil",
+    "address": "Favela Dourados - Cordovil, Rio de Janeiro - RJ, 21250-150, Brasil",
     "state": {
       "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
       "name": "Rio de Janeiro"
@@ -1446,16 +1446,16 @@
     },
     "subNeighborhood": null,
     "locality": null,
-    "latitude": "-22.818736470565923",
-    "longitude": "-43.302018061871344",
+    "latitude": "-22.82650326",
+    "longitude": "-43.29951507",
     "date": "2026-09-17T16:30:00.000Z",
     "policeAction": false,
     "agentPresence": false,
     "relatedRecord": "",
     "contextInfo": {
       "mainReason": {
-        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
-        "name": "Não identificado"
+        "id": "a00fa7af-e091-46c1-8dc7-b8b60a144a9c",
+        "name": "Disputa"
       },
       "complementaryReasons": [],
       "clippings": [],
@@ -1594,8 +1594,8 @@
     "relatedRecord": "",
     "contextInfo": {
       "mainReason": {
-        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
-        "name": "Não identificado"
+        "id": "a00fa7af-e091-46c1-8dc7-b8b60a144a9c",
+        "name": "Disputa"
       },
       "complementaryReasons": [],
       "clippings": [],
@@ -1711,6 +1711,368 @@
     },
     "transports": [],
     "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "6f0b05ea-6d83-410c-b88a-930ba8bf99fa",
+    "documentNumber": 79145,
+    "address": "Avenida Professor Manoel de Abreu - Maracanã, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "83e2acba-001d-4fb7-8e04-dd6bf8d71414",
+      "name": "MARACANA"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.9124771",
+    "longitude": "-43.233908",
+    "date": "2026-09-16T18:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "96992524-ebf7-4008-a999-81a179a91918",
+        "name": "Tentativa/Roubo"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [
+      {
+        "id": "415faca9-e18c-4734-8bb3-aa028c5675a0",
+        "occurrenceId": "6f0b05ea-6d83-410c-b88a-930ba8bf99fa",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Branca",
+        "place": {
+          "id": "67e5857c-4b33-4029-bf7e-0bf0d101be48",
+          "name": "Automóvel"
+        },
+        "serviceStatus": {
+          "id": "ae9c7004-78f7-42ce-9304-bac0642a760a",
+          "name": "De folga",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "9667590b-9374-4484-9c68-ecf0181b9184",
+            "name": "Outros",
+            "type": "Servico"
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      }
+    ],
+    "animalVictims": []
+  },
+  {
+    "id": "a259ffc2-e614-481d-8b4f-fd1797c6e8c4",
+    "documentNumber": 79146,
+    "address": "Tijuca, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "88e751a2-3a52-47d3-a70c-c55589021990",
+      "name": "TIJUCA"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.9324433",
+    "longitude": "-43.2411073",
+    "date": "2026-09-21T17:50:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+        "name": "Ação policial"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (UPP BOREL)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "317504f6-38be-48fa-b7f2-be4cf4800470",
+    "documentNumber": 79147,
+    "address": "Favela Fernão Cardim - Engenho de Dentro, Rio de Janeiro - RJ, 20771-020, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "e4279e45-ec69-415a-bafe-52997de955d3",
+      "name": "ENGENHO DE DENTRO"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "3a413203-751d-4684-ae44-ed45f5a9b892",
+      "name": "FAVELA FERNAO CARDIM"
+    },
+    "latitude": "-22.88555202\t",
+    "longitude": "-43.28747901",
+    "date": "2026-09-21T18:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "b5d74dbd-44e9-4d02-a05f-a96eb1c32bb0",
+    "documentNumber": 79148,
+    "address": "Morro dos Macacos - Vila Isabel, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "370d3866-fefb-4647-a068-009012249aa9",
+      "name": "VILA ISABEL"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "31a6e463-312f-446d-935e-04a661905335",
+      "name": "MORRO DOS MACACOS"
+    },
+    "latitude": "-22.91",
+    "longitude": "-43.2575",
+    "date": "2026-09-22T02:15:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": null,
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": null
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "0bfbc453-319c-4007-9043-3ecd7fce1f3f",
+    "documentNumber": 79161,
+    "address": "Rua Dias de Barros - Santa Teresa, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "5826a045-abb6-4b40-86ee-dde8b50d2f54",
+      "name": "SANTA TERESA"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.9181979",
+    "longitude": "-43.1820688",
+    "date": "2026-09-22T14:13:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "96992524-ebf7-4008-a999-81a179a91918",
+        "name": "Tentativa/Roubo"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [
+      {
+        "id": "ed33e1e4-ce46-4978-98b3-53e66b04e866",
+        "occurrenceId": "0bfbc453-319c-4007-9043-3ecd7fce1f3f",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Branca",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      }
+    ],
     "animalVictims": []
   }
 ]
