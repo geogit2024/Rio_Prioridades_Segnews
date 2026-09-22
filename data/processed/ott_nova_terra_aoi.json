@@ -1,5 +1,60 @@
 [
   {
+    "datetime": "2026-09-22T02:05:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9165886,
+    "lng": -43.2502461,
+    "address": "Boulevard 28 de Setembro, 420",
+    "fetched_at": "2026-09-22T06:11:30.815103+00:00"
+  },
+  {
+    "datetime": "2026-09-22T02:04:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.931224743398,
+    "lng": -43.246711378744,
+    "address": "Rua Garibaldi, 224",
+    "fetched_at": "2026-09-22T06:11:30.815133+00:00"
+  },
+  {
+    "datetime": "2026-09-22T01:29:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9165477,
+    "lng": -43.2568279,
+    "address": "Rua Visconde de Santa Isabel, 196",
+    "fetched_at": "2026-09-22T06:11:30.815148+00:00"
+  },
+  {
+    "datetime": "2026-09-22T01:05:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.922329,
+    "lng": -43.2477454,
+    "address": "Rua Maxwell, 443",
+    "fetched_at": "2026-09-22T06:11:30.815171+00:00"
+  },
+  {
+    "datetime": "2026-09-21T22:40:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Pilares",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8821786,
+    "lng": -43.295088,
+    "address": "Avenida Dom Hélder Câmara, 6845",
+    "fetched_at": "2026-09-22T06:11:30.815212+00:00"
+  },
+  {
     "datetime": "2026-09-21T21:40:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Irajá",
