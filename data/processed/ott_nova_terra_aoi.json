@@ -11,6 +11,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-23T02:09:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "São Francisco Xavier",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9021748,
+    "lng": -43.2552313,
+    "address": "Rua Vinte e Quatro de Maio, 406",
+    "fetched_at": "2026-09-23T09:56:49.903274+00:00"
+  },
+  {
     "datetime": "2026-09-22T22:13:00+00:00",
     "type": "Assalto",
     "neighborhood": "Parada de Lucas",
