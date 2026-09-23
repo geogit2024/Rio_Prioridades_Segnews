@@ -11,6 +11,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-23T15:17:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Bonsucesso",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8673347,
+    "lng": -43.2520114,
+    "address": "Avenida Bruxelas, 23",
+    "fetched_at": "2026-09-23T18:37:48.286853+00:00"
+  },
+  {
     "datetime": "2026-09-23T02:09:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "São Francisco Xavier",
