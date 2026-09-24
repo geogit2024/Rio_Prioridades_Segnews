@@ -22,6 +22,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-24T14:41:00+00:00",
+    "type": "Perseguição Policial",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8642644,
+    "lng": -43.2479153,
+    "address": "Avenida Brasil, 65",
+    "fetched_at": "2026-09-24T18:31:52.115432+00:00"
+  },
+  {
     "datetime": "2026-09-23T22:57:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Maré",
