@@ -22,6 +22,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-24T17:28:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Engenho da Rainha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.865215,
+    "lng": -43.2970248,
+    "address": "Rua Flora Rica, 39",
+    "fetched_at": "2026-09-24T21:48:14.903483+00:00"
+  },
+  {
     "datetime": "2026-09-24T14:41:00+00:00",
     "type": "Perseguição Policial",
     "neighborhood": "Manguinhos",
