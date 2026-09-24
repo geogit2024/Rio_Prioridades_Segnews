@@ -1,5 +1,16 @@
 [
   {
+    "datetime": "23/09/2026, 19:53:40",
+    "type": "Disparos Ouvidos",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8497333,
+    "lng": -43.3313792,
+    "address": "Rua Carolina Amado, 442",
+    "fetched_at": "2026-09-24T00:08:55.278007+00:00"
+  },
+  {
     "datetime": "22/09/2026, 16:23:35",
     "type": "Tiroteio",
     "neighborhood": "Andaraí",
@@ -9,6 +20,17 @@
     "lng": -43.2449626,
     "address": "Rua Ladislau Neto, 63",
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
+  },
+  {
+    "datetime": "2026-09-23T19:20:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9169511,
+    "lng": -43.256768,
+    "address": "Rua Visconde de Santa Isabel, 186",
+    "fetched_at": "2026-09-24T00:08:55.278038+00:00"
   },
   {
     "datetime": "2026-09-23T18:17:00+00:00",
