@@ -22,6 +22,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-24T21:06:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8166122,
+    "lng": -43.3128215,
+    "address": "Rua Mauro, 301",
+    "fetched_at": "2026-09-25T00:11:16.291618+00:00"
+  },
+  {
     "datetime": "2026-09-24T17:28:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Engenho da Rainha",
