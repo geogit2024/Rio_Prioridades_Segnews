@@ -22,6 +22,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-25T01:32:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Caju",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8807991,
+    "lng": -43.2278482,
+    "address": "Rua da Paz, 36",
+    "fetched_at": "2026-09-25T04:55:15.377706+00:00"
+  },
+  {
+    "datetime": "2026-09-25T00:57:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9420127,
+    "lng": -43.2507531,
+    "address": "Rua Conde de Bonfim, 1067",
+    "fetched_at": "2026-09-25T04:55:15.377740+00:00"
+  },
+  {
+    "datetime": "2026-09-25T00:01:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8850021,
+    "lng": -43.3351118,
+    "address": "Rua Cajuru, 180",
+    "fetched_at": "2026-09-25T04:55:15.377787+00:00"
+  },
+  {
+    "datetime": "2026-09-24T21:31:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Engenho de Dentro",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9092266,
+    "lng": -43.2967316,
+    "address": "Rua Camarista Méier, 625",
+    "fetched_at": "2026-09-25T04:55:15.377845+00:00"
+  },
+  {
     "datetime": "2026-09-24T21:06:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Vigário Geral",
