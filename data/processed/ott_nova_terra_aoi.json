@@ -22,6 +22,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-25T18:51:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Praça da Bandeira",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9122663,
+    "lng": -43.2133348,
+    "address": "Rua do Matoso, 39",
+    "fetched_at": "2026-09-25T22:17:21.520370+00:00"
+  },
+  {
+    "datetime": "2026-09-25T17:07:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8824151,
+    "lng": -43.3352074,
+    "address": "Avenida Ernani Cardoso, 209",
+    "fetched_at": "2026-09-25T22:17:21.520438+00:00"
+  },
+  {
     "datetime": "2026-09-25T07:49:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Maré",
