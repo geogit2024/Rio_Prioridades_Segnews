@@ -22,6 +22,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-25T06:51:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Mangueira",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9025508,
+    "lng": -43.2370745,
+    "address": "Rua General Bento Ribeiro, 6",
+    "fetched_at": "2026-09-25T09:56:29.320429+00:00"
+  },
+  {
+    "datetime": "2026-09-25T06:09:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Benfica",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.900278,
+    "lng": -43.2289292,
+    "address": "Rua São Luiz Gonzaga, 707",
+    "fetched_at": "2026-09-25T09:56:29.320482+00:00"
+  },
+  {
+    "datetime": "2026-09-25T06:01:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Mangueira",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9025508,
+    "lng": -43.2370745,
+    "address": "Rua General Bento Ribeiro, 6",
+    "fetched_at": "2026-09-25T09:56:29.320536+00:00"
+  },
+  {
+    "datetime": "2026-09-25T05:50:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Ramos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8504365,
+    "lng": -43.2441323,
+    "address": "Rua Ari Leão",
+    "fetched_at": "2026-09-25T09:56:29.320547+00:00"
+  },
+  {
     "datetime": "2026-09-25T01:32:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Caju",
