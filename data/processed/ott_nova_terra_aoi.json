@@ -22,6 +22,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-25T07:49:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8553403,
+    "lng": -43.2415953,
+    "address": "Rua Ivete Vargas, 33",
+    "fetched_at": "2026-09-25T14:56:55.556380+00:00"
+  },
+  {
     "datetime": "2026-09-25T06:51:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Mangueira",
