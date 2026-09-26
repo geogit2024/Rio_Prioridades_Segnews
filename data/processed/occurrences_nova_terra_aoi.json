@@ -2758,5 +2758,99 @@
     "transports": [],
     "victims": [],
     "animalVictims": []
+  },
+  {
+    "id": "988cdc16-27ac-42fd-9c9a-e2d2b3588034",
+    "documentNumber": 79221,
+    "address": "Rua Torres Homem, Morro dos Macacos - Vila Isabel, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "370d3866-fefb-4647-a068-009012249aa9",
+      "name": "VILA ISABEL"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "31a6e463-312f-446d-935e-04a661905335",
+      "name": "MORRO DOS MACACOS"
+    },
+    "latitude": "-22.9146107",
+    "longitude": "-43.2494949",
+    "date": "2026-09-25T20:53:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "5df06438-3b00-400d-9648-3afbf7cafed2",
+    "documentNumber": 79223,
+    "address": "Morro dos Macacos, Vila Isabel, Rio de Janeiro - RJ, 20551-232, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "370d3866-fefb-4647-a068-009012249aa9",
+      "name": "VILA ISABEL"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "31a6e463-312f-446d-935e-04a661905335",
+      "name": "MORRO DOS MACACOS"
+    },
+    "latitude": "-22.91189634",
+    "longitude": "-43.25524243",
+    "date": "2026-09-26T04:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
   }
 ]
