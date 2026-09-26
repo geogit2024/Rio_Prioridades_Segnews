@@ -22,6 +22,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-26T01:53:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9341535,
+    "lng": -43.234511,
+    "address": "Rua Sabóia Lima, 95",
+    "fetched_at": "2026-09-26T05:32:24.462387+00:00"
+  },
+  {
+    "datetime": "2026-09-26T01:43:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Pilares",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8814212,
+    "lng": -43.2934238,
+    "address": "Avenida João Ribeiro, 1",
+    "fetched_at": "2026-09-26T05:32:24.462414+00:00"
+  },
+  {
+    "datetime": "2026-09-25T23:48:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Engenho da Rainha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8652774,
+    "lng": -43.2970385,
+    "address": "Rua Flora Rica, 55",
+    "fetched_at": "2026-09-26T05:32:24.462429+00:00"
+  },
+  {
     "datetime": "2026-09-25T20:54:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Vila Isabel",
