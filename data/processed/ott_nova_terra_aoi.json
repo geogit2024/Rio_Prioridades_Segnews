@@ -1,5 +1,16 @@
 [
   {
+    "datetime": "27/09/2026, 11:18:39",
+    "type": "Disparos Ouvidos",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9276183,
+    "lng": -43.254072,
+    "address": "Rua Paula Brito",
+    "fetched_at": "2026-09-27T17:43:55.361862+00:00"
+  },
+  {
     "datetime": "23/09/2026, 19:53:40",
     "type": "Disparos Ouvidos",
     "neighborhood": "Irajá",
@@ -20,6 +31,28 @@
     "lng": -43.2449626,
     "address": "Rua Ladislau Neto, 63",
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
+  },
+  {
+    "datetime": "2026-09-27T12:19:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.832407567816,
+    "lng": -43.279467373122,
+    "address": "Avenida Lobo Júnior, 1387-1361",
+    "fetched_at": "2026-09-27T17:43:55.361849+00:00"
+  },
+  {
+    "datetime": "2026-09-27T11:14:00+00:00",
+    "type": "Incêndio",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.843249,
+    "lng": -43.2980265,
+    "address": "Rua Simão de Vasconcelos, 202",
+    "fetched_at": "2026-09-27T17:43:55.361877+00:00"
   },
   {
     "datetime": "2026-09-27T09:29:00+00:00",
