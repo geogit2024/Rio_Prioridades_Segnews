@@ -33,6 +33,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-27T17:28:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.916934,
+    "lng": -43.2414773,
+    "address": "Rua Teodoro da Silva, 255",
+    "fetched_at": "2026-09-27T23:11:51.427120+00:00"
+  },
+  {
     "datetime": "2026-09-27T12:19:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Penha Circular",
