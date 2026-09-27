@@ -22,6 +22,61 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-27T03:42:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.924297,
+    "lng": -43.215585,
+    "address": "Rua Joaquim Pizarro, 49",
+    "fetched_at": "2026-09-27T07:24:12.148948+00:00"
+  },
+  {
+    "datetime": "2026-09-27T03:26:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9123861,
+    "lng": -43.2497699,
+    "address": "Rua Conselheiro Otaviano, 47",
+    "fetched_at": "2026-09-27T07:24:12.148974+00:00"
+  },
+  {
+    "datetime": "2026-09-27T01:09:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Pilares",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8814212,
+    "lng": -43.2934238,
+    "address": "Avenida João Ribeiro, 1",
+    "fetched_at": "2026-09-27T07:24:12.148987+00:00"
+  },
+  {
+    "datetime": "2026-09-27T01:09:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Engenho de Dentro",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8855048,
+    "lng": -43.2867786,
+    "address": "Rua Fernão Cardim, 14",
+    "fetched_at": "2026-09-27T07:24:12.148997+00:00"
+  },
+  {
+    "datetime": "2026-09-27T00:04:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9316321,
+    "lng": -43.2395107,
+    "address": "Rua Conde de Bonfim, 656",
+    "fetched_at": "2026-09-27T07:24:12.149006+00:00"
+  },
+  {
     "datetime": "2026-09-26T06:19:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Tijuca",
