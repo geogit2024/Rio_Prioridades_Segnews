@@ -33,6 +33,72 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-28T04:13:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8518205,
+    "lng": -43.2431352,
+    "address": "Rua Darcí Vargas, 81",
+    "fetched_at": "2026-09-28T07:37:53.220963+00:00"
+  },
+  {
+    "datetime": "2026-09-28T03:15:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Mangueira",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9064112,
+    "lng": -43.238829,
+    "address": "Rua Visconde de Niterói, 675",
+    "fetched_at": "2026-09-28T07:37:53.220996+00:00"
+  },
+  {
+    "datetime": "2026-09-28T02:46:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8605813,
+    "lng": -43.2417459,
+    "address": "Rua Capitão Carlos, 55",
+    "fetched_at": "2026-09-28T07:37:53.221010+00:00"
+  },
+  {
+    "datetime": "2026-09-28T02:09:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9409845,
+    "lng": -43.6709774,
+    "address": "Via B-1, 25",
+    "fetched_at": "2026-09-28T07:37:53.221049+00:00"
+  },
+  {
+    "datetime": "2026-09-28T01:32:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8666169,
+    "lng": -43.239611,
+    "address": "Avenida Canal, 32",
+    "fetched_at": "2026-09-28T07:37:53.221062+00:00"
+  },
+  {
+    "datetime": "2026-09-27T23:04:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8800452,
+    "lng": -43.2411175,
+    "address": "Avenida Brasil, 143",
+    "fetched_at": "2026-09-28T07:37:53.221097+00:00"
+  },
+  {
     "datetime": "2026-09-27T21:13:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Andaraí",
