@@ -33,6 +33,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-28T12:56:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Cidade Universitária",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.838651,
+    "lng": -43.2405546,
+    "address": "Rua Professor Rodolpho Paulo Rocco, 259",
+    "fetched_at": "2026-09-28T15:57:26.036528+00:00"
+  },
+  {
+    "datetime": "2026-09-28T11:47:00+00:00",
+    "type": "Carros na contramão",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8588096,
+    "lng": -43.2378529,
+    "address": "Rua Capitão Carlos, 355",
+    "fetched_at": "2026-09-28T15:57:26.036560+00:00"
+  },
+  {
+    "datetime": "2026-09-28T08:55:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Cidade Universitária",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8421795,
+    "lng": -43.234784,
+    "address": "Avenida Carlos Chagas Filho, 373",
+    "fetched_at": "2026-09-28T15:57:26.036592+00:00"
+  },
+  {
     "datetime": "2026-09-28T04:13:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Maré",
