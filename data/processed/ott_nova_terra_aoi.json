@@ -1,5 +1,16 @@
 [
   {
+    "datetime": "28/09/2026, 17:47:22",
+    "type": "Toque de recolher",
+    "neighborhood": "Tomás Coelho",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8658219,
+    "lng": -43.310471,
+    "address": "Rua J. J. Cowsert, 306-320",
+    "fetched_at": "2026-09-28T21:35:35.168305+00:00"
+  },
+  {
     "datetime": "27/09/2026, 11:18:39",
     "type": "Disparos Ouvidos",
     "neighborhood": "Andaraí",
@@ -31,6 +42,28 @@
     "lng": -43.2449626,
     "address": "Rua Ladislau Neto, 63",
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
+  },
+  {
+    "datetime": "2026-09-28T17:23:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8766619,
+    "lng": -43.2374917,
+    "address": "Rua José Moreira Pequeno, 47",
+    "fetched_at": "2026-09-28T21:35:35.168384+00:00"
+  },
+  {
+    "datetime": "2026-09-28T16:22:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8256699,
+    "lng": -43.2995012,
+    "address": "Rua Dourados, 251",
+    "fetched_at": "2026-09-28T21:35:35.168423+00:00"
   },
   {
     "datetime": "2026-09-28T12:56:00+00:00",
