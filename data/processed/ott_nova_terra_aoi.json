@@ -44,6 +44,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-29T02:15:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Todos os Santos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.888074,
+    "lng": -43.2842948,
+    "address": "Rua José Bonifácio, 1055",
+    "fetched_at": "2026-09-29T07:08:26.432467+00:00"
+  },
+  {
+    "datetime": "2026-09-29T01:26:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9298162,
+    "lng": -43.2534437,
+    "address": "Rua Leopoldo, 610",
+    "fetched_at": "2026-09-29T07:08:26.432541+00:00"
+  },
+  {
+    "datetime": "2026-09-29T00:09:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9252251,
+    "lng": -43.202278,
+    "address": "Rua Itapiru, 1275",
+    "fetched_at": "2026-09-29T07:08:26.432557+00:00"
+  },
+  {
+    "datetime": "2026-09-28T23:21:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Engenho da Rainha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8661517,
+    "lng": -43.2975809,
+    "address": "Estrada Adhemar Bebiano, 4441",
+    "fetched_at": "2026-09-29T07:08:26.432582+00:00"
+  },
+  {
     "datetime": "2026-09-28T20:40:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Maria da Graça",
