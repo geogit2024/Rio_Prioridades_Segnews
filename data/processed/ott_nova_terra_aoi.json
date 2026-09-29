@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-29T16:06:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Maria da Graça",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8819385,
+    "lng": -43.2653735,
+    "address": "Rua Domingos de Magalhães, 1213",
+    "fetched_at": "2026-09-29T19:24:05.134723+00:00"
+  },
+  {
+    "datetime": "2026-09-29T11:46:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cidade Universitária",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8648339,
+    "lng": -43.2200297,
+    "address": "UFRJ",
+    "fetched_at": "2026-09-29T19:24:05.134780+00:00"
+  },
+  {
     "datetime": "2026-09-29T02:15:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Todos os Santos",
