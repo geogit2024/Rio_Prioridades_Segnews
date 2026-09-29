@@ -44,6 +44,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-28T20:40:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Maria da Graça",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8796483,
+    "lng": -43.2600017,
+    "address": "Avenida Dom Hélder Câmara, 2540",
+    "fetched_at": "2026-09-29T01:15:46.176327+00:00"
+  },
+  {
+    "datetime": "2026-09-28T20:33:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Maria da Graça",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8851846,
+    "lng": -43.26747,
+    "address": "Rua Fernando Esquerdo, 624",
+    "fetched_at": "2026-09-29T01:15:46.176346+00:00"
+  },
+  {
+    "datetime": "2026-09-28T20:26:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Engenho de Dentro",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8939154,
+    "lng": -43.2954699,
+    "address": "Rua José dos Reis, 161",
+    "fetched_at": "2026-09-29T01:15:46.176359+00:00"
+  },
+  {
+    "datetime": "2026-09-28T20:14:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8361906,
+    "lng": -43.2759767,
+    "address": "Avenida Montevideu, 900",
+    "fetched_at": "2026-09-29T01:15:46.176373+00:00"
+  },
+  {
     "datetime": "2026-09-28T17:23:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Maré",
