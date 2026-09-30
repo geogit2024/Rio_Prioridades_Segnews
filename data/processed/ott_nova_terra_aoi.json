@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-30T05:44:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8216262,
+    "lng": -43.2851366,
+    "address": "Rua Cinqüenta e Um, 721",
+    "fetched_at": "2026-09-30T15:10:12.217016+00:00"
+  },
+  {
     "datetime": "2026-09-29T23:38:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Penha Circular",
