@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-29T23:38:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8395971,
+    "lng": -43.2982889,
+    "address": "Avenida Brás de Pina, 966",
+    "fetched_at": "2026-09-30T08:29:38.739672+00:00"
+  },
+  {
+    "datetime": "2026-09-29T23:34:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8313548,
+    "lng": -43.3022253,
+    "address": "Estrada do Quitungo, 961",
+    "fetched_at": "2026-09-30T08:29:38.739683+00:00"
+  },
+  {
     "datetime": "2026-09-29T16:06:00+00:00",
     "type": "Assalto",
     "neighborhood": "Maria da Graça",
