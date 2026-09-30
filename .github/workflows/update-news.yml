@@ -40,11 +40,13 @@ jobs:
         run: |
           git config user.name "Nova Terra News Bot"
           git config user.email "bot@novaterra.local"
+          echo "Arquivos alterados pelo scraper:"
+          git status --short
           git add noticias.json noticias.txt
           if git diff --cached --quiet; then
             echo "Nenhuma alteracao no feed"
             exit 0
           fi
           git commit -m "Atualizacao automatica do feed"
-          git pull --rebase origin main
+          git pull --rebase --autostash origin main
           git push
