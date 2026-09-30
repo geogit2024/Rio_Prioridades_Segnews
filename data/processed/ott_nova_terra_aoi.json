@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-30T19:48:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8805819,
+    "lng": -43.3306318,
+    "address": "Rua Carolina Machado, 80",
+    "fetched_at": "2026-09-30T23:34:46.861476+00:00"
+  },
+  {
+    "datetime": "2026-09-30T18:52:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8651451,
+    "lng": -43.2477756,
+    "address": "Hospital de Bonsucesso",
+    "fetched_at": "2026-09-30T23:34:46.861487+00:00"
+  },
+  {
     "datetime": "2026-09-30T05:44:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Brás de Pina",
