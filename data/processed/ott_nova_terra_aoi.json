@@ -44,6 +44,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-01T17:21:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Engenho de Dentro",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.886477,
+    "lng": -43.2883232,
+    "address": "Rua Ibiraci, 18",
+    "fetched_at": "2026-10-01T21:10:59.694589+00:00"
+  },
+  {
+    "datetime": "2026-10-01T17:15:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Engenho de Dentro",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8971615,
+    "lng": -43.2986802,
+    "address": "Rua Daniel Carneiro, 130",
+    "fetched_at": "2026-10-01T21:10:59.694637+00:00"
+  },
+  {
+    "datetime": "2026-10-01T17:04:00+00:00",
+    "type": "Carros na contramão",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8661431,
+    "lng": -43.2400438,
+    "address": "Avenida Bento Ribeiro Dantas, 436",
+    "fetched_at": "2026-10-01T21:10:59.694656+00:00"
+  },
+  {
+    "datetime": "2026-10-01T13:34:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8408891,
+    "lng": -43.3132319,
+    "address": "Avenida Meriti, 2086",
+    "fetched_at": "2026-10-01T21:10:59.694693+00:00"
+  },
+  {
     "datetime": "2026-10-01T00:19:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Cascadura",
