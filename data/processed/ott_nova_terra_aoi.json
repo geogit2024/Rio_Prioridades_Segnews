@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-09-30T22:22:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8344542,
+    "lng": -43.3262397,
+    "address": "Avenida Monsenhor Félix, 1090",
+    "fetched_at": "2026-10-01T02:25:03.608575+00:00"
+  },
+  {
+    "datetime": "2026-09-30T21:24:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8796641,
+    "lng": -43.3191425,
+    "address": "Rua do Amparo, 485",
+    "fetched_at": "2026-10-01T02:25:03.608614+00:00"
+  },
+  {
     "datetime": "2026-09-30T19:48:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Cascadura",
