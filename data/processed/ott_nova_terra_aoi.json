@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-01T00:19:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8850021,
+    "lng": -43.3351118,
+    "address": "Rua Cajuru, 180",
+    "fetched_at": "2026-10-01T09:11:43.446514+00:00"
+  },
+  {
     "datetime": "2026-09-30T22:22:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Irajá",
