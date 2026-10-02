@@ -44,6 +44,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-02T03:23:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8235245,
+    "lng": -43.2902859,
+    "address": "Avenida Antenor Navarro, 921",
+    "fetched_at": "2026-10-02T06:29:49.564039+00:00"
+  },
+  {
+    "datetime": "2026-10-02T00:11:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vasco da Gama",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8892204,
+    "lng": -43.227985,
+    "address": "Rua Ricardo Machado, 436",
+    "fetched_at": "2026-10-02T06:29:49.564093+00:00"
+  },
+  {
+    "datetime": "2026-10-01T22:08:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Sampaio",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.896561,
+    "lng": -43.2597312,
+    "address": "Rua Luís Zancheta, 12",
+    "fetched_at": "2026-10-02T06:29:49.564107+00:00"
+  },
+  {
     "datetime": "2026-10-01T21:20:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Irajá",
