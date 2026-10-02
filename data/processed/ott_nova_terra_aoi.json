@@ -44,6 +44,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-01T21:20:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8419254,
+    "lng": -43.3236326,
+    "address": "Avenida Monsenhor Félix, 738",
+    "fetched_at": "2026-10-02T00:45:50.209305+00:00"
+  },
+  {
+    "datetime": "2026-10-01T19:18:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Engenho Novo",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9025455,
+    "lng": -43.2647712,
+    "address": "Rua Vinte e Quatro de Maio, 797",
+    "fetched_at": "2026-10-02T00:45:50.209329+00:00"
+  },
+  {
+    "datetime": "2026-10-01T18:27:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Inhaúma",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8321041,
+    "lng": -43.3426886,
+    "address": "Avenida Pastor Martin Luther King Junior, 207",
+    "fetched_at": "2026-10-02T00:45:50.209343+00:00"
+  },
+  {
     "datetime": "2026-10-01T17:21:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Engenho de Dentro",
