@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-02T11:53:00+00:00",
+    "type": "Toque de recolher",
+    "neighborhood": "Vila Kosmos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8536931,
+    "lng": -43.3037194,
+    "address": "Rua XV de Novembro, 21",
+    "fetched_at": "2026-10-02T18:23:19.547387+00:00"
+  },
+  {
+    "datetime": "2026-10-02T11:30:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vila Kosmos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8536931,
+    "lng": -43.3037194,
+    "address": "Rua XV de Novembro, 21",
+    "fetched_at": "2026-10-02T18:23:19.547446+00:00"
+  },
+  {
     "datetime": "2026-10-02T03:23:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Cordovil",
@@ -1703,5 +1725,16 @@
     "lng": -43.3327547,
     "address": "Comunidade do Fubá",
     "fetched_at": "2026-09-17T22:20:34.293938+00:00"
+  },
+  {
+    "datetime": "02/10/2026, 11:48:43",
+    "type": "Disparos Ouvidos",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.844146,
+    "lng": -43.3094211,
+    "address": "Vila da Penha, Rio de Janeiro",
+    "fetched_at": "2026-10-02T18:23:19.547423+00:00"
   }
 ]
