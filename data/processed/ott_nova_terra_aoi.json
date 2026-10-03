@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-03T04:44:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8313548,
+    "lng": -43.3022253,
+    "address": "Estrada do Quitungo, 961",
+    "fetched_at": "2026-10-03T12:03:38.598986+00:00"
+  },
+  {
     "datetime": "2026-10-03T00:24:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Vila da Penha",
