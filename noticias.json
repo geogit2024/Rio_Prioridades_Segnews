@@ -1,5 +1,11 @@
 [
   {
+    "title": "Campanha ao governo do RJ foi marcada por segurança, economia e serviços públicos; veja propostas",
+    "date": "2026-10-03T05:00:00+00:00",
+    "source": "G1 Rio de Janeiro",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/campanha-ao-governo-do-rj-foi-marcada-por-seguranca-economia-e-servicos-publicos-veja-propostas.ghtml"
+  },
+  {
     "title": "Goytacaz recebe o Duque de Caxias em confronto direto pelo G-4 da Série B1 - GF Esporte",
     "date": "2026-10-02T22:29:26+00:00",
     "source": "GF Esporte",
@@ -126,12 +132,6 @@
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVAzYnltMmg0SndmQ0U1aC05SHA1cUF5UnJVci1VeG5HNDIzZWhKT2hrNlF2STA5WlY0M0pXcXdwWUpLZzVDNzZjM3hUaHZqVFBURXZsUE9vZlExaG14VlVtNHFDTksyTWQtTGxVX0laRXhyaXhNOHRUUEJwYVJxUjZHUlZDZllzeXJXM1BILUk5UQ?oc=5"
   },
   {
-    "title": "Rio: Operação no Complexo da Maré deixa três mortos, diz secretaria - iBand CE",
-    "date": "2026-09-28T22:34:00+00:00",
-    "source": "iBand CE",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZktkNDZWTXV5d0NaSGtYYlpuNU8yc09ZSTB4bU53Skx5YXlnZDVVQUdVWW4xYVQxOWNJZXJEclFFeFFZdldoWXNWQnZlek51U0R2R3FsaDRpZUxQQ002blg5OG5HT09vNDMxLTFkWjFqcGhraTVHZ2JrWk03U19MMVNkSlJFNk9sUEVBOW1DY1FxRlk?oc=5"
-  },
-  {
     "title": "Três traficantes morreram durante confronto com PMs no Complexo da Maré, no Rio - R7",
     "date": "2026-09-28T22:32:41+00:00",
     "source": "R7",
@@ -144,9 +144,9 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbDZFUmVyeFM3Vk8yOFBlLUxHanpQOFh0MTNreDZtak5DVi1GREJQT01DczItbl9sVXVPZTBYZkEyYnVzdkNIZXJNaHpzQkRKX2RmREJrdHZvbTlQdDBaOVJNZFM3Y0VZSVhyYmpNcWl6QXBDVkJILVpCZUl0Y1YxcEFHekZPRk9vNHBSVV9oSktyR2F4TTU1OEl4ZURnRElkNkJtM0FXSlJOWXExXzZORldNUmtrRVozUHVDMG85N3JLZE5vY1BGTdIB1wFBVV95cUxQWkpqT0w3WFpVdTVHNjBJeWl4ZFJadkpJR1hYYVpoZ1pqUEh2VmktYUpTQ19iS2w4THQ5WTVOcnNtb19DUEdKNFd0U2NXRTgxV2RkbVI1eGN3R1V0UUdFeU11ZTVJRXQwVldEbGR0TDI2U2xva0JCNGVPWWM3ZjktVFo4UU94TkYzdW1VMTZyT0RjdFRXWXpPSTQ0TnUtNDkybGJpYS00ZEhVNDE2aXFtU2htRWhpNkFndkg0dmMxWUpHNXJTcGx6cFhtaFhYZnZxOG5wclFYUQ?oc=5"
   },
   {
-    "title": "Rio: Operação no Complexo da Maré deixa três mortos, diz secretaria - jornalpontagrossa.com.br",
+    "title": "Rio: Operação no Complexo da Maré deixa três mortos, diz secretaria - Jornal Ponta Grossa",
     "date": "2026-09-28T20:20:04+00:00",
-    "source": "jornalpontagrossa.com.br",
+    "source": "Jornal Ponta Grossa",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1RpYV9pZ3piZVo2UzB1V0xhVk9DV2xVWGkzaXNhRTdGcDZNQ3J0RFFPdnd1T2praTN0TjBsZHFnbnNueFpmZFNBSExsQzBmUzdQbFFaWko0aFZBYmljOWFnRDgzZEpwVUtkRHc3ZENKNXJSM00waWV1aTZ1ZWt2NGVKYXdJeGRGTWNVWUxNdmlvalpZSDFudmREUmRXbTJwNjRSV2xzdHRPTTdzZlAxUng4WFBGY05U?oc=5"
   },
   {
@@ -180,15 +180,9 @@
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWHBsY3FLaWNQN0lRR25TUTZya1d1ZTdNQzhNankzT0RFcXFLYTNnV1BqQTFiNUxMTHR2WHB3dGM5YlVVQ3JKd05kZ1hpNy1SSWlzTTcwRUljNnV6MEUwUmxVWWpQaVBPbGhMREdMX21NVE9MTm02MEZCYVhEcHF1UFdJMFRyZEEyZlExUk8tdWhqTjhsc2h6V2VlSXJ6RVgtRDdiMjM1NjZ2MkZQU29sSFFWejVvVUVlbm5BbA?oc=5"
   },
   {
-    "title": "Rio: Operação no Complexo da Maré deixa três mortos, diz secretaria - Tribuna do Norte Apucarana - tribunadonorte.com",
-    "date": "2026-09-28T19:34:00+00:00",
-    "source": "tribunadonorte.com",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1JuZmQ0aUV6a0VOSTBPNXcycHlRZ0hnWW1SVzZoVFFhMUlNN2Y4NzlMeUNlOXVXdGxqUXJSNVlqM1VLZXdsZWFiblR1MDF3ZGVzc2hzZjJ3QXoxVTZnTHdINEJKb3RNakdGNk5qcDVvR1RkNHJfN1c3WVlla0s3Y0JMQTVmRWY0NDB5T2ZfTEhpZEVCLTRicEVqTi1SNzJ3RnhUMDZscGliQdIBsgFBVV95cUxNbDlrU21OOF9oTmh6aVlacGhjS1hhcFBCS2VGN20wbENxUEphSDRaS3FiYXM2ZzgxN0lHdTdmWV94WmNRLXkzdXp6LWtTRkxuOWF5Z1lvWVR6ZFYwYU9BUUhxVG9EMC05UnJfbjhXOHZBR1dnNlRTdzFTazlOS1ZhMFFzNjZJNXQyR0g0TktrN1loSEpfd05tZVF5QUlIWWhGTGhNMlJ1Q3FDdV9zMktYTjZR?oc=5"
-  },
-  {
-    "title": "VÍDEOS – Complexo da Maré no Rio tem confronto entre PM e facção TCP - Diário do Centro do Mundo",
+    "title": "VÍDEOS – Complexo da Maré no Rio tem confronto entre PM e facção TCP - diariodocentrodomundo.com.br",
     "date": "2026-09-28T19:28:40+00:00",
-    "source": "Diário do Centro do Mundo",
+    "source": "diariodocentrodomundo.com.br",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMmtoUnFBdVU0dUJwWjVydWVYZThXSm5NUFo1a09pVGZncWgxUXRpUV9vdmlQRXRNWEVKNTd1eHEzNExSbVhGckpFOXNuUTU1RkVQbDM1Ym81cGRpYlZ0Z1ctMTZHcFhwM2hQeVRwM0M0dkVybVNfVE1xSnVPQnJrRFdlYUFMMHBQQlI5Vk1rQjR0UnZJeW5iMVJSbEJfSjl4bExHUDd4WURXdDhp?oc=5"
   },
   {
@@ -270,16 +264,28 @@
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5INW1aV3NIQmR0WDduOXBCMTZwVXZkVDdGN0dwcmp0bW1BdTdHejN2OHJBVlo3Ujc4Y0tNdExCZ1hlMm5pTmZWWnh2TzF5SC0tbjRlS2Qxc3Fhb0tXTnhrd3BHdjVtQm1t?oc=5"
   },
   {
+    "title": "Operação da PM no Complexo da Maré deixa um morto e 12 baleados - O São Gonçalo - osaogoncalo.com.br",
+    "date": "2026-09-28T13:32:44+00:00",
+    "source": "osaogoncalo.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWk9HUVkyeDA3UjdWNmNKR2JUT19DT1ZWcEp3RVYwZzF6VnNERXhHTVpSSXluLXlKSDhsVTd5U1lyZG1CZDRnS1VmRkZjQlRBdXVfOVRSWFBOSmVDOVcxWV9mQzNLcHpRb2d2UnIwaTJQRE9ycDV2cnNoYjBPT0xYM05ScGlIelQ3endlVkZ4cjRZVXJpOXFTX2VDV204dEZTOFZjMUxWVTJLY2l0dGZ4cEFubVZsRFFMa2RV0gHDAUFVX3lxTE56di1STDVBaG9lVjNRSkVPUFA1elZ2UG5MOUl2dklxSUM1UzdWRzBMNHVXVGJzdjltc0JUVklBRDQ3RHBwN0g3MFdGY3djUU55TW5NTkRMRk41SlVlLXgzQk91andHaV92U0FwWEtPUkhNcUJGdVlQOTItdjdPQnFLVEg3WEp6ODFRRFMtV05HZEUwQXB2TmtiZkZuNEtudHZ6Y2l3MUFZak83aTVlZWVnUV91ZHBMR3EwMnpXZV9xeXVLaw?oc=5"
+  },
+  {
     "title": "Operação da PM no Complexo da Maré deixa um morto e 12 baleados no Rio - Jornal de Brasília",
     "date": "2026-09-28T13:23:19+00:00",
     "source": "Jornal de Brasília",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOekwtZlhZNXVrTTl1NHl6VEJ5ZGR5enlYTHNRMDRCd19TRmRBT1U5cnoyX3BNdURFSE16Sks5QjFlcnJpSnpsc2lmWXZKZjJCcFItTmxNWkFmR1hlT3dabUlwU2s1c2FtdjJjSzh4QjZZMENpamU0SXZ3ZlROVWEwOVhJMXFwelBVYVI5UV9WdmlxcFc0c1NEZjRQZmdkQ1lENlo3UzdsOXVJV1g3c3BfUjgtVEZvNHFFSGUyRExqOA?oc=5"
   },
   {
-    "title": "Operação no Complexo da Maré tem sete presos, 12 feridos e um policial baleado - acervo.estadao.com.br",
+    "title": "Operação no Complexo da Maré tem sete presos, 12 feridos e um policial baleado - Estadão",
     "date": "2026-09-28T13:18:41+00:00",
-    "source": "acervo.estadao.com.br",
+    "source": "Estadão",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDlYQkpJcWJIVUtnMjMtOUotRTl6b1lzQmh1N0dkR3ZfdnJ1TUx6dXBkS0Q4VHE1dTcxUnNIT0VnY0taU0ZaZ0hGZ0UyNmJUeHQ1M28xLTcwcl9NU0I2Zm1KM2lkcGNKNlU2RmdJS21mcGUwc01TUVg1OWpnOTc5aDRTQlh0M2puTlNNSERhTExMdXhXMDY2OEhqM3NmNEc4d2RUVU03UEJpZ9IBqwFBVV95cUxNNl9iN2NpUmdweXg1a3FjMkxQTDZpS0xmMVFBZDh2dUkxMUYtQ2hzUTF5NmZ4M0RIYnQ1a2lwT1hMa3Y1OHpibE8zTk1UM3BkemFVY3BJME1DQV9PcmE4M3VqY1lUckpKdHhjbW9mNmFRdFMwd0lNS0pXT3VuYm9MZlBTbE9rbmhFb1RIUzN0WDNrOFgwYl84MjB6MEZ1YnhodnhDd1otcTNpNHc?oc=5"
+  },
+  {
+    "title": "Operação no Complexo da Maré tem sete presos, 12 feridos e um policial baleado - Estadão",
+    "date": "2026-09-28T13:18:41+00:00",
+    "source": "Estadão",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0QzRDJJb0RBZFRVTEc2TWlmdmpfY2lHbl9NRFF2cG45OWEtemtmbUwta2lrSEFodTJ3cGZ1dkJ3bkpPMlMzSy1CQnVLU1h5MDZmbkpoVWhDMjJJTnhodEJoOVJoZmh2elpFVnNGSTF0cVNtWmZlamhaTUpMbkRYeTlpRjExTXVnRW5iTWRaM1hHWU9Iczk1anRHY1lldDVQMDFhZlF30gGrAUFVX3lxTE02X2I3Y2lSZ3B5eDVrcWMyTFBMNmlLTGYxUUFkOHZ1STExRi1DaHNRMXk2ZngzREhidDVraXBPWExrdjU4emJsTzNOTVQzcGR6YVVjcEkwTUNBX09yYTgzdWpjWVRySkp0eGNtb2Y2YVF0UzB3SU1LSldPdW5ib0xmUFNsT2tuaEVvVEhTM3RYM2s4WDBiXzgyMHowRnVieGh2eEN3Wi1xM2k0dw?oc=5"
   },
   {
     "title": "Polícia Militar realiza operação no Complexo da Maré, resultando em prisões, feridos e apreensões de armamentos em combate ao tráfico de drogas. - Repórter Maceió",
@@ -337,7 +343,7 @@
   },
   {
     "title": "Vídeo: operação da PM tem morto, baleados e presos no Complexo da Maré; 41 escolas são fechadas - Agenda do Poder",
-    "date": "2026-09-28T10:19:00+00:00",
+    "date": "2026-09-28T10:21:26+00:00",
     "source": "Agenda do Poder",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVR4LWtIYmlVeHM1SVNlQ2NzQm5vTzM2T2kwSk5yS0o4LWVoRWxtRVNWYXIwZ0FucEo0N05pcUlfaWpJOUlfQ2hCTk45X19TbzBmbkc0YzFLVFhrVVF1a2tYVEtKOXNDV3pBbW0zclNnNlNoM29iX0NzLVZWcTVOZGpRSFEtbXJzUnk3cmpCREhibUZfRVlidlpHTm53N3hrcmh2LXc2d2k0MlMyY3lCb1V0blFtSWdKUnVkRmo3dw?oc=5"
   },
@@ -1008,9 +1014,9 @@
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS01iR3l4Sjg0aGEyalhSSHAzbkRpTGpPLUNqM1loaENycjI4TVg2OC1LWjdlYXhNQk4tcHVycE4wRkdHM3ozaFJzNnZmNUhub2wtbkJrSzRtWm9JcXFJVFR4Z21zaWRJdUlBb2FZaktPZlZuVGd3ZXNxTmFEWDBEMF9idGNTZ3ZwdktaUFlOemo4R1pnZXZVcGFCWTZWRnF3RFBrRXNiYTlaNEZJcXVTRnNyNV9CdmJFbzVpSlg2ckZQcVR4Q1dEczR0MGhKd9IB3AFBVV95cUxOUXdNUUZUWHJxdC1DUWd1aFVoTmZFNzV4aEo4b2NnVDZuNU41R1pDbUFpNm9ESXdjSUtNSXBRV0NrdmI5MkQzVmNCbTJ3ZEpsUEIwYnYyT1lvdUZGUHpCLVNNU2tGVjJiLVBQdmtER1Z4ZGlIWHFPTF80ZGktclAtYjd2cUxiN012TXQwbl9XSG1yX01DRng1TVNwWDhfR2VmdFlhd19fS2Uyd09penRsWF8tSDRMQUZHUzg3dFN2VzRDVk5wdm1rWXMxMFBXX1diUDI5d3lVd1U4VzBS?oc=5"
   },
   {
-    "title": "Documentário sobre violência de gênero estreia na sexta-feira no Shopping Bonsucesso - Click Guarulhos",
+    "title": "Documentário sobre violência de gênero estreia na sexta-feira no Shopping Bonsucesso - clickguarulhos.com.br",
     "date": "2026-08-02T07:00:00+00:00",
-    "source": "Click Guarulhos",
+    "source": "clickguarulhos.com.br",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdl9KY1pDOV9FM0xkZjN5d21nRnhQdm43bjVOZEtGVWRJbkh1NWxnR0RvakVTZ0NJQUxzaVpOOEh1Xzhla1BmcENmcFVJNGpJaTU1aGJBMHBjV2FKZ200UUQ2YlFvVzhPQTF5SFVfaThpMzJaRHIybk1MWGcwdzFFUGdsZF8yNTNHb0I3U0k2U3RTUFg1ZWZzeTU4amJ1NVZqa0Z5cl9DM1lpSy0yc3hEQmhWQl9WT0VUajU5OV9ORWRMZzc5c1FISXVB?oc=5"
   },
   {
@@ -1380,9 +1386,9 @@
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1JnUHRZWmF4aVQwR2dtdk8xOGJuWk5VQUQ5MkFhR1Z6Qi0yczJoYlBQUEI3R0xoZDcxbVNwbmw0YXVLNV9YTS1qb1pnSkJxV0k4UkRna3FpcWFCTktRSE5hZUxHYUdGUmFibjllckx2QmNyQ0gwV3ZNakNVYUFRSVFrWHh6bGY5NE5qVU9Pcw?oc=5"
   },
   {
-    "title": "Duda Ramos apresenta projeto que cria política nacional para prevenir violência e fortalecer proteção animal - Folha BV",
+    "title": "Duda Ramos apresenta projeto que cria política nacional para prevenir violência e fortalecer proteção animal - folhabv.com.br",
     "date": "2026-07-02T07:00:00+00:00",
-    "source": "Folha BV",
+    "source": "folhabv.com.br",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNelk1WlpYYy1TQmhhbWZHdkVzYjJYRlVuRF9Rd3JkZFFfRy1XUDVoYlZFME5XdjNPMEdGeU8tOWJ6WnJJeWtQOTZweDd5QzhZbGNyNzRFVnFlRlFZX0poNWFjYUE1aVpMMnRXX25nZlE4Umh3R0dTYV9LODJpcW9HVXdydEJDZ1JSR1JSMGtpMHpLM3Bjd1FyeGZNM2t2UWs4UW04N3BZOEJ5R3Bxa051RlZiLU5wdmlmTFJZdVFrRXlfRGszX3ZlRkFtQkFwYzQ3V05xNjV1M3BnVkpaTHc?oc=5"
   },
   {
