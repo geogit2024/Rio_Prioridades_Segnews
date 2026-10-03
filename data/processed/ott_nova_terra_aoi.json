@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-03T00:24:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8391775,
+    "lng": -43.3111123,
+    "address": "Avenida Meriti, 2410",
+    "fetched_at": "2026-10-03T06:44:01.972389+00:00"
+  },
+  {
+    "datetime": "2026-10-02T22:47:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8319643,
+    "lng": -43.3290879,
+    "address": "Avenida Monsenhor Félix, 1213",
+    "fetched_at": "2026-10-03T06:44:01.972459+00:00"
+  },
+  {
     "datetime": "2026-10-02T11:53:00+00:00",
     "type": "Toque de recolher",
     "neighborhood": "Vila Kosmos",
