@@ -2216,7 +2216,7 @@
     "transports": [],
     "victims": [
       {
-        "id": "61156f15-0654-4844-9cee-5e006a656641",
+        "id": "c0ffb847-cd5f-4654-8cdc-1d91904bc8f1",
         "occurrenceId": "087b88aa-6d26-471a-9d15-993659f8825d",
         "type": "People",
         "situation": "Wounded",
@@ -2283,7 +2283,7 @@
         "unit": ""
       },
       {
-        "id": "c0ffb847-cd5f-4654-8cdc-1d91904bc8f1",
+        "id": "61156f15-0654-4844-9cee-5e006a656641",
         "occurrenceId": "087b88aa-6d26-471a-9d15-993659f8825d",
         "type": "People",
         "situation": "Wounded",
@@ -3084,73 +3084,6 @@
     "transports": [],
     "victims": [
       {
-        "id": "608c1f81-f8a9-43f9-adcd-0980292ad174",
-        "occurrenceId": "7646595b-d308-43a3-8db8-e25c9c3f56dd",
-        "type": "People",
-        "situation": "Wounded",
-        "circumstances": [
-          {
-            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
-            "name": "Sem identificação",
-            "type": "human"
-          }
-        ],
-        "deathDate": null,
-        "personType": "Civilian",
-        "age": null,
-        "ageGroup": {
-          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
-          "name": "Adulto"
-        },
-        "genre": {
-          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
-          "name": "Homem cis"
-        },
-        "race": "Negra",
-        "place": {
-          "id": "6df2eadf-187d-4923-a23f-e5dfb508bcae",
-          "name": "Evento"
-        },
-        "serviceStatus": {
-          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
-          "name": "Não se aplica",
-          "type": "Servico"
-        },
-        "qualifications": [
-          {
-            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
-            "name": "Não identificado",
-            "type": ""
-          }
-        ],
-        "politicalPosition": {
-          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "politicalStatus": {
-          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "partie": null,
-        "coorporation": {
-          "id": "52e03783-cb08-49b5-8635-0d462773e250",
-          "name": "Não se aplica"
-        },
-        "agentPosition": {
-          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "agentStatus": {
-          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "unit": ""
-      },
-      {
         "id": "5d6b832f-76ad-42fd-9c4e-269abd9de5e8",
         "occurrenceId": "7646595b-d308-43a3-8db8-e25c9c3f56dd",
         "type": "People",
@@ -3239,6 +3172,73 @@
         "genre": {
           "id": "cd8372e3-a8bf-4e61-85b4-cbb62e13bb36",
           "name": "Mulher cis"
+        },
+        "race": "Negra",
+        "place": {
+          "id": "6df2eadf-187d-4923-a23f-e5dfb508bcae",
+          "name": "Evento"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
+        "id": "608c1f81-f8a9-43f9-adcd-0980292ad174",
+        "occurrenceId": "7646595b-d308-43a3-8db8-e25c9c3f56dd",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
         },
         "race": "Negra",
         "place": {
@@ -3377,6 +3377,140 @@
     "transports": [],
     "victims": [
       {
+        "id": "03e8d022-6a62-4c65-8036-b8f2769446b2",
+        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
+        "type": "People",
+        "situation": "Dead",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": "2026-09-28T12:00:00.000Z",
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
+        "id": "f75a38a7-47e7-48f1-8908-f5ba3baca446",
+        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
         "id": "7ceaf1a8-e3f9-47a3-a67d-b9432ca5b51c",
         "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
         "type": "People",
@@ -3444,7 +3578,7 @@
         "unit": ""
       },
       {
-        "id": "d64d5e46-30e5-4545-95a9-06baf6d13cad",
+        "id": "7cce5c67-87bc-4afe-9a20-1e9a4545b96d",
         "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
         "type": "People",
         "situation": "Wounded",
@@ -3457,10 +3591,10 @@
         ],
         "deathDate": null,
         "personType": "Civilian",
-        "age": null,
+        "age": 15,
         "ageGroup": {
-          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
-          "name": "Adulto"
+          "id": "4f6ca397-c595-410b-9ba7-f35d1071dd7a",
+          "name": "Adolescente"
         },
         "genre": {
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
@@ -3578,7 +3712,7 @@
         "unit": ""
       },
       {
-        "id": "7cce5c67-87bc-4afe-9a20-1e9a4545b96d",
+        "id": "adde2cb2-0dbc-460a-b348-ca00965d67fa",
         "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
         "type": "People",
         "situation": "Wounded",
@@ -3591,10 +3725,345 @@
         ],
         "deathDate": null,
         "personType": "Civilian",
-        "age": 15,
+        "age": null,
         "ageGroup": {
-          "id": "4f6ca397-c595-410b-9ba7-f35d1071dd7a",
-          "name": "Adolescente"
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
+        "id": "d64d5e46-30e5-4545-95a9-06baf6d13cad",
+        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
+        "id": "b1a54f36-f87e-4977-9d23-fadca6541755",
+        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
+        "id": "3c6aaba8-949e-4f13-ae88-e1530f91c796",
+        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
+        "id": "14dd4d1f-f8a6-4ccd-ba57-374bb5595ca3",
+        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
+        "id": "d6200c34-8cd9-4a3a-8b5a-16c0024b376d",
+        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
         },
         "genre": {
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
@@ -3978,475 +4447,6 @@
           "type": "Agente"
         },
         "unit": ""
-      },
-      {
-        "id": "03e8d022-6a62-4c65-8036-b8f2769446b2",
-        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
-        "type": "People",
-        "situation": "Dead",
-        "circumstances": [
-          {
-            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
-            "name": "Sem identificação",
-            "type": "human"
-          }
-        ],
-        "deathDate": "2026-09-28T12:00:00.000Z",
-        "personType": "Civilian",
-        "age": null,
-        "ageGroup": {
-          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
-          "name": "Adulto"
-        },
-        "genre": {
-          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
-          "name": "Homem cis"
-        },
-        "race": "Não identificado",
-        "place": {
-          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
-          "name": "Sem identificação"
-        },
-        "serviceStatus": {
-          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
-          "name": "Não se aplica",
-          "type": "Servico"
-        },
-        "qualifications": [
-          {
-            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
-            "name": "Não identificado",
-            "type": ""
-          }
-        ],
-        "politicalPosition": {
-          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "politicalStatus": {
-          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "partie": null,
-        "coorporation": {
-          "id": "52e03783-cb08-49b5-8635-0d462773e250",
-          "name": "Não se aplica"
-        },
-        "agentPosition": {
-          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "agentStatus": {
-          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "unit": ""
-      },
-      {
-        "id": "f75a38a7-47e7-48f1-8908-f5ba3baca446",
-        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
-        "type": "People",
-        "situation": "Wounded",
-        "circumstances": [
-          {
-            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
-            "name": "Sem identificação",
-            "type": "human"
-          }
-        ],
-        "deathDate": null,
-        "personType": "Civilian",
-        "age": null,
-        "ageGroup": {
-          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
-          "name": "Adulto"
-        },
-        "genre": {
-          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
-          "name": "Homem cis"
-        },
-        "race": "Não identificado",
-        "place": {
-          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
-          "name": "Sem identificação"
-        },
-        "serviceStatus": {
-          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
-          "name": "Não se aplica",
-          "type": "Servico"
-        },
-        "qualifications": [
-          {
-            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
-            "name": "Não identificado",
-            "type": ""
-          }
-        ],
-        "politicalPosition": {
-          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "politicalStatus": {
-          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "partie": null,
-        "coorporation": {
-          "id": "52e03783-cb08-49b5-8635-0d462773e250",
-          "name": "Não se aplica"
-        },
-        "agentPosition": {
-          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "agentStatus": {
-          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "unit": ""
-      },
-      {
-        "id": "b1a54f36-f87e-4977-9d23-fadca6541755",
-        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
-        "type": "People",
-        "situation": "Wounded",
-        "circumstances": [
-          {
-            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
-            "name": "Sem identificação",
-            "type": "human"
-          }
-        ],
-        "deathDate": null,
-        "personType": "Civilian",
-        "age": null,
-        "ageGroup": {
-          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
-          "name": "Adulto"
-        },
-        "genre": {
-          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
-          "name": "Homem cis"
-        },
-        "race": "Não identificado",
-        "place": {
-          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
-          "name": "Sem identificação"
-        },
-        "serviceStatus": {
-          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
-          "name": "Não se aplica",
-          "type": "Servico"
-        },
-        "qualifications": [
-          {
-            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
-            "name": "Não identificado",
-            "type": ""
-          }
-        ],
-        "politicalPosition": {
-          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "politicalStatus": {
-          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "partie": null,
-        "coorporation": {
-          "id": "52e03783-cb08-49b5-8635-0d462773e250",
-          "name": "Não se aplica"
-        },
-        "agentPosition": {
-          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "agentStatus": {
-          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "unit": ""
-      },
-      {
-        "id": "3c6aaba8-949e-4f13-ae88-e1530f91c796",
-        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
-        "type": "People",
-        "situation": "Wounded",
-        "circumstances": [
-          {
-            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
-            "name": "Sem identificação",
-            "type": "human"
-          }
-        ],
-        "deathDate": null,
-        "personType": "Civilian",
-        "age": null,
-        "ageGroup": {
-          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
-          "name": "Adulto"
-        },
-        "genre": {
-          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
-          "name": "Homem cis"
-        },
-        "race": "Não identificado",
-        "place": {
-          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
-          "name": "Sem identificação"
-        },
-        "serviceStatus": {
-          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
-          "name": "Não se aplica",
-          "type": "Servico"
-        },
-        "qualifications": [
-          {
-            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
-            "name": "Não identificado",
-            "type": ""
-          }
-        ],
-        "politicalPosition": {
-          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "politicalStatus": {
-          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "partie": null,
-        "coorporation": {
-          "id": "52e03783-cb08-49b5-8635-0d462773e250",
-          "name": "Não se aplica"
-        },
-        "agentPosition": {
-          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "agentStatus": {
-          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "unit": ""
-      },
-      {
-        "id": "14dd4d1f-f8a6-4ccd-ba57-374bb5595ca3",
-        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
-        "type": "People",
-        "situation": "Wounded",
-        "circumstances": [
-          {
-            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
-            "name": "Sem identificação",
-            "type": "human"
-          }
-        ],
-        "deathDate": null,
-        "personType": "Civilian",
-        "age": null,
-        "ageGroup": {
-          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
-          "name": "Adulto"
-        },
-        "genre": {
-          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
-          "name": "Homem cis"
-        },
-        "race": "Não identificado",
-        "place": {
-          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
-          "name": "Sem identificação"
-        },
-        "serviceStatus": {
-          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
-          "name": "Não se aplica",
-          "type": "Servico"
-        },
-        "qualifications": [
-          {
-            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
-            "name": "Não identificado",
-            "type": ""
-          }
-        ],
-        "politicalPosition": {
-          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "politicalStatus": {
-          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "partie": null,
-        "coorporation": {
-          "id": "52e03783-cb08-49b5-8635-0d462773e250",
-          "name": "Não se aplica"
-        },
-        "agentPosition": {
-          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "agentStatus": {
-          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "unit": ""
-      },
-      {
-        "id": "d6200c34-8cd9-4a3a-8b5a-16c0024b376d",
-        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
-        "type": "People",
-        "situation": "Wounded",
-        "circumstances": [
-          {
-            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
-            "name": "Sem identificação",
-            "type": "human"
-          }
-        ],
-        "deathDate": null,
-        "personType": "Civilian",
-        "age": null,
-        "ageGroup": {
-          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
-          "name": "Adulto"
-        },
-        "genre": {
-          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
-          "name": "Homem cis"
-        },
-        "race": "Não identificado",
-        "place": {
-          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
-          "name": "Sem identificação"
-        },
-        "serviceStatus": {
-          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
-          "name": "Não se aplica",
-          "type": "Servico"
-        },
-        "qualifications": [
-          {
-            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
-            "name": "Não identificado",
-            "type": ""
-          }
-        ],
-        "politicalPosition": {
-          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "politicalStatus": {
-          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "partie": null,
-        "coorporation": {
-          "id": "52e03783-cb08-49b5-8635-0d462773e250",
-          "name": "Não se aplica"
-        },
-        "agentPosition": {
-          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "agentStatus": {
-          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "unit": ""
-      },
-      {
-        "id": "adde2cb2-0dbc-460a-b348-ca00965d67fa",
-        "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
-        "type": "People",
-        "situation": "Wounded",
-        "circumstances": [
-          {
-            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
-            "name": "Sem identificação",
-            "type": "human"
-          }
-        ],
-        "deathDate": null,
-        "personType": "Civilian",
-        "age": null,
-        "ageGroup": {
-          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
-          "name": "Adulto"
-        },
-        "genre": {
-          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
-          "name": "Homem cis"
-        },
-        "race": "Não identificado",
-        "place": {
-          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
-          "name": "Sem identificação"
-        },
-        "serviceStatus": {
-          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
-          "name": "Não se aplica",
-          "type": "Servico"
-        },
-        "qualifications": [
-          {
-            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
-            "name": "Não identificado",
-            "type": ""
-          }
-        ],
-        "politicalPosition": {
-          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "politicalStatus": {
-          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "partie": null,
-        "coorporation": {
-          "id": "52e03783-cb08-49b5-8635-0d462773e250",
-          "name": "Não se aplica"
-        },
-        "agentPosition": {
-          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "agentStatus": {
-          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "unit": ""
       }
     ],
     "animalVictims": []
@@ -4566,6 +4566,55 @@
         "unit": ""
       }
     ],
+    "animalVictims": []
+  },
+  {
+    "id": "67d62ad7-94e8-429d-8b2b-eafa0fd89d3f",
+    "documentNumber": 79316,
+    "address": "R. Aiera - Vila Kosmos, Rio de Janeiro - RJ, 21220-020, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "c3729566-96ac-40a4-99d1-c8fa9c74faed",
+      "name": "VILA KOSMOS"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.852058036970718",
+    "longitude": "-43.30620239114758",
+    "date": "2026-10-02T11:30:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+        "name": "Ação policial"
+      },
+      "complementaryReasons": [
+        {
+          "id": "2c6503b4-f65a-4d16-b33a-46535fa80d05",
+          "name": "Tentativa/Roubo de cargas"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (41° BPM)"
+    },
+    "transports": [],
+    "victims": [],
     "animalVictims": []
   }
 ]
