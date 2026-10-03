@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-03T14:41:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Lins de Vasconcelos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9111876,
+    "lng": -43.2819769,
+    "address": "Rua Ernestina, 7",
+    "fetched_at": "2026-10-03T19:14:28.121219+00:00"
+  },
+  {
     "datetime": "2026-10-03T04:44:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Brás de Pina",
@@ -1758,6 +1769,17 @@
     "lng": -43.3327547,
     "address": "Comunidade do Fubá",
     "fetched_at": "2026-09-17T22:20:34.293938+00:00"
+  },
+  {
+    "datetime": "03/10/2026, 13:53:44",
+    "type": "Incendio",
+    "neighborhood": "Méier",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9015844,
+    "lng": -43.2767048,
+    "address": "Rua Frederico Méier, 11",
+    "fetched_at": "2026-10-03T19:14:28.121237+00:00"
   },
   {
     "datetime": "02/10/2026, 11:48:43",
