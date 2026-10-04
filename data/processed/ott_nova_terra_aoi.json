@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-04T15:35:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Ramos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8525693,
+    "lng": -43.2514289,
+    "address": "Avenida Teixeira de Castro, 471",
+    "fetched_at": "2026-10-04T20:09:30.637060+00:00"
+  },
+  {
+    "datetime": "2026-10-04T14:27:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Lins de Vasconcelos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9111876,
+    "lng": -43.2819769,
+    "address": "Rua Ernestina, 7",
+    "fetched_at": "2026-10-04T20:09:30.637094+00:00"
+  },
+  {
     "datetime": "2026-10-04T02:20:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Ramos",
