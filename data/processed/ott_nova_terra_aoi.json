@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-04T02:20:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Ramos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8545461,
+    "lng": -43.2599329,
+    "address": "Rua Cardoso de Morais, 596",
+    "fetched_at": "2026-10-04T06:20:39.650801+00:00"
+  },
+  {
+    "datetime": "2026-10-04T00:09:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9292805,
+    "lng": -43.2027587,
+    "address": "Rua Barão de Petrópolis, 487",
+    "fetched_at": "2026-10-04T06:20:39.650879+00:00"
+  },
+  {
     "datetime": "2026-10-03T14:41:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Lins de Vasconcelos",
@@ -1769,6 +1791,17 @@
     "lng": -43.3327547,
     "address": "Comunidade do Fubá",
     "fetched_at": "2026-09-17T22:20:34.293938+00:00"
+  },
+  {
+    "datetime": "03/10/2026, 23:42:27",
+    "type": "Disparos Ouvidos",
+    "neighborhood": "Engenho de Dentro",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.905549,
+    "lng": -43.299172,
+    "address": "Rua Ven�ncio Ribeiro",
+    "fetched_at": "2026-10-04T06:20:39.650899+00:00"
   },
   {
     "datetime": "03/10/2026, 13:53:44",
