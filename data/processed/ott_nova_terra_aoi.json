@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-04T21:16:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.809975023937,
+    "lng": -43.308219399486,
+    "address": "Rua Xavier Pinheiro, 685",
+    "fetched_at": "2026-10-05T01:57:36.381342+00:00"
+  },
+  {
     "datetime": "2026-10-04T15:35:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Ramos",
