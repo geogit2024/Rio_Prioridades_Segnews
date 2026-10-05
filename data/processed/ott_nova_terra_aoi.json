@@ -44,6 +44,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-05T04:47:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8419254,
+    "lng": -43.3236326,
+    "address": "Avenida Monsenhor Félix, 738",
+    "fetched_at": "2026-10-05T08:22:21.052173+00:00"
+  },
+  {
+    "datetime": "2026-10-05T03:56:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.923666,
+    "lng": -43.2583192,
+    "address": "Rua Barão de Mesquita, 1030",
+    "fetched_at": "2026-10-05T08:22:21.052207+00:00"
+  },
+  {
+    "datetime": "2026-10-04T23:25:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8312091,
+    "lng": -43.2924462,
+    "address": "Rua Itabira, 95",
+    "fetched_at": "2026-10-05T08:22:21.052255+00:00"
+  },
+  {
+    "datetime": "2026-10-04T23:00:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Engenho de Dentro",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.899677,
+    "lng": -43.3003844,
+    "address": "Rua Gustavo Riedel, 394",
+    "fetched_at": "2026-10-05T08:22:21.052279+00:00"
+  },
+  {
     "datetime": "2026-10-04T21:16:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Vigário Geral",
