@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-05T20:09:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Lins de Vasconcelos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9111876,
+    "lng": -43.2819769,
+    "address": "Rua Ernestina, 7",
+    "fetched_at": "2026-10-05T23:14:36.825758+00:00"
+  },
+  {
+    "datetime": "2026-10-05T17:49:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8824151,
+    "lng": -43.3352074,
+    "address": "Avenida Ernani Cardoso, 209",
+    "fetched_at": "2026-10-05T23:14:36.825808+00:00"
+  },
+  {
     "datetime": "2026-10-05T11:30:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Vila da Penha",
