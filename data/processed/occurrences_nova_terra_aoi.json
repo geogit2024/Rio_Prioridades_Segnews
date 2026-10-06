@@ -3084,7 +3084,7 @@
     "transports": [],
     "victims": [
       {
-        "id": "5d6b832f-76ad-42fd-9c4e-269abd9de5e8",
+        "id": "608c1f81-f8a9-43f9-adcd-0980292ad174",
         "occurrenceId": "7646595b-d308-43a3-8db8-e25c9c3f56dd",
         "type": "People",
         "situation": "Wounded",
@@ -3106,7 +3106,7 @@
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
           "name": "Homem cis"
         },
-        "race": "Não identificado",
+        "race": "Negra",
         "place": {
           "id": "6df2eadf-187d-4923-a23f-e5dfb508bcae",
           "name": "Evento"
@@ -3218,7 +3218,7 @@
         "unit": ""
       },
       {
-        "id": "608c1f81-f8a9-43f9-adcd-0980292ad174",
+        "id": "5d6b832f-76ad-42fd-9c4e-269abd9de5e8",
         "occurrenceId": "7646595b-d308-43a3-8db8-e25c9c3f56dd",
         "type": "People",
         "situation": "Wounded",
@@ -3240,7 +3240,7 @@
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
           "name": "Homem cis"
         },
-        "race": "Negra",
+        "race": "Não identificado",
         "place": {
           "id": "6df2eadf-187d-4923-a23f-e5dfb508bcae",
           "name": "Evento"
@@ -3290,7 +3290,7 @@
   {
     "id": "9b4b5aef-6827-4a56-bf58-2a4d799f5661",
     "documentNumber": 79242,
-    "address": "Quintal da Néia - Rua José dos Reis - Pilares, Rio de Janeiro - RJ, Brasil",
+    "address": "Rua José dos Reis - Pilares, Rio de Janeiro - RJ, Brasil",
     "state": {
       "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
       "name": "Rio de Janeiro"
@@ -3712,7 +3712,7 @@
         "unit": ""
       },
       {
-        "id": "f140de9e-1790-4f53-9028-972412886698",
+        "id": "d2b06570-9aa1-47ed-b3ba-c3c62037b21d",
         "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
         "type": "People",
         "situation": "Wounded",
@@ -3846,7 +3846,7 @@
         "unit": ""
       },
       {
-        "id": "d2b06570-9aa1-47ed-b3ba-c3c62037b21d",
+        "id": "f140de9e-1790-4f53-9028-972412886698",
         "occurrenceId": "5a045ba2-50fd-45ee-94b9-a14f92d50b2e",
         "type": "People",
         "situation": "Wounded",
