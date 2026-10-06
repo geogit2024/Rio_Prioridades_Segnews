@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-06T10:23:00+00:00",
+    "type": "Incêndio",
+    "neighborhood": "Praça da Bandeira",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.911522742748,
+    "lng": -43.209903885985,
+    "address": "Rua Mirabeau Souto Uchoa, 3515",
+    "fetched_at": "2026-10-06T16:48:47.394914+00:00"
+  },
+  {
     "datetime": "2026-10-05T20:09:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Lins de Vasconcelos",
