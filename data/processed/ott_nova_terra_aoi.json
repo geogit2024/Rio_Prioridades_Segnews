@@ -44,6 +44,61 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-07T20:16:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Água Santa",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9066933,
+    "lng": -43.3101329,
+    "address": "Rua Monteiro da Luz, 545",
+    "fetched_at": "2026-10-07T23:56:58.853405+00:00"
+  },
+  {
+    "datetime": "2026-10-07T20:08:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Pilares",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8804009,
+    "lng": -43.2888096,
+    "address": "Rua de Lazer, 160",
+    "fetched_at": "2026-10-07T23:56:58.853423+00:00"
+  },
+  {
+    "datetime": "2026-10-07T19:54:00+00:00",
+    "type": "Incêndio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8252113,
+    "lng": -43.310239,
+    "address": "Rua Capitão Cruz, 701b",
+    "fetched_at": "2026-10-07T23:56:58.853438+00:00"
+  },
+  {
+    "datetime": "2026-10-07T19:18:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8927874,
+    "lng": -43.3072549,
+    "address": "Rua Manoel Vitorino, 625",
+    "fetched_at": "2026-10-07T23:56:58.853464+00:00"
+  },
+  {
+    "datetime": "2026-10-07T19:17:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8963,
+    "lng": -43.3126497,
+    "address": "Rua Clarimundo de Melo, 400",
+    "fetched_at": "2026-10-07T23:56:58.853476+00:00"
+  },
+  {
     "datetime": "2026-10-07T08:13:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Cordovil",
