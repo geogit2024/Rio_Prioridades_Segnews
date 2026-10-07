@@ -44,6 +44,61 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-07T01:46:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8221087,
+    "lng": -43.2904579,
+    "address": "Rua Meengaba, 137",
+    "fetched_at": "2026-10-07T06:44:36.854545+00:00"
+  },
+  {
+    "datetime": "2026-10-07T01:01:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vasco da Gama",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8895526,
+    "lng": -43.2290306,
+    "address": "Rua Ricardo Machado, 528",
+    "fetched_at": "2026-10-07T06:44:36.854583+00:00"
+  },
+  {
+    "datetime": "2026-10-07T00:09:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9324433,
+    "lng": -43.2411073,
+    "address": "Tijuca, Rio de Janeiro",
+    "fetched_at": "2026-10-07T06:44:36.854669+00:00"
+  },
+  {
+    "datetime": "2026-10-07T00:07:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8395895,
+    "lng": -43.2964617,
+    "address": "Avenida Vicente de Carvalho, 1627",
+    "fetched_at": "2026-10-07T06:44:36.854682+00:00"
+  },
+  {
+    "datetime": "2026-10-07T00:07:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.922329,
+    "lng": -43.2477454,
+    "address": "Rua Maxwell, 443",
+    "fetched_at": "2026-10-07T06:44:36.854695+00:00"
+  },
+  {
     "datetime": "2026-10-06T18:23:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Maré",
