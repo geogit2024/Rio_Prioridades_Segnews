@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-08T19:08:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Cachambi",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8883483,
+    "lng": -43.2795683,
+    "address": "Rua Silva Mourão, 89",
+    "fetched_at": "2026-10-08T23:08:28.076370+00:00"
+  },
+  {
     "datetime": "2026-10-08T14:49:00+00:00",
     "type": "Falta de água",
     "neighborhood": "Pilares",
