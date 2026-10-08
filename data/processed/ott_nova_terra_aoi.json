@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-08T08:14:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8302875,
+    "lng": -43.3028715,
+    "address": "Rua Eduardo de Oliveira e Oliveira, 500",
+    "fetched_at": "2026-10-08T11:30:23.632250+00:00"
+  },
+  {
     "datetime": "2026-10-07T20:16:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Água Santa",
