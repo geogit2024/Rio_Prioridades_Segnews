@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-08T14:49:00+00:00",
+    "type": "Falta de água",
+    "neighborhood": "Pilares",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8814212,
+    "lng": -43.2934238,
+    "address": "Avenida João Ribeiro, 1",
+    "fetched_at": "2026-10-08T17:59:59.303936+00:00"
+  },
+  {
+    "datetime": "2026-10-08T09:16:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Complexo do Alemão",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8648338,
+    "lng": -43.2617645,
+    "address": "Beco Aragão, 5",
+    "fetched_at": "2026-10-08T17:59:59.303983+00:00"
+  },
+  {
     "datetime": "2026-10-08T08:14:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Brás de Pina",
