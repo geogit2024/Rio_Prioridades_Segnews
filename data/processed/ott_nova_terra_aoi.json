@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-09T16:45:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8781116,
+    "lng": -43.2411685,
+    "address": "Av",
+    "fetched_at": "2026-10-09T21:19:27.107082+00:00"
+  },
+  {
     "datetime": "2026-10-09T10:15:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Cascadura",
