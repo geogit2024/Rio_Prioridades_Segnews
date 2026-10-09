@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-09T10:15:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8793137,
+    "lng": -43.3215313,
+    "address": "Rua Caetano da Silva, 393",
+    "fetched_at": "2026-10-09T16:44:06.984400+00:00"
+  },
+  {
     "datetime": "2026-10-08T19:08:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Cachambi",
