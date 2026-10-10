@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-10T16:35:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8274953,
+    "lng": -43.3026576,
+    "address": "Rua Antônio João, 800",
+    "fetched_at": "2026-10-10T21:38:58.479601+00:00"
+  },
+  {
     "datetime": "2026-10-09T23:36:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Irajá",
