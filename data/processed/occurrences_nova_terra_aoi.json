@@ -4901,7 +4901,7 @@
     "transports": [],
     "victims": [
       {
-        "id": "e0501464-e6f7-4de9-aeb6-401579dd1756",
+        "id": "45e000bc-ca5f-4711-a370-d0f7b2b31394",
         "occurrenceId": "6c947f5e-ea41-438f-9def-28777bd5b600",
         "type": "People",
         "situation": "Wounded",
@@ -4968,7 +4968,7 @@
         "unit": ""
       },
       {
-        "id": "45e000bc-ca5f-4711-a370-d0f7b2b31394",
+        "id": "e0501464-e6f7-4de9-aeb6-401579dd1756",
         "occurrenceId": "6c947f5e-ea41-438f-9def-28777bd5b600",
         "type": "People",
         "situation": "Wounded",
@@ -5118,6 +5118,289 @@
       "mainReason": {
         "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
         "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "0252b9c9-88b3-4eee-a420-427d89a1dc44",
+    "documentNumber": 79401,
+    "address": "Trevo das Margaridas - Avenida Brasil - Irajá, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "d98e2125-a3ff-4f7a-b6e9-f2bbfe7a0a1f",
+      "name": "IRAJA"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.8203769",
+    "longitude": "-43.3202405",
+    "date": "2026-10-08T16:00:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "2c6503b4-f65a-4d16-b33a-46535fa80d05",
+        "name": "Tentativa/Roubo de cargas"
+      },
+      "complementaryReasons": [
+        {
+          "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+          "name": "Ação policial"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (BPVE, 41 BPM)"
+    },
+    "transports": [],
+    "victims": [
+      {
+        "id": "1c9542f8-e3de-4c8c-8993-0ae6b74c4026",
+        "occurrenceId": "0252b9c9-88b3-4eee-a420-427d89a1dc44",
+        "type": "People",
+        "situation": "Dead",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": "2026-10-08T16:00:00.000Z",
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      }
+    ],
+    "animalVictims": []
+  },
+  {
+    "id": "47a73958-fda5-4c4f-9e35-334f638c831c",
+    "documentNumber": 79392,
+    "address": "Rua Itapuã - Vicente de Carvalho, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "9676e3c5-e16d-4fe1-b0f5-4c76d624821e",
+      "name": "VICENTE DE CARVALHO"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.8572904",
+    "longitude": "-43.312221",
+    "date": "2026-10-08T20:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "a00fa7af-e091-46c1-8dc7-b8b60a144a9c",
+        "name": "Disputa"
+      },
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
+      "clippings": [
+        {
+          "id": "085f9b7e-68e4-4ad4-8a45-7ba270cc4d85",
+          "name": "Bar"
+        }
+      ],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [
+      {
+        "id": "4e6e638b-3938-4a18-a78a-0a72881ee63a",
+        "occurrenceId": "47a73958-fda5-4c4f-9e35-334f638c831c",
+        "type": "People",
+        "situation": "Dead",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": "2026-10-08T20:00:00.000Z",
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "cd8372e3-a8bf-4e61-85b4-cbb62e13bb36",
+          "name": "Mulher cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "262e0c02-b7ac-4132-a5ea-0d4414a26899",
+          "name": "Bar"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      }
+    ],
+    "animalVictims": []
+  },
+  {
+    "id": "d9193fee-ee31-4d49-8c72-c4dc6b97f1d4",
+    "documentNumber": 79407,
+    "address": "Rua Pereira Nunes - Tijuca, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "88e751a2-3a52-47d3-a70c-c55589021990",
+      "name": "TIJUCA"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.9238523",
+    "longitude": "-43.2362815",
+    "date": "2026-10-09T12:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "96992524-ebf7-4008-a999-81a179a91918",
+        "name": "Tentativa/Roubo"
       },
       "complementaryReasons": [],
       "clippings": [],
