@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-09T23:36:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8281633,
+    "lng": -43.3230052,
+    "address": "Estrada da Água Grande, 400",
+    "fetched_at": "2026-10-10T07:02:33.076475+00:00"
+  },
+  {
+    "datetime": "2026-10-09T22:07:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8395895,
+    "lng": -43.2964617,
+    "address": "Avenida Vicente de Carvalho, 1627",
+    "fetched_at": "2026-10-10T07:02:33.076497+00:00"
+  },
+  {
     "datetime": "2026-10-09T21:23:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Cidade Universitária",
