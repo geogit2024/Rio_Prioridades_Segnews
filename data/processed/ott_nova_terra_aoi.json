@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-09T21:23:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cidade Universitária",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.860158141397,
+    "lng": -43.229017133235,
+    "address": "Avenida Horácio Macedo, 2030",
+    "fetched_at": "2026-10-10T01:03:29.571652+00:00"
+  },
+  {
+    "datetime": "2026-10-09T20:49:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Ramos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8524525,
+    "lng": -43.2556346,
+    "address": "Rua João Romariz, 183",
+    "fetched_at": "2026-10-10T01:03:29.571681+00:00"
+  },
+  {
     "datetime": "2026-10-09T16:45:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Manguinhos",
