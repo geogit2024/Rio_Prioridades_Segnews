@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-10T18:47:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9224761,
+    "lng": -43.2106633,
+    "address": "Rua Sampaio Viana, 250",
+    "fetched_at": "2026-10-11T00:28:41.136958+00:00"
+  },
+  {
     "datetime": "2026-10-10T16:35:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Cordovil",
