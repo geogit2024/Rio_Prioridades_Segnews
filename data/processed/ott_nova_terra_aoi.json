@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-11T01:08:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8361737,
+    "lng": -43.2934463,
+    "address": "Rua Guaiba, 265",
+    "fetched_at": "2026-10-11T06:12:05.172558+00:00"
+  },
+  {
+    "datetime": "2026-10-11T00:56:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8338943,
+    "lng": -43.2916319,
+    "address": "Rua Guaporé, 424",
+    "fetched_at": "2026-10-11T06:12:05.172599+00:00"
+  },
+  {
     "datetime": "2026-10-10T18:47:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Rio Comprido",
