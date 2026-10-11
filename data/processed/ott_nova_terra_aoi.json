@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-11T13:17:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Vista Alegre",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8292079,
+    "lng": -43.3186312,
+    "address": "Rua Petrol�ndia, 151",
+    "fetched_at": "2026-10-11T17:51:32.955415+00:00"
+  },
+  {
     "datetime": "2026-10-11T04:04:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Pilares",
