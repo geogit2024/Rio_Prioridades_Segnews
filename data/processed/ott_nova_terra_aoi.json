@@ -44,6 +44,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-11T17:32:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8303345,
+    "lng": -43.295955,
+    "address": "Rua Orica, 1230",
+    "fetched_at": "2026-10-11T21:18:24.284972+00:00"
+  },
+  {
+    "datetime": "2026-10-11T15:34:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8931169,
+    "lng": -43.3224585,
+    "address": "Rua Clarimundo de Melo, 824",
+    "fetched_at": "2026-10-11T21:18:24.285015+00:00"
+  },
+  {
+    "datetime": "2026-10-11T15:27:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.892494,
+    "lng": -43.3327547,
+    "address": "Rua Professor C�ncio P�voa, 92",
+    "fetched_at": "2026-10-11T21:18:24.285042+00:00"
+  },
+  {
+    "datetime": "2026-10-11T15:25:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.892383,
+    "lng": -43.3193892,
+    "address": "Rua Pedro Reis, 66",
+    "fetched_at": "2026-10-11T21:18:24.285053+00:00"
+  },
+  {
     "datetime": "2026-10-11T13:17:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Vista Alegre",
