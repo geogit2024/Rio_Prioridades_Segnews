@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-11T04:04:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Pilares",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8814212,
+    "lng": -43.2934238,
+    "address": "Avenida João Ribeiro, 1",
+    "fetched_at": "2026-10-11T12:48:06.936289+00:00"
+  },
+  {
     "datetime": "2026-10-11T01:08:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Brás de Pina",
