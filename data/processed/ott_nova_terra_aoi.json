@@ -44,6 +44,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-12T01:42:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8086939,
+    "lng": -43.3071081,
+    "address": "Rua Correa Dias, 276",
+    "fetched_at": "2026-10-12T06:31:10.122848+00:00"
+  },
+  {
+    "datetime": "2026-10-12T00:17:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9292805,
+    "lng": -43.2027587,
+    "address": "Rua Barão de Petrópolis, 487",
+    "fetched_at": "2026-10-12T06:31:10.123005+00:00"
+  },
+  {
+    "datetime": "2026-10-12T00:08:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9324433,
+    "lng": -43.2411073,
+    "address": "Tijuca, Rio de Janeiro",
+    "fetched_at": "2026-10-12T06:31:10.123034+00:00"
+  },
+  {
     "datetime": "2026-10-11T17:32:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Brás de Pina",
