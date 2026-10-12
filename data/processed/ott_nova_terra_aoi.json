@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-12T17:52:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cachambi",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8941856,
+    "lng": -43.2723623,
+    "address": "Rua Ferreira de Andrade, 192",
+    "fetched_at": "2026-10-12T22:56:00.162062+00:00"
+  },
+  {
     "datetime": "2026-10-12T07:37:00+00:00",
     "type": "Perseguição Policial",
     "neighborhood": "Penha Circular",
