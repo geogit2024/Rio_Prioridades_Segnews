@@ -5410,5 +5410,615 @@
     "transports": [],
     "victims": [],
     "animalVictims": []
+  },
+  {
+    "id": "0ed36103-3d4b-463d-8ab8-08213c63f23c",
+    "documentNumber": 79437,
+    "address": "Manguinhos, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "2aae2842-de72-4a32-be28-26aaa13bea27",
+      "name": "MANGUINHOS"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "9ad6d1b8-326b-40f7-8228-930df2680e06",
+      "name": "MORRO DO AMORIM (COMPLEXO DE MANGUINHOS)"
+    },
+    "latitude": "-22.8825193",
+    "longitude": "-43.2442626",
+    "date": "2026-10-11T21:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "43db6ba9-08bd-4f5c-b547-3135e6e67f32",
+        "name": "Ataque a civis"
+      },
+      "complementaryReasons": [],
+      "clippings": [
+        {
+          "id": "185ba5d3-ecd7-4c21-a38c-5d5379d43c11",
+          "name": "Ataques armados sobre rodas"
+        }
+      ],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [
+      {
+        "id": "8e8f054c-6504-4881-9f3b-3d9ced28f9b3",
+        "occurrenceId": "0ed36103-3d4b-463d-8ab8-08213c63f23c",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
+        "id": "f91dabf1-4428-4e92-a104-aadab4dbd572",
+        "occurrenceId": "0ed36103-3d4b-463d-8ab8-08213c63f23c",
+        "type": "People",
+        "situation": "Dead",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": "2026-10-11T21:00:00.000Z",
+        "personType": "Civilian",
+        "age": 46,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Branca",
+        "place": {
+          "id": "6df2eadf-187d-4923-a23f-e5dfb508bcae",
+          "name": "Evento"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
+        "id": "9991f146-8db9-462c-b13e-a2245aeda0e2",
+        "occurrenceId": "0ed36103-3d4b-463d-8ab8-08213c63f23c",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": 38,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
+        "id": "44f25228-0bca-40c3-a4a0-8658b3c97f8a",
+        "occurrenceId": "0ed36103-3d4b-463d-8ab8-08213c63f23c",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      }
+    ],
+    "animalVictims": []
+  },
+  {
+    "id": "19cabc6f-099d-402d-9161-905ca3d8378c",
+    "documentNumber": 79433,
+    "address": "Favela Furquim Mendes - Vigário Geral, Rio de Janeiro - RJ, 21240-800, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "1c65d48b-5c56-4722-bac1-a7ee0fe7bbc1",
+      "name": "VIGARIO GERAL"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "b47253b7-3a8b-425c-8e0d-ac6d669979d2",
+      "name": "FURQUIM MENDES"
+    },
+    "latitude": "-22.805109646920855",
+    "longitude": "\t-43.316591602460726",
+    "date": "2026-10-12T06:51:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "f264a970-ebc2-4008-b0d4-20c07048256b",
+        "name": "Disparo Acidental"
+      },
+      "complementaryReasons": [
+        {
+          "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+          "name": "Ação policial"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (16 BPM)"
+    },
+    "transports": [],
+    "victims": [
+      {
+        "id": "bcd0b550-9011-42f7-acaf-f8745993d8e3",
+        "occurrenceId": "19cabc6f-099d-402d-9161-905ca3d8378c",
+        "type": "People",
+        "situation": "Dead",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": "2026-10-12T05:00:00.000Z",
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "4f6ca397-c595-410b-9ba7-f35d1071dd7a",
+          "name": "Adolescente"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Branca",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      }
+    ],
+    "animalVictims": []
+  },
+  {
+    "id": "a614706d-4242-41bb-ad1c-a2361150f025",
+    "documentNumber": 79440,
+    "address": "Morro da Fé - Penha Circular, Rio de Janeiro - RJ, 21210-270, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "f5e3be0b-b53a-48dc-9602-89468fb0d6e4",
+      "name": "PENHA CIRCULAR"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "48b945f6-600d-4ecf-8980-5dfa9c00c034",
+      "name": "MORRO DA FE (COMPLEXO DA PENHA)"
+    },
+    "latitude": "-22.84466841",
+    "longitude": "-43.29477785",
+    "date": "2026-10-12T08:00:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "96992524-ebf7-4008-a999-81a179a91918",
+        "name": "Tentativa/Roubo"
+      },
+      "complementaryReasons": [
+        {
+          "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+          "name": "Ação policial"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (UPP COMPLEXO DA PENHA)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "fa0c98ab-b6be-41ed-aff2-cf0d69a886a2",
+    "documentNumber": 79441,
+    "address": "R. Baldraco - Cachambi, Rio de Janeiro - RJ, 20780-220, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "1bb0301a-a167-4f9d-bfbe-318b793abf84",
+      "name": "CACHAMBI"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.894076897166563",
+    "longitude": "-43.27225956336823",
+    "date": "2026-10-12T16:20:00.000Z",
+    "policeAction": false,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "49265966-3f99-423f-a920-25ffbd264a37",
+        "name": "Briga"
+      },
+      "complementaryReasons": [],
+      "clippings": [
+        {
+          "id": "085f9b7e-68e4-4ad4-8a45-7ba270cc4d85",
+          "name": "Bar"
+        }
+      ],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [
+      {
+        "id": "a94b899d-6189-4819-acff-41f5c033c0a7",
+        "occurrenceId": "fa0c98ab-b6be-41ed-aff2-cf0d69a886a2",
+        "type": "People",
+        "situation": "Dead",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": "2026-10-12T16:20:00.000Z",
+        "personType": "Civilian",
+        "age": 28,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "262e0c02-b7ac-4132-a5ea-0d4414a26899",
+          "name": "Bar"
+        },
+        "serviceStatus": {
+          "id": "6d1bb29f-fd69-46ea-bf21-600c85d95f1a",
+          "name": "Em serviço",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "9667590b-9374-4484-9c68-ecf0181b9184",
+            "name": "Outros",
+            "type": "Servico"
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      }
+    ],
+    "animalVictims": []
   }
 ]
