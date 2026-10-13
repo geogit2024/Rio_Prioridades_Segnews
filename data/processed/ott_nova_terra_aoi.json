@@ -44,6 +44,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-13T00:08:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9287317,
+    "lng": -43.2033681,
+    "address": "Rua Barão de Petrópolis, 430",
+    "fetched_at": "2026-10-13T03:19:12.489289+00:00"
+  },
+  {
+    "datetime": "2026-10-12T22:06:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.877628,
+    "lng": -43.2439622,
+    "address": "Avenida Brasil, 4365",
+    "fetched_at": "2026-10-13T03:19:12.489309+00:00"
+  },
+  {
+    "datetime": "2026-10-12T20:45:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8874122,
+    "lng": -43.3203933,
+    "address": "Rua Columbia, 96",
+    "fetched_at": "2026-10-13T03:19:12.489324+00:00"
+  },
+  {
     "datetime": "2026-10-12T17:52:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Cachambi",
