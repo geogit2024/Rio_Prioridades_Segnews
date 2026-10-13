@@ -1,5 +1,11 @@
 [
   {
+    "title": "Testemunha diz que homem morto em ataque em Manguinhos estava com filho de 2 anos no colo: ‘Tentou proteger’",
+    "date": "2026-10-13T07:00:00+00:00",
+    "source": "G1 Rio de Janeiro",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/13/testemunha-diz-que-homem-morto-em-ataque-em-manguinhos-estava-com-filho-de-2-anos-no-colo-tentou-proteger.ghtml"
+  },
+  {
     "title": "'O Bope fazia parte dele', diz ex-mulher de subtenente morto em tiroteio entre PMs",
     "date": "2026-10-12T23:13:24+00:00",
     "source": "G1 Rio de Janeiro",
@@ -12,10 +18,22 @@
     "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/12/corpo-do-motorista-morto-a-tiros-em-festa-de-15-anos-em-manguinhos-sera-velado-nesta-terca-feira.ghtml"
   },
   {
+    "title": "Crianças fazem festa em praça marcada por mortos em operação policial no Rio - Folha de S.Paulo",
+    "date": "2026-10-12T21:56:00+00:00",
+    "source": "Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPekpZUWhTVGtaR292WFljVGhnZFV4MEUyYUU2N0cyTmNyYXBXaV8yWnpjTUR1WHVXMnJxS2NXdGE4NXNBOHBzb3BwVjFQdm1oMzMtekw5Q2FhLUFEQ1kxM2ZNQzM3eG9QX0cxdXlwLVAtUmd0UllPSlI1Qmplb2hRM3NfWEtYUWp3TTFzQ3g0TXFISDVfVkFMUWFoYUlkUXBvTHlIZ1poSkZCU3hiNmdFR1pZX0x3QlVtbW5QVzV6UlZtb2w5RF82RTFB?oc=5"
+  },
+  {
     "title": "Dono de bar é morto por PM de folga no Cachambi, na Zona Norte do Rio",
     "date": "2026-10-12T21:01:03+00:00",
     "source": "G1 Rio de Janeiro",
     "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/12/dono-de-bar-morto-cachambi-zona-norte-rio.ghtml"
+  },
+  {
+    "title": "Policial morto em tiroteio no Rio era irmão de agente falecido na operação da Penha - bra1.com.br",
+    "date": "2026-10-12T19:25:00+00:00",
+    "source": "bra1.com.br",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlVhTFM3ZTctNldnRG1OTW9LLUlubUtvUDBXdU5nVEl3RnZLX2xGdFdpbDhRdGZxdGdxeWZMUmJ0VUlkd1kzZDc4aHNTTFpiNHFaN21vTVhmSGtDdDNBNlhJQkNwM1BZQS14TGl2RHRCeEZfNWF1Y2ZlWTQ3dHluaHltcEJzT3dMeFhHRUZsZU5FV252b1lHSEZVNENoYjIxVVk1QV9oZDA5emVicG1nNUpwcTJPMlJyUk1Halk5MmNrV3M?oc=5"
   },
   {
     "title": "Ataque a tiros interrompe festa de 15 anos em Manguinhos e deixa um morto e três feridos - Rádio Manchete Rio",
@@ -174,28 +192,10 @@
     "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/08/zanin-nega-pedido-de-paes-para-suspender-decisao-que-pode-eleger-ruas-no-1o-turno-no-rj.ghtml"
   },
   {
-    "title": "Paes vai ao STF contra decisão do TSE sobre votos de Garotinho e pede realização do 2º turno no RJ",
-    "date": "2026-10-08T16:32:57+00:00",
-    "source": "G1 Rio de Janeiro",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/08/paes-vai-ao-stf-contra-decisao-do-tse-sobre-votos-de-garotinho-e-pede-realizacao-do-2o-turno-no-rj.ghtml"
-  },
-  {
-    "title": "Ônibus invade atacado de roupas em Caxias e caminhão de material reciclável tomba sobre carro",
-    "date": "2026-10-08T15:36:34+00:00",
-    "source": "G1 Rio de Janeiro",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/rj1/noticia/2026/10/08/onibus-invade-feirao-em-caxias.ghtml"
-  },
-  {
     "title": "Tráfico de fuzis no Rio rendeu R$ 100 milhões para facção e policiais - Diário do Poder",
     "date": "2026-10-07T11:19:00+00:00",
     "source": "Diário do Poder",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWljMnpLaVUwVEtLM1ZVdlBFS29VajVzdUJ5NWZlVTBnT29YVG5aekd5ZWJ0RDJqdWJDTVdabUgza29iLWJubjhVd2tpelM2Qm80VzlZcEttc0FvWE15VzhDbjgyRUdXd0lmZU5HN2xBS1BZcGZKZ2Y4RWNSMDB5eFNjcG9HYVZJNThxeHJWY3VCNmI3TVQtVVlhVVFNc0NETi16RGQtT3ZkODVVOWZDZnVtNkZIbzZLTWxUY1hJVnJiYWpSMzRreEFFNNIB0AFBVV95cUxONnNjcGJLc1I5TFBCM29NZXV5ZnhGUEdvWmFlMWxFMGpDU1p2eU5Bcm1EMFdRalZndkw4bGhJcTNZUzhjSExKUGtQb2lkUVJDbmVFT3BSak95S09jLUxBdFRNalVsTXFMSkpXRVBpQTliVWI2aFBaTW4tNlZJd2E1aVlxaHpGUHRxN1lrN2tqMVF6eUNXdmdqY1ZpSjB1cTVuVVh4aVdEbGFXVGMyMWtTaWV2aVZ6NHNaZ1AtZnhnUW9hdURtY1pZQkd5cW5rWmdi?oc=5"
-  },
-  {
-    "title": "PF mira tráfico de armas e lavagem de dinheiro no RJ - SBT News",
-    "date": "2026-10-07T10:24:27+00:00",
-    "source": "SBT News",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTUdoSV9EV0M3RjE2OUtpOUdINmtOZ09sWWQ5OE9tUEhpeWRGZUlRT3ZHZG90eFhlWG5Scm4xRV9oN19tcmFuTmk5bzRrSHpLOF9sakJyOUphVmloRTdwU01pb2ZubnNiRWdRWTJ0b0tGSkhmcWtVeEJpekcxWTZkQ1U4X1hkdF96X2t2UDZrb1l3SFc3Z3NqTEZ3?oc=5"
   },
   {
     "title": "Violência em Duque de Caxias: oito pessoas, entre elas uma criança de 5 anos, são baleadas em praça - Extra online",
@@ -324,16 +324,16 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbDZFUmVyeFM3Vk8yOFBlLUxHanpQOFh0MTNreDZtak5DVi1GREJQT01DczItbl9sVXVPZTBYZkEyYnVzdkNIZXJNaHpzQkRKX2RmREJrdHZvbTlQdDBaOVJNZFM3Y0VZSVhyYmpNcWl6QXBDVkJILVpCZUl0Y1YxcEFHekZPRk9vNHBSVV9oSktyR2F4TTU1OEl4ZURnRElkNkJtM0FXSlJOWXExXzZORldNUmtrRVozUHVDMG85N3JLZE5vY1BGTdIB1wFBVV95cUxQWkpqT0w3WFpVdTVHNjBJeWl4ZFJadkpJR1hYYVpoZ1pqUEh2VmktYUpTQ19iS2w4THQ5WTVOcnNtb19DUEdKNFd0U2NXRTgxV2RkbVI1eGN3R1V0UUdFeU11ZTVJRXQwVldEbGR0TDI2U2xva0JCNGVPWWM3ZjktVFo4UU94TkYzdW1VMTZyT0RjdFRXWXpPSTQ0TnUtNDkybGJpYS00ZEhVNDE2aXFtU2htRWhpNkFndkg0dmMxWUpHNXJTcGx6cFhtaFhYZnZxOG5wclFYUQ?oc=5"
   },
   {
-    "title": "Operação na Maré contra o TCP deixa três suspeitos mortos e 13 pessoas feridas, entre elas uma criança e um PM - O GLOBO",
-    "date": "2026-09-28T07:00:00+00:00",
-    "source": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGNCeWRVdmJlb3NJOGxiaVNLZE1Wc3V6R0FVaTZLM2JKRTQ1V2NqSmFsanJjQkN1Z1pUNHpUQ3ZnOG5FOFctQy00ZUtMMEZIUVhUbHZJRVlJUHRsNUtudGxWWVA2dkhFZl9pR19EbzZPMGZSNGxtWVA4Y3VDaGRieEliWHVBWVFvY0RuMzdEMUFEMjRwVGk3bEE2Sjh3WDdnWjJLaWV1V1JrQnQzZVkzMUd0WURVZ0M5ZXfSAcgBQVVfeXFMTTB5MVdCVS12N1JNZHFTdUJZUFFDY2w4VHFpd1A3TVgwNlc5dXk0aVZpazQ5aGZfUmdBd2VENDBpbGJRcFZ6VjhfalE0N1hmOS1MYm1RaThWVk90Mm9vbWczT0VqZ0lTLWRiQ1ZGYVlqbDl3R2ttNXhvSDdkWTAwblFRWnpOekdXQTFjNm1lcjdVMllsQVcxckNzZWJ4Q21GdFQ0ckQ3NmljRVBfZXpacEJJbjdDZm1peHg1MlptM1hjZWNKOGFrWWw?oc=5"
-  },
-  {
     "title": "Operação no Complexo da Maré deixa 12 feridos e um suspeito morto, no Rio - G1",
     "date": "2026-09-28T07:00:00+00:00",
     "source": "G1",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTVN4Z2xLRVFubjJxdm5SaTdUUi02WEUzeHF0ckpmeHFHcjdBM2VwS1pjQUdiLW5RTEt5ZHNISm9xY1VBTjVXWmg4dEtyTmVBMDdSb09PWVJkWnJuV3RjWUNvM3ZWaW82dExORzYxcDlIYWJsRnV2WFRiNWozb3hUYU03WE5IR2ZLQ3BwU1pOLXh1NXhJSVBTVkdwU1dwMy16MU1ZY1NhMEttcTRVd2NRMk10V0lDZ0Zib1pIRTVqb0ppZjdJ0gHTAUFVX3lxTE55LU5LeHBMR0YzekwxTDdUUnR2T0gwZVd3MWlKQVJMa2ZiSTZoMTJsenU2aUhWRlNhUndwNWVGS0ZHeXJoLVh4MVRKdUFTcy1zREVjcERqbjhCZkYtZFRqd3B5S1ZISE1tNm5COHF0N3JPVk54VzV6SW1FMm93dXQtU1QwYzFmcURETF8xV2p4OUh6YnQxWVdteDg0Zk13TDdlcTA4d0k1bUxUVEhEQ0k5aTJoYWlwU2hoVWZGaXVIOFoyS2FYUzQ4WjFrNFRwdW42Mjg?oc=5"
+  },
+  {
+    "title": "Operação na Maré contra o TCP deixa três suspeitos mortos e 13 pessoas feridas, entre elas uma criança e um PM - O GLOBO",
+    "date": "2026-09-28T07:00:00+00:00",
+    "source": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGNCeWRVdmJlb3NJOGxiaVNLZE1Wc3V6R0FVaTZLM2JKRTQ1V2NqSmFsanJjQkN1Z1pUNHpUQ3ZnOG5FOFctQy00ZUtMMEZIUVhUbHZJRVlJUHRsNUtudGxWWVA2dkhFZl9pR19EbzZPMGZSNGxtWVA4Y3VDaGRieEliWHVBWVFvY0RuMzdEMUFEMjRwVGk3bEE2Sjh3WDdnWjJLaWV1V1JrQnQzZVkzMUd0WURVZ0M5ZXfSAcgBQVVfeXFMTTB5MVdCVS12N1JNZHFTdUJZUFFDY2w4VHFpd1A3TVgwNlc5dXk0aVZpazQ5aGZfUmdBd2VENDBpbGJRcFZ6VjhfalE0N1hmOS1MYm1RaThWVk90Mm9vbWczT0VqZ0lTLWRiQ1ZGYVlqbDl3R2ttNXhvSDdkWTAwblFRWnpOekdXQTFjNm1lcjdVMllsQVcxckNzZWJ4Q21GdFQ0ckQ3NmljRVBfZXpacEJJbjdDZm1peHg1MlptM1hjZWNKOGFrWWw?oc=5"
   },
   {
     "title": "Operação deixa três mortos e treze feridos no Complexo da Maré, no Rio - G1",
@@ -378,16 +378,16 @@
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1NRLTNlSTFtbkwwSTUzRXdUODhFdi1HaG5lOUZwTlJ5THREbWRtUlY3S1hCd2JkWWxoWDVIZzNGOGg1Z2djbllGR3pyY1llYzZoX3hRcUZ3MWVnano3dDNleHBDbzZTUmNZYlVTc1FWWklnS2lrc0p6Y2lLYndRbk9aN3Z4bDNKYjByTHY2UUc0dXZsbnRXdldzMF9KTm5JWGgwYWR0aWhTdUFzZGxISkxpa0c0a2M?oc=5"
   },
   {
-    "title": "Operação da PM no Rio deixa um morto e cinco feridos na Maré - O TEMPO",
-    "date": "2026-09-28T07:00:00+00:00",
-    "source": "O TEMPO",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSFhzNDY4SnRvSFp1THcyRkFwUUxVNWU1NExScGlDb1RwaEtVNXhiR2E2aVZnSXZoUW51M2Q1UnFMZE82SUF2TzVQcjdDbl82YV92c2pzZ2xMdDU2UnR4OENaOWtYYURiRXM4ZUY4WF9paGFOUE1qb2xQRDVyZ1ZZN0swT2JNOENFM251ek55OFJyeFBFdGt1d0NsbDFRM1RVdnZYdENOSmJYeThBdVFycG1hSEtlVFU?oc=5"
-  },
-  {
     "title": "Rio: Operação no Complexo da Maré deixa três mortos, diz secretaria - redeutv.com.br",
     "date": "2026-09-28T07:00:00+00:00",
     "source": "redeutv.com.br",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVAzYnltMmg0SndmQ0U1aC05SHA1cUF5UnJVci1VeG5HNDIzZWhKT2hrNlF2STA5WlY0M0pXcXdwWUpLZzVDNzZjM3hUaHZqVFBURXZsUE9vZlExaG14VlVtNHFDTksyTWQtTGxVX0laRXhyaXhNOHRUUEJwYVJxUjZHUlZDZllzeXJXM1BILUk5UQ?oc=5"
+  },
+  {
+    "title": "Operação da PM no Rio deixa um morto e cinco feridos na Maré - O TEMPO",
+    "date": "2026-09-28T07:00:00+00:00",
+    "source": "O TEMPO",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSFhzNDY4SnRvSFp1THcyRkFwUUxVNWU1NExScGlDb1RwaEtVNXhiR2E2aVZnSXZoUW51M2Q1UnFMZE82SUF2TzVQcjdDbl82YV92c2pzZ2xMdDU2UnR4OENaOWtYYURiRXM4ZUY4WF9paGFOUE1qb2xQRDVyZ1ZZN0swT2JNOENFM251ek55OFJyeFBFdGt1d0NsbDFRM1RVdnZYdENOSmJYeThBdVFycG1hSEtlVFU?oc=5"
   },
   {
     "title": "Operação da PM no Complexo da Maré deixa um morto e cinco baleados - ncnews.com.br",
@@ -414,16 +414,22 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV1VRN0dNTTZBc09MYV9CMXJBNm1HM29YYnRWWm93UTR5TVRybE5xOF9ucU45Q1k1T3pUTmVaRjZla2ZqM3FmRGdJU0UzNTloR1FjTDVHMmg0dmY5VzVBQXJBTlk4aXI4a1lIZ2JPcEpJNlFKRk1Vd1FIY2tPdC1jeGxCSVlNanB1a0REUElmVjkzQnR0YTdGdDNnRWVnWWNWSjcwYjBBVFNHSXEzMlJhSmVuRFBDTVJkOVB3TGtyQTI?oc=5"
   },
   {
+    "title": "Rio: Operação no Complexo da Maré deixa três mortos, diz secretaria - Agência Brasil",
+    "date": "2026-09-28T07:00:00+00:00",
+    "source": "Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWHBsY3FLaWNQN0lRR25TUTZya1d1ZTdNQzhNankzT0RFcXFLYTNnV1BqQTFiNUxMTHR2WHB3dGM5YlVVQ3JKd05kZ1hpNy1SSWlzTTcwRUljNnV6MEUwUmxVWWpQaVBPbGhMREdMX21NVE9MTm02MEZCYVhEcHF1UFdJMFRyZEEyZlExUk8tdWhqTjhsc2h6V2VlSXJ6RVgtRDdiMjM1NjZ2MkZQU29sSFFWejVvVUVlbm5BbA?oc=5"
+  },
+  {
     "title": "Operação contra tráfico de drogas deixa 3 mortos e 13 feridos na Zona Norte do Rio - G1",
     "date": "2026-09-28T07:00:00+00:00",
     "source": "G1",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdkh0Rkx5TjRpMlU2SG5HcmlfbzZ6UVVOTGY2WmJjYzRsZVFuSmg2XzhJbmhfTTFSUjFNRUF0UjBEVW5paEpqU2JoWl9EbnNDYUJhY3NZdXR6QkgxUVZ1SDlueEh0ejM3MmdWVVpMeHhOMVR1T2NhakhubmtMaFNWZjE2VG1qUjEyTWo5RVQ4b0RzSVB1TzIyMTFTTmVaVjU4dHlLS0xfN2UwZzBhVzNOdnlfNHFVa2NBMlJKYXM1THZVTl9mWVN6eTFpZm9oa2FablBDVkM1WUo4XzNw0gHrAUFVX3lxTE1HczdNSnhFYWFCeHJnUm9tZ2RFSDVYSENNTXU1WUd1V2xtWUY4dEoxLXowQ2ZJclN2Q05iRUFNNmphWVlSRmhFNTEyMW1fYWNySV95MW5oSTNyXzBzQ3NJdG9fM3RWajN6TVZyUURGekkxNTZYYjR2Y3pjYzRZdW8wX0tlbllTM3dIUDZVcGFURjd6OFlIek1pdXhqZFcySW1YYjNhMmVsQzAxdnhkRDRqR3o5SmQzcXljaVVDaVdZVWtPZ0RUcWJCMXFQdUphSVRDY3E3WXM5dFFNRVJqd2NQX0pxblRKVnVRUDA?oc=5"
   },
   {
-    "title": "Rio: Operação no Complexo da Maré deixa três mortos, diz secretaria - Agência Brasil",
+    "title": "Rio: operação policial na Maré deixa um morto e 10 feridos - iBand CE",
     "date": "2026-09-28T07:00:00+00:00",
-    "source": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWHBsY3FLaWNQN0lRR25TUTZya1d1ZTdNQzhNankzT0RFcXFLYTNnV1BqQTFiNUxMTHR2WHB3dGM5YlVVQ3JKd05kZ1hpNy1SSWlzTTcwRUljNnV6MEUwUmxVWWpQaVBPbGhMREdMX21NVE9MTm02MEZCYVhEcHF1UFdJMFRyZEEyZlExUk8tdWhqTjhsc2h6V2VlSXJ6RVgtRDdiMjM1NjZ2MkZQU29sSFFWejVvVUVlbm5BbA?oc=5"
+    "source": "iBand CE",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTndKRXFwejlzZ0w1OFhlTVZaZGVkR0tnUElBUl84R2xHNUF3UVBsTXNIUjlpdnFXYWRGeWdreWRTS1VpN2RNUUx6S3JyemkwZnpKUXlhOE9fSUxHVEdYNFpRYWhYcHJsNUFEdkhlWENmbEItdDk2anZzTGt5STNBWFE1SHlxcktm?oc=5"
   },
   {
     "title": "Duque de Caxias realiza seminário sobre violência contra a mulher - O Dia",
@@ -658,6 +664,12 @@
     "date": "2026-08-26T07:00:00+00:00",
     "source": "Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWWhCb1dHSWZPaVZTVnRHelZ0ZUF1ZDlBSkx3NE5rMWJTNVhieTNzR2owZjNvNlIzMkoxQ1dkd2FET3pHM29zc0xRd2RwMWlZTmdMdXRrQUZQODRmSm1zR2tuU0EtYU42SS15TjRPbHo2QzJRX3NOMGFlVW1hQjBGZ1dMTTNBc3dFVUZLR255Q3ozUm9jbzVGbkRLZUFEdjF3a2tuQ1NKMnJiNkl3MGRPYWExNzktSlpRaFRpU283LUg?oc=5"
+  },
+  {
+    "title": "Operação policial na Zona Norte do Rio termina com prisões e ônibus usados em bloqueios - Diário da Guanabara",
+    "date": "2026-08-26T07:00:00+00:00",
+    "source": "Diário da Guanabara",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDQxeWtYZnZzazBMNm5BUHcxYl9MU3JZdlVCbEhhWnVPZm1NLUpLS0tiUVRiZHlOR3F5aU9OajBQWFhZb0sxRFU5c3laRjQyckhEeUVjLW42Wi1kWjdHUUhvOVg0Q1VKcHowakpaaUxEYUVoZno1dkRzMEZ2YWhYcXVjRnhncVE3aG1yQWswNEdMV2dTT21CUGJ4WEFUR0NEMEd4VlFHUFJlR29yMmJ2bjRtN0I?oc=5"
   },
   {
     "title": "Operação conjunta mira integrantes do TCP no Complexo de Israel após dias de confrontos e ataques em vias expressas - G1",
@@ -996,6 +1008,24 @@
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWRlTDdmSTlhd0pVS0t3UU0yTEdfcnJWcWtlaS1BUzZncG9QZm9hZ25LVGZfSXJUajFIcWVjNF9zc3hNSFdQZ0hhbzJ0eTI5MUFoTVk4LVhMZmR3OXRFbkR1SzgxUnoycnlrckRDVHNSTjI0X3B0V05DSVY5c29PM2x6LTd3UGZOMUNWUC03WWYxRkxTS3V0a0h6aUR5RjVr?oc=5"
   },
   {
+    "title": "Protestos bloqueiam vias no Rio após operação policial na região da Mangueira - Fato Paulista",
+    "date": "2026-08-12T07:00:00+00:00",
+    "source": "Fato Paulista",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHA5X0xBZEVyYmRpc0R6VUFSc29feUNzNU9HcmJXSjVqc0N6SHg2MFZuZG4wRHZMamtWRGtMQUpTRmhUOS10cW02Rmd2cUI4bzl6d3dMY1NhWFlHTnc4UjRSTTNKdmM5a082c2JZWDdHY2NEU2U2c243SkF2Qy1HYnZScE9aZUdkUXdzaHF3?oc=5"
+  },
+  {
+    "title": "Tiroteio na Mangueira provoca protesto, fogo e caos no trânsito do Rio - ncnews.com.br",
+    "date": "2026-08-12T07:00:00+00:00",
+    "source": "ncnews.com.br",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWdGYmNRTmVWQmV5ZF9SUkptWTNDajNBTWJrTHhUQjA3aHZXSEUybU4xc05XTWxkQ3pRX1c2TG9UNzlocXhDc2R6UG1WWmpoNVI0REduVlZVYy0tOEtGS2U1OU16YkdaeFZLeUg1bXU2NGhVc3F5V0pRX0xvVlR5TWFzTW0yaTViUElPSExR?oc=5"
+  },
+  {
+    "title": "Passageira é baleada dentro de ônibus durante confronto policial no Rio - UOL Notícias",
+    "date": "2026-08-12T07:00:00+00:00",
+    "source": "UOL Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQUpPTHVIRTkwZ2RRMlFCdTFSUmVKWUFNU0g3X2pJNmx4NWlvSTRuN3d6TFZfVUtxZ3I0MUhYSUF1NG83ZkpiaXNQWWplZjN4aWpFbzNDNVRVZUZ5d2dPZDl1R2x2OGNCSWFBNVN5VmpkcVE4Nzh6YlJ4azFxUk9nakc4U2dlcldIX3FUT0lfaE9kSnM3V01xVFIyTVpaclBjVTJ4eWh1UF9rXy1KUWFhOTBVZHNHQUhIRzhsS2ZhdjQ4OElrQ3pMOUtOcnZ4ZHZ6SFIxSFF5WmEyUQ?oc=5"
+  },
+  {
     "title": "Polícia prende traficante após confronto durante operação em Duque de Caxias (RJ) - R7",
     "date": "2026-08-11T07:00:00+00:00",
     "source": "R7",
@@ -1098,6 +1128,12 @@
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYWlmZWJOZFJuN1NKUXQxUGhJNXFSdmY1emF2QklKcmpZV0gtRXRaU3o5T08wcXFyUG0tazFidXItaXZlOXpST2xFaV9yZEd2dlFDX1gzQ1duWFNFeW04ZUZpQTF2UWgwOTZXZTM5WEE3X3VtaG9faFJLbXczcGZsZWZOYXZUNTByeW1Eckt2R1JpblZLTXJCdTlkVTZYZFJLVGNuWWpkZ1ZIU1NVTUFIM2lqTEtoWEUyWFE?oc=5"
   },
   {
+    "title": "Homem morre baleado em tiroteio no Complexo do Alemão - O Dia",
+    "date": "2026-07-28T07:00:00+00:00",
+    "source": "O Dia",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0hTb19uNi1EaTMycVZQVTdHc0ZmWDdrOVp2SklCZENTaXA3blBETTJUbFd2RWNSclVGTFZPY2piekFoRzlWWlFvUlVuamdYak1WNnE2VWJpdnRndGtFWl9ZNkJ1aE5Scno3a1pJM1FPVFZfcXotZFlYcHNSSVFxcW9XQ1EtWThtQVlUTWxwemtCMmdlMjI2WDltQlpIOGdRS2dhc1VLSEM4cFdyNU4ybFBxclFMZDRBUlVCNGo2a0pWNHBM0gHKAUFVX3lxTE5lOG9UQW43dFdCc3lTd0Jsd1lhRmVjMkYtZmI2Rm5zWmZ3cFBkWVBSRlFvSXZhUGg2bksyZVpKZXZYbHlfSXh1a2RVWlZHRjBST0RaMW0xSHBjTjdQeDNnbFo0TF9RTUFWVm9jcFhwTGZra28tT1QyX1dFRms1d3JBbWp3LUVvelRGNEhBUWhTM0RydktBejVUMHdoT0ozTW5aOHMycW5JSjFnVHYwMU0yRDAzT1QzZGgteTdwUVU3cFE0ZE91V0RUTGc?oc=5"
+  },
+  {
     "title": "Após intenso tiroteio, policiamento é reforçado no Complexo de Israel - O Dia",
     "date": "2026-07-27T07:00:00+00:00",
     "source": "O Dia",
@@ -1180,12 +1216,6 @@
     "date": "2026-07-21T07:00:00+00:00",
     "source": "O Dia",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNGxaenlnWFBFVHJNZl9VYktRWTE4ZzRCZXhkMEdMNXIyYzBOQTBIdy1WNXdHWHJ3X3NwMkZ6UGxfM1E2ekxkYWlRNm52X1lwOVZfVHBDNnJmTUc4b1lTekFhZXRMSkdUWHZ3WVJDRzExWVlCckFSYzdTREY5TDJKV2ZfWDlJLU42aVRYRTJER0JMLTZvNzJoTl9IOHllVlV2RV91ZXE5WTdPUnM1X2xSaEJ1RjdzeEwwUFFGSEhB0gHDAUFVX3lxTFBCemNMaEtmeXVMXzRaQUdST2JsdW5YeVJraUY0TE8wZE91WGtDV2IwT0lKc3FkbU51WHY5M1lCVzhDWTVET1N2X0NNS3BxUUZGNGlDMktnT3czOWhKMG9MeGphV3ZyZVZ2MGozY1l2QkNId2ZNY0hwV1NwZ21POTUyZHA1N1F5aUg2amgzOXRBR3dZZ0RXYk1hSzJUVzJ2WnlJdUd3bkZ3S3pJSHRxLUttaERLc3V2a3RHUHUzSmEyRHIyTQ?oc=5"
-  },
-  {
-    "title": "Confronto com a PM termina com três mortos e um preso em Vicente de Carvalho; vídeo - Agenda do Poder",
-    "date": "2026-07-21T07:00:00+00:00",
-    "source": "Agenda do Poder",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0x5WnFiS2c0LTRobm5pUk5hZk1zXzN1WVJ1Z2hoSUNMckZfT0dSYmRQZVU1YVBDN1VUWE90cEhQZEREUWp5V3F5TmJMVC1acGtPeEQyRE0tX3AzMjBnYjhxbklEd2g4aTJ0ZTFEZE15ZlotUGFOMTU5WmI0c3VtNEc2bS1oa1RGREQwWldYNXFMdnlEWXZ0N0NJR2w5dw?oc=5"
   },
   {
     "title": "Vigário Geral: ataque de bandidos deixa idosa morta por bala perdida - Extra online",
@@ -1356,6 +1386,18 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnpRRHdDOVB2c1lvRDNUNjk5UTJKM1E2VkFFcENJeDE2VWx6eDVZbEdpQjB0RFg2djhLN2pSWlVCVkQyYVczbU9TSEVSWjlheXpKd0xTV0NJY2pTVnVOWFlfYUZ0SHJ0SUMwMUZvbkZ0N1NLUkJOaGdPT0NROTYycm8yX2dPUXY1Nk9pMEEwcm9YZnFIVVNHa09EV0hTRW9Hbm9vVVhyVjhQdFMzS2RXM0V0ZHNKMzBfR1ZESExyaw?oc=5"
   },
   {
+    "title": "Tiroteio em Guadalupe hoje (08/7) fechou Avenida Brasil e escolas municipais funcionam em meio ao confronto entre policiais e traficantes – Sepe - Sepe-RJ",
+    "date": "2026-07-08T07:00:00+00:00",
+    "source": "Sepe-RJ",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRVpQaUFBWXUyOEZscnZvN1ZGeXl4bDEtY3RDMW9Ya3JJU0FZdGY3OVFselQzcUh3NWd3NWctZTd5TlBDSG1BcGRKbDM5NG4tSXFVeVVkQTJ0SVRINi1MNjA4eUo1VmNyZ2ZfdFhTWG9kc1VkaVNvS0dBOEtoTXRtSlhHcG1nS3FUbUl6VWlNb1dxSThjT3BkU29mWGxWNXpobmlxME12aXYzTHRzNkF3dkk4ZXRwZGNLY1loWDBiUWdqTmd1SUlHMlBZamZMQzVFM3dBRlJNSWVESWpQQk5QLV9VRnZpY3ZFNTRkSzExZw?oc=5"
+  },
+  {
+    "title": "Saiba quem era o policial civil morto após ataque de traficantes no Rio - CNN Brasil",
+    "date": "2026-07-08T07:00:00+00:00",
+    "source": "CNN Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVB6T2QwNHlCOGpXM0JPZkx3NG9zN0txNFpRNnFlblZ3aC1yQXFieTZrQzFEdTVYajh6aTJPOUJGbVFfMHdtdEdXTXQ2c2FSWjM5V29iWEtsYzR5bkVOYUM3cmNYZE82VHZMTTBBRnZ2bklVRzl0OXdTVHYxSGgzbUhnd1UyeU0wY2lSall2N2c4UGZ5ci1rOHlLT0otZE1jTlRFQndtRm9fS24xemFjWmQycDdvTkRzX0FrRWRB?oc=5"
+  },
+  {
     "title": "Morador é baleado ao voltar para casa com a filha durante tiroteio entre PMs e traficantes em Cordovil - G1",
     "date": "2026-07-07T07:00:00+00:00",
     "source": "G1",
@@ -1446,6 +1488,12 @@
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVmpyblBkWHBKVk40MGFNN1lseDBjWVE3a0o2eFdXUXJ2TnhVUGhUUDQ2NGs5QlR6MjlXMWZpcUJxVXFhc0dMaFNqYVpMWi1jV2NWbnVVUF9Zek5sRERVZWJqdGxGdTdHY2txUUtwbFl1ejQtdTBiOHdROVF5dHpnUWJ1X2x2bU5ESnBHdnZRSVppMUhRVWNLMUxzeU9aV29ZNFN3bXhtc1lSaVhfU05CTF9lQnhtS3E2T1RKeG04UDNPRDdT0gHTAUFVX3lxTFB1a2Z0UUxEWktHbVdqNDZ3M1dJQ25ESExQMV9QMjQ1aFc1MFF6aFk3Q2ZGWndrMmRfM09Kcm9fTW04aUFmblNnZlNfdnR5dW5uVzFhVGFHQnhsQ0kyZlE4ZlBveVEtTFNuWU8tVUxRNkx6QThDTXFlZ2MtRVlzVUhMODBXWjhTcUxJU3c1OXY2YWRnanRwNXRveU9NNjFoeUFoR25yY3N3akV5MEFMZGNTU0lISlpoT2RPNU9uWkR2SXlYeHN3ZEdlZjV3UlB3NTN1ak0?oc=5"
   },
   {
+    "title": "Nova tentativa de invasão termina em tiroteio entre traficantes e milicianos em Rio das Pedras - G1",
+    "date": "2026-06-25T07:00:00+00:00",
+    "source": "G1",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRzA0ejlBY0Uwa190bU5RYWl3TVlFWVNIZ0ZsZ0hPUUVoVWJTSWtoa1RjbmRKckY0M2VrTXlRcm1oYkdDOXBRS2VfZFJoQ2lrM0ZKU2FrUXBNSmliZkFYOGZzUERTZTZXSEJuNG1tT2NtN09uUzBLNFdxblJUM3AzTlM0VHhidDQ2VjE0NE5CTk9nMGRu0gGjAUFVX3lxTE42b2JFM1o5alljbHc0THVyclp1VWxNanU4NHl0RC1wYThnOEhGVUJ4R2hBOGtweDNXOHZmYUFPQ3pqclBRQ1ZZNGM4MUs0UWtOVFRqLWh0aEhQVFF6VXh1ejlfZlIwcExZNXBuOE1xRFNkZzBlQi00Z1JMMHlod1BpeDBDNS1kMDZrczJRWVVOUk0zSktYT1d1WHB3dU5WcXlnX2c?oc=5"
+  },
+  {
     "title": "Tentativa de invasão do CV a Vigário Geral tem tiroteio, ônibus baleado e trens suspensos - G1",
     "date": "2026-06-24T07:00:00+00:00",
     "source": "G1",
@@ -1470,10 +1518,22 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc3dWZmlzaTNsa0NTVGM4bGppUjdzTVF2aE5lUmNYV0xPYkFVenVFLWNoZU9VdlFWT0xWM3otUUwxQ2wyNWoxcVlIdkRmNk04ejVINmswRkhGZXd3WWFGTncyaVo3XzV0bXBXTGRPYmxHN2xWS1hNaDdqMXNWamg3XzJqS1FVOHVBZ2tSSER6UHVfRTRVSENQRW93cmRlZ1NHRS1lVzVvb0hiTTNDZmhXVW54Z29xUQ?oc=5"
   },
   {
+    "title": "Tentativa de invasão do CV a Vigário Geral tem tiroteio, ônibus baleado e trens suspensos - G1",
+    "date": "2026-06-24T07:00:00+00:00",
+    "source": "G1",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcUh6WEdsSmF0YXVHcVBkRVY1X0N3Ym1lWVBUbUxnekNWbU1nb0w2Xzhqc3hwU242X0xkU2piMXFITnZreXRKZl9xc3gzVDc2M001YWtJaU9uQ2xFZWgyMV9BMnVwQ1ZyWkl4NTAtN2dPbGc2dVV0eEF0YjRObVJGNjVUTXYwSGc3cW9rZnhYVHpwc2M?oc=5"
+  },
+  {
     "title": "Botafogo vive manhã de tensão com tiroteio em operação no Santa Marta; passageiro é baleado em ônibus - O GLOBO",
     "date": "2026-06-23T07:00:00+00:00",
     "source": "O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeHo4SUNzT0JQaFpHY3gwak1ndm9TU2tkUEdhQlF5ODRXS1VxMFJDaDVGTnBTSGFHTnB5TmphV3Z1RVFnUHlLalZOMkdDX3lnTmxnM3B0SWY5Mkg4N3ZrTVVPSkgteTFHb1VVelFfRGV5azh5Yzdiak9TdlRGSWFIeHZpbzlMM3pjYWxPU0VYcUlINkhzU19SZUJqc0pKZy05cUJYbnMyZkVZVkNiZEFmUk13bGphN2pOWlIwYlg5WTVjOXR6S2Y4eGplVVd1TG51QTMwU1dsWEJGUdIB6AFBVV95cUxONThlZ2lfQlkzc0NFTDFlVWlCdmVEdTczcHI3TlBtdUpUOFBkN3hiNU0xUEtMajJIQUMwQy11MGVZeEpQWHlONnRmekhLWXg2eDF1NHNoY3JicHNvV3F2dU5sdVp4ZjZ1SXprckpBZ1dVMmhJNjFtQi1XRjUxVnM4WDhwSnJMaXQzY2FVcVFBeHVVX2JNZ0d6WlhQY2U1ckRxWFhJTEZBTzh2UVZOeTRTTFd5VzNmX1FqLTJwby1XNV91WXNOX1ZzVHptbTN5MmdwVC03Z1JGYUlHckZlWEQzejdVeVdxbDk1?oc=5"
+  },
+  {
+    "title": "Botafogo vive manhã de tensão com tiroteio em operação no Santa Marta; passageiro é baleado em ônibus - O GLOBO",
+    "date": "2026-06-23T07:00:00+00:00",
+    "source": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeHo4SUNzT0JQaFpHY3gwak1ndm9TU2tkUEdhQlF5ODRXS1VxMFJDaDVGTnBTSGFHTnB5TmphV3Z1RVFnUHlLalZOMkdDX3lnTmxnM3B0SWY5Mkg4N3ZrTVVPSkgteTFHb1VVelFfRGV5azh5Yzdiak9TdlRGSWFIeHZpbzlMM3pjYWxPU0VYcUlINkhzU19SZUJqc0pKZy05cUJYbnMyZkVZVkNiZEFmUk13bGphN2pOWlIwYlg5WTVjOXR6S2Y4eGplVVd1TG51QTMwU1dsWEJGUQ?oc=5"
   },
   {
     "title": "Porsche, codinomes e R$ 3,3 mi: casal preso por tráfico em MS - Campo Grande News",
@@ -1812,12 +1872,6 @@
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT2pLaGhyMnhPWXI4OUNhTTd5Y3U5eEV5Tk5Db19WOURlUUh1MFY4X0FOQW5DZHIyTFBsMFR5ZE5hYVVONVJjNWRWU0FkNXBRSHIwVHN4RnRwbVN2M1pCS216cFpGTzUtSExvNjhhZlJkczZUNThTT01uMks4NFd1WlNpTnRFbklqQm1lTW9nOGVuTjTSAaIBQVVfeXFMT1M0cGJUVXY2M1FjamRMeVIyT3l0S3d3VDFCUjUtemNhNzF0a0ZHRGJjYU43dmNnQk5BTWtrdldmZjVzTTk4YUUxNkJTbnV3aWwtRHMyci1xaG5pQVBCWVBIMUFPcTlnN1JleEhWV2JzWGhlN01zY1A0dmoxODhmZ1NVbExWSVVDR05qMjJqckp4Ulhvd1FkSnh5T2VGWDMxTUhR?oc=5"
   },
   {
-    "title": "Bope localiza acampamento do tráfico em operação na zona Norte do Rio - CNN Brasil",
-    "date": "2026-05-05T07:00:00+00:00",
-    "source": "CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFFOanlVNGF5TGlhUS1ZLWgxN0owVWwtSGI4ZjNyYVNtUXF5V2lYWjc0TkpJX3A5WlVKMDFibnhvaVU0enhkZXVjXzVwVHZFdURsdXl5Yk9DWVM4aFVYeGx1S0M0enRmeU10LWZraW9xN2w1VzNoYUlpVzd1a3hWbERVQzVDVkQ3RUptc282NWlEb1JjVk5ZeE1HblFCUjhZdmFnb0wwVXF4ODN5eTZ5N1VEdGN0SG1sc1E0?oc=5"
-  },
-  {
     "title": "PM impede confronto entre torcedores em Ramos e prende cinco suspeitos - O Dia",
     "date": "2026-05-03T07:00:00+00:00",
     "source": "O Dia",
@@ -1846,12 +1900,6 @@
     "date": "2026-04-15T07:00:00+00:00",
     "source": "Gazeta Digital",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRnlwdE0wTW9aSHJ2RUpNYVN4TjRzQUVmZXFOZEdTaHZVaDhlWHFBdFVETjJ0NFQ0bEVQSk0zV3hoWmNGOHM2azRnRVdxVTBhWlY5VjN1NmRLbXhaRW5LQUZ2MHVac19NNGd4U01sUXhFSHpCVTMzclF3VW1BZlFUOTFmWmtQWTY2ak41SGhXdl9xNHdvR1BHdkJqbk1OcDI1Y3JrVmhTakszWnQ5WDdCVFR2T01hNDhwUkRTN0F1OG1ZR2FwV1JTUThoSDN0bTZrMUE?oc=5"
-  },
-  {
-    "title": "Polícia do RJ prende 3, apreende motos e acha área de lazer do tráfico com churrasqueira, piscina e símbolos ligados a Peixão - G1",
-    "date": "2026-04-15T07:00:00+00:00",
-    "source": "G1",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWWY1ME9xQmIwRWdDT2R0ZHU3TDNCQTB6aDVCR0h6NkNfRnpNN3FiSmFoZW1DdVJBNVhUcHZKQlByZnplb21oMkpZSU84S0p3SFNLWXh4ZDRjMWNNQzg0NTFtekZ3Z1hNXzFfWFRMSlBWRlUzRzczWGhRZl9ESlpWM3YwZ2VQN2hkQXNCaDVTVXZpcEV0MzhHakZPc0hLeGRvbkN4dUY3ZDhzTUtwUjhkRHp4U0FtRlh1ZGllOXVaOXpaMlhrVmU3bXF6bjNfVGd6emowYUxtQWZwd1F4VjhZc2RtUVpRbmo5QzVCQ3hfR1ZESFpZTVHSAYQCQVVfeXFMTVpXTFR3TVZnOXdoS0x1dUNVOXFwRnRfUmhLLXE3V3k3dDBOSjFRM25CN3NjNkgtRld1cHRoSEZvUjc3Y2t3UUhsSzNoZGk5OTEwc1UyRHdGRXFTQmp5NWxraGktajR6R21SdkR5cUFTMGZsR0Z3RzFMSWpXOF80YTVDT0EtRXV1QU1KbVFfWEU4TW9PdU1tZU1iRnZ3SDVqNlJRa0JSNHBldXJiUHhxUVFCdDk3ZC01MUJGajNrUlgtc2Ria1ZQT2psMEpRbm10UFEydHNWWlJjWWpnUUh6SWlUYmQ4eEFxejFSU05sMFVWWW9SeWlGU0FIWHlxUmYyNThrZ0Q?oc=5"
   },
   {
     "title": "Dois brasileiros são premiados no World Press Photo com registros de violência policial e crise habitacional - UOL",
@@ -1894,12 +1942,6 @@
     "date": "2026-04-06T07:00:00+00:00",
     "source": "Prefeitura Municipal de Duque de Caxias",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLUI4cjQ0MEx1eHhVT0lTSG04di0xQWNoQWpNZWFVLXl6dldNZ1VTZ1BXRWtEbU91OGpxaDM3UlV6Wk5YMnZma0ZCQ1dMdFJsbXlkUTNqaDFlcW9kQkNZbjhuRndrVU0yRnFSMkxUVjBkSlk4MmhOUjBxY1VzQ0U5TjNwQmJSRk9lNFhLZ2lkOVIzOUxBUWJkN0RUTEdFWktkVV85RExibkNCbmtvLVJlWC1sT1RJclhyR05KZ1VkVE9IR0RnbVJOWlphc3g2cnVt?oc=5"
-  },
-  {
-    "title": "MPF quer acesso a laudos de mortos na Operação Contenção - Brasil de Fato",
-    "date": "2026-04-02T07:00:00+00:00",
-    "source": "Brasil de Fato",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUNsQjhkRElMeERYd2tSVzJtTTdCQ25pTFNxb1pUeTF0TTMxOVVDSzZULU5HU0VtN1hFUXhzaW04bklwMkpqT3ZnOFZPMDhxSGdnRVE1aU52UzRsV2ZGcWUzX0c1YnZUVUt5M3VDSHNZd3lvTlJNTE95Y2djRkJoZTVYT2FkUGZ5dEl1S0lJdXBwNS1fU01TS0ExVExSQjktTHc?oc=5"
   },
   {
     "title": "Em preparação, Vasco bate Olaria e foca em confronto fora de casa - Terra",
@@ -1950,22 +1992,10 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdFo4SmFramk5b2RoSjdBVTMzempXcndWT2ZtSmgzRmR5R3Jrd2NVSlZxSlFYZGhPd3M1d2NvcjduQ2dlWmYxb05aSUs5eHhYTXU0Rzh0cjJCOFlrSGpUT21GZ0o4emF3cXE5OFhvYnd0bXA5eG1wZzc3X25jS1k2OEw0Smp1QjF1QnNVZXlKeXFPeTVONFlUd2d5MlZzaG10YnhReHZIcXlsME1MTkZramZNZ1BKUdIBvgFBVV95cUxOdjE3M3BLNTNEaTRaX1RQWWg5VDNrT25XWjF6TWcwdERGSzZ6SmE3Vmdsb3YxcFFveWpqVlhfZ1BhYWVxV2U4ZHEzdDZBN200a0dFZlF4WXBaUE5KeXVoUk1yOEZ5TFFrenEwcEtoT0U1YlR3NWducHRyZXBiMmk0VFJWelJhSEl1a2NpQXZGWjVTNk1HRF9TaDY2dGxtcGJCY1JZYkpoc2ZNQ0ZCZ1FHaEwyVjNqWURiRC12MVVn?oc=5"
   },
   {
-    "title": "Confronto durante operação policial deixa traficante morto no morro da Mangueira, no Rio - R7",
-    "date": "2026-03-20T07:00:00+00:00",
-    "source": "R7",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMkxVbWhMUmtIckJKcnRmVGRGNnhPdEVqcEJJM21maHExM2ZKejhnWERKZzJ3Z0g0Vjl1cGlVZnlPU1hXckQzWHQ3OXhCYURheEs4bDJfN0F5WEpHQTlFQVJSTGlRVnN4RTZ4bjczRzZDekYyTk9JNTFLenBHdmJsakRZV1dKMHJVcFJ2M01tUzhPN3hVM1l4eHBVUWZyYWp3N1ZxZ3B4aTQxQXlFRGwzMXI2Z29reC1ua1o2ZzQwOGNYQjJ1aldUcU83dHIzbnQxQVJPend4VjAxUQ?oc=5"
-  },
-  {
     "title": "Polícia faz operação contra tráfico na região central do Rio - CNN Brasil",
     "date": "2026-03-18T07:00:00+00:00",
     "source": "CNN Brasil",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWdzZ0JyVkVFS1JNbGpSMUczN1BpN3ZyS1g5WEE1SnJtbFNCZ1phRUc2TVRQSHJzNWpZTmRodzBobjE4VTRFZGlLVXBEYzZXMjMxUTVoZHIxOW1vQXFtNUQtZnFOX1NKQUNkQlZ5OEQ2a1V0NW9SamVsYmRyRkZCYXAxTmhPcUY1Sk9SSk5UUTczcEpYN1FlNTVZOTlFMkVDbWlYZWxEeWstekNtdC1uV2ZrQllJWjBvY0lyVjJvLU4?oc=5"
-  },
-  {
-    "title": "Oito pessoas são mortas em operação policial no Morro dos Prazeres - Agência Brasil",
-    "date": "2026-03-18T07:00:00+00:00",
-    "source": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb05kUXV1TE9pOWlySDdxUy1VUFVJb0haVTdETk5fTDRGcjU4NG02ZUhJMzltOG1ROWlqSFJiX0FZd2FBM20yZmUtVmhZeno0MVhrWXlvdFA1ZDFfR1ZNWVZ2T2dISll4X2V3Nkp5bGw0bUZBVnNSYTEwQkU3WUxQWml3NzZIQ05wOUtiRFpYb3VELW5aTk9PWVpxbVZsaVVVeDlDUjQwQzdCQWJYenhlc2E4RW9LYkl5bkVrZGJQSGN4OE0ybFB0cUdNRFplUQ?oc=5"
   },
   {
     "title": "Bebê de 4 meses morre com suspeita de violência no Complexo do Alemão - G1",
@@ -1990,12 +2020,6 @@
     "date": "2026-03-10T07:00:00+00:00",
     "source": "G1",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaHYwa21VYzQ4cllBeTNDY0ZiT0E1b1AtRUQxMFhiMTJpOGhfTUJDYzFsVUwxT1JoYXluOUxiWVJRb1pUSGtuN3R3VDlMc051OHV1Z1BDWXZ1dTBuN1BTOEcySWV0UjNidWJQYmducjJwd1BvaUh2MlR3dUtBU1hGTFhIN1JFSGRhbWQ2ZjhRb0U3bTDSAaIBQVVfeXFMUGJGRXpyM19zWGNUMW9uS1psTmh3SXpHbWZKT0lJMjA4Y05xZzhrUFI2a1kydzE4aTZPaTlWLWxib205RWtPNW5xSktlU3BoREF4ZXkxUG1oQVNlMzQteHo0MGVScWlTYXM5dlhxV1BxUVdRalpiNVhUX3ZVV1pPemsySUI4cjRXSDV0R3VybEpobjExVjBwUmMzbnFUUEktT3Jn?oc=5"
-  },
-  {
-    "title": "CIDH condena operação policial que deixou mais de 120 mortos no Rio - Agência Brasil",
-    "date": "2026-03-06T08:00:00+00:00",
-    "source": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkthcVl5bnNoZWJCcTdnblpSSXhoMG5yTkxiM0hPX0FvV1JMcHlYSHZMT1hhczJIcGdZcXZWQi1nMWhXYndJVW9Gc1F2WmVvX2xXUng0X0ZSb0FVUmctdzhacy1MMW9XS3B4VWRoS0tYUzlrRE9sX0ZubS0wa1FVNDRrWXIxcVg1Mm5NZnE0T1I5Wi1GVEZCU3V1ZGU3TDFnWVNRZUNVOTdLUU93RHlOU3lEWkZuNGxvX1lxQ2pkY3RBN0RtNC1xVUQ1aWpqdw?oc=5"
   },
   {
     "title": "Quatro suspeitos são presos após perseguição e tiroteio em Ramos, na zona norte do Rio - R7",
@@ -2064,18 +2088,6 @@
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVlEdVBJZG5HX2hPcGE1T2RBbmFCYmw0YjJhSVltcWRCQ21nMzd6TmJYMEJPRHBlVWNFU2RLRmRjZGFjYzdJb3h3dGRZRDJTUjVjR1RVa2dJVm9rQ05MRWxzWHpNRWMwZmd2eGI0dFFkaDhoRWVCd3dDckpaVGJXZThiQTdabmdxT1BVcDYxUngxUWVuVTlqQTVvbUwwbTNDd09SaVV0MDd2ZTJreHpObThGQVdJRDlQMHRkNEFR?oc=5"
   },
   {
-    "title": "Tiroteio afeta circulação de trens em Manguinhos - JB FM",
-    "date": "2026-01-29T08:00:00+00:00",
-    "source": "JB FM",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WallYV0t1b0w0Vy1Cb0FOSWNPUXlwT25ZMXZpbUtMWUozamdmd0tfVXBaSGlHTXNXQlR2QWNBUDFWeks4dDdOcjlKeEt1VnBmWnRfaF9wdWFNOHZLOENvdmROVDdGdjQ5dUxKOFRLdnF4WmRSTHRxYVpzb2NjLTA?oc=5"
-  },
-  {
-    "title": "Oito traficantes são presos durante operação policial em Manguinhos - R7",
-    "date": "2026-01-29T08:00:00+00:00",
-    "source": "R7",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdlkwYmx3QU11MFdZZjJad3ZiY09RMncyYi04QVQ1SnFKQWhTeGhnWmw3NzBJSDVMNUVZTjRaUWN5WFVKVUZMaXNlM2t5b1Q3MzJMQTlDVUFOTnM5QWRsSmZSMG5NMXRhVzkxWDVDVlpOMC0zVU9TNFYzYzYtSHRweUtYank0ZFdDWFJ6aWRQQlZCaWhvQm95bzkzdDJNNjBMMnJVT2MwUzVjSlFmR0N6UzlwSkhLWUdWb0FZTURsUQ?oc=5"
-  },
-  {
     "title": "Mãe de jovem morta em tiroteio em Irajá relata reação do filho da vítima: ‘Ainda não está assimilando’ - O Dia",
     "date": "2025-12-26T08:00:00+00:00",
     "source": "O Dia",
@@ -2116,12 +2128,6 @@
     "date": "2025-11-27T08:00:00+00:00",
     "source": "G1",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRW1uVWNnOXROMlc0d0NyYW1ZNDJvVi1GYTNXMGF0dWRQUE1TYUlDY05HMEE2eEJITjlaUUN2QW02QTRyZ1VhcHN1Tk9QVEp6ZWFHczhsVXB6dUJsQ3B1OHZzZGtOZDJ1emFVWWpTaDlaeGliS1dNMnpDU3padXhESWdLM2JPZ0x3UG5vTNIBmwFBVV95cUxOeUh1T0hMd0ZGTGVOTUNLVFJ5STRseVNWdXFEdmVSSktiSGNyVHAtUFlIZTdVUVo5ajRCS29HYjVyX2RRYlBwUlhfa3RCUUNTR0c1MmUtR1FzV0VwcDlyVEJOUUR2eUpKVExpazluTTVLNU1EVTRyR0lkMlplQUtKSXoydUpkcmFEMXJGaDIwenpKbW1xZERZek0yZw?oc=5"
-  },
-  {
-    "title": "Operação Policial no Complexo da Maré - Governo do Estado do Rio de Janeiro",
-    "date": "2025-11-26T19:33:37+00:00",
-    "source": "Governo do Estado do Rio de Janeiro",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54cjRibGdHdWFvTE1rTmlEUTNOdzhFY3VpbXdRVkZxWUF2OUJ1NXM1QUo0VG9wdGRUbjZjNUVkUEZwN1J0MmpjNmVNZ1NISUNnT0NNRkNER3o5MlFRSHk0?oc=5"
   },
   {
     "title": "Tiroteio provoca pânico e interdição na Avenida Brasil, em Irajá - G1",
