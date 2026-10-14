@@ -4901,7 +4901,7 @@
     "transports": [],
     "victims": [
       {
-        "id": "e0501464-e6f7-4de9-aeb6-401579dd1756",
+        "id": "45e000bc-ca5f-4711-a370-d0f7b2b31394",
         "occurrenceId": "6c947f5e-ea41-438f-9def-28777bd5b600",
         "type": "People",
         "situation": "Wounded",
@@ -4968,7 +4968,7 @@
         "unit": ""
       },
       {
-        "id": "45e000bc-ca5f-4711-a370-d0f7b2b31394",
+        "id": "e0501464-e6f7-4de9-aeb6-401579dd1756",
         "occurrenceId": "6c947f5e-ea41-438f-9def-28777bd5b600",
         "type": "People",
         "situation": "Wounded",
@@ -5402,7 +5402,12 @@
         "id": "96992524-ebf7-4008-a999-81a179a91918",
         "name": "Tentativa/Roubo"
       },
-      "complementaryReasons": [],
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
       "clippings": [],
       "massacre": false,
       "policeUnit": ""
@@ -5414,7 +5419,7 @@
   {
     "id": "0ed36103-3d4b-463d-8ab8-08213c63f23c",
     "documentNumber": 79437,
-    "address": "Manguinhos, Rio de Janeiro - RJ, Brasil",
+    "address": "Rua Sizenando Nabuco, Morro do Amorim - Manguinhos, Rio de Janeiro - RJ, 21041-250, Brasil",
     "state": {
       "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
       "name": "Rio de Janeiro"
@@ -5438,8 +5443,8 @@
       "id": "9ad6d1b8-326b-40f7-8228-930df2680e06",
       "name": "MORRO DO AMORIM (COMPLEXO DE MANGUINHOS)"
     },
-    "latitude": "-22.8825193",
-    "longitude": "-43.2442626",
+    "latitude": "-22.874590230275516",
+    "longitude": "-43.24955561865956",
     "date": "2026-10-11T21:00:00.000Z",
     "policeAction": false,
     "agentPresence": false,
@@ -5486,8 +5491,8 @@
         },
         "race": "Não identificado",
         "place": {
-          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
-          "name": "Sem identificação"
+          "id": "6df2eadf-187d-4923-a23f-e5dfb508bcae",
+          "name": "Evento"
         },
         "serviceStatus": {
           "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
@@ -5620,8 +5625,8 @@
         },
         "race": "Não identificado",
         "place": {
-          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
-          "name": "Sem identificação"
+          "id": "6df2eadf-187d-4923-a23f-e5dfb508bcae",
+          "name": "Evento"
         },
         "serviceStatus": {
           "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
@@ -5687,8 +5692,8 @@
         },
         "race": "Não identificado",
         "place": {
-          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
-          "name": "Sem identificação"
+          "id": "6df2eadf-187d-4923-a23f-e5dfb508bcae",
+          "name": "Evento"
         },
         "serviceStatus": {
           "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
@@ -5767,8 +5772,8 @@
     "relatedRecord": "",
     "contextInfo": {
       "mainReason": {
-        "id": "f264a970-ebc2-4008-b0d4-20c07048256b",
-        "name": "Disparo Acidental"
+        "id": "a00fa7af-e091-46c1-8dc7-b8b60a144a9c",
+        "name": "Disputa"
       },
       "complementaryReasons": [
         {
@@ -5805,7 +5810,7 @@
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
           "name": "Homem cis"
         },
-        "race": "Branca",
+        "race": "Negra",
         "place": {
           "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
           "name": "Sem identificação"
@@ -5855,7 +5860,7 @@
   {
     "id": "a614706d-4242-41bb-ad1c-a2361150f025",
     "documentNumber": 79440,
-    "address": "Morro da Fé - Penha Circular, Rio de Janeiro - RJ, 21210-270, Brasil",
+    "address": "Morro da Fé, Penha Circular, Rio de Janeiro - RJ, 21211-470, Brasil",
     "state": {
       "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
       "name": "Rio de Janeiro"
@@ -5879,8 +5884,8 @@
       "id": "48b945f6-600d-4ecf-8980-5dfa9c00c034",
       "name": "MORRO DA FE (COMPLEXO DA PENHA)"
     },
-    "latitude": "-22.84466841",
-    "longitude": "-43.29477785",
+    "latitude": "-22.845277033026417",
+    "longitude": "-43.29689323221898",
     "date": "2026-10-12T08:00:00.000Z",
     "policeAction": true,
     "agentPresence": true,
@@ -5896,7 +5901,12 @@
           "name": "Ação policial"
         }
       ],
-      "clippings": [],
+      "clippings": [
+        {
+          "id": "bff2b899-5682-426c-bd27-e78b1c9b6e8c",
+          "name": "Perseguição"
+        }
+      ],
       "massacre": false,
       "policeUnit": "PM (UPP COMPLEXO DA PENHA)"
     },
@@ -5974,7 +5984,7 @@
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
           "name": "Homem cis"
         },
-        "race": "Não identificado",
+        "race": "Branca",
         "place": {
           "id": "262e0c02-b7ac-4132-a5ea-0d4414a26899",
           "name": "Bar"
@@ -6019,6 +6029,168 @@
         "unit": ""
       }
     ],
+    "animalVictims": []
+  },
+  {
+    "id": "8da34bac-8f1b-45ba-bac3-a9cd05f913d3",
+    "documentNumber": 79450,
+    "address": "Favela Dourados - Cordovil, Rio de Janeiro - RJ, 21215-430, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "abb9ba0a-5915-4ba4-9ed6-037679beb45b",
+      "name": "CORDOVIL"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "1e7604b1-52ad-4e8a-8bc1-6a935e2d71e4",
+      "name": "FAVELA DOURADOS"
+    },
+    "latitude": "-22.828150245410775",
+    "longitude": "-43.30031355080224",
+    "date": "2026-10-12T15:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "a00fa7af-e091-46c1-8dc7-b8b60a144a9c",
+        "name": "Disputa"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [
+      {
+        "id": "6c7099ef-a0dc-411e-850f-71763b045152",
+        "occurrenceId": "8da34bac-8f1b-45ba-bac3-a9cd05f913d3",
+        "type": "People",
+        "situation": "Dead",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": "2026-10-12T15:00:00.000Z",
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Negra",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      }
+    ],
+    "animalVictims": []
+  },
+  {
+    "id": "2e2a48c8-5760-4917-9a0c-84f903494282",
+    "documentNumber": 79444,
+    "address": "Mandela, Manguinhos, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "2aae2842-de72-4a32-be28-26aaa13bea27",
+      "name": "MANGUINHOS"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "40653066-180b-4dfd-a821-a45412b823f8",
+      "name": "MANDELA (COMPLEXO DE MANGUINHOS)"
+    },
+    "latitude": "-22.8825193",
+    "longitude": "-43.2442626",
+    "date": "2026-10-12T23:08:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
     "animalVictims": []
   }
 ]
