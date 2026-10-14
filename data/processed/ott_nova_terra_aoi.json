@@ -44,6 +44,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-13T21:40:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9324433,
+    "lng": -43.2411073,
+    "address": "Tijuca, Rio de Janeiro",
+    "fetched_at": "2026-10-14T01:12:11.225921+00:00"
+  },
+  {
+    "datetime": "2026-10-13T21:34:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.935,
+    "lng": -43.2538889,
+    "address": "Travessa Meireles, 6",
+    "fetched_at": "2026-10-14T01:12:11.225945+00:00"
+  },
+  {
+    "datetime": "2026-10-13T21:30:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Riachuelo",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8951996,
+    "lng": -43.2595725,
+    "address": "Rua Luís Zancheta, 48",
+    "fetched_at": "2026-10-14T01:12:11.225978+00:00"
+  },
+  {
+    "datetime": "2026-10-13T20:33:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Olaria",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.846846846847,
+    "lng": -43.268457506362,
+    "address": "Rua Comandante Coimbra, 80",
+    "fetched_at": "2026-10-14T01:12:11.225986+00:00"
+  },
+  {
     "datetime": "2026-10-13T00:08:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Rio Comprido",
