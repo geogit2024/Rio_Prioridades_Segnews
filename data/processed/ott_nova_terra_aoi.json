@@ -44,6 +44,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-14T11:46:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8313548,
+    "lng": -43.3022253,
+    "address": "Estrada do Quitungo, 961",
+    "fetched_at": "2026-10-14T16:14:53.584065+00:00"
+  },
+  {
+    "datetime": "2026-10-14T11:43:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8256182,
+    "lng": -43.3033031,
+    "address": "Rua Oliveira Melo, 443",
+    "fetched_at": "2026-10-14T16:14:53.584094+00:00"
+  },
+  {
+    "datetime": "2026-10-14T11:42:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8207138,
+    "lng": -43.2917724,
+    "address": "Estrada do Porto Velho, 561",
+    "fetched_at": "2026-10-14T16:14:53.584110+00:00"
+  },
+  {
     "datetime": "2026-10-14T00:03:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Maré",
