@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-14T00:03:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8518205,
+    "lng": -43.2431352,
+    "address": "Rua Darcí Vargas, 81",
+    "fetched_at": "2026-10-14T06:07:57.436923+00:00"
+  },
+  {
     "datetime": "2026-10-13T21:40:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Tijuca",
