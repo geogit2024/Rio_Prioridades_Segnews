@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-15T02:04:00+00:00",
+    "type": "Toque de recolher",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8086939,
+    "lng": -43.3071081,
+    "address": "Rua Correa Dias, 276",
+    "fetched_at": "2026-10-15T06:18:36.026887+00:00"
+  },
+  {
     "datetime": "2026-10-14T19:19:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Riachuelo",
