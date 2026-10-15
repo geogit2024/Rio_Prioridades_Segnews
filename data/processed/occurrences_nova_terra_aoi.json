@@ -4717,10 +4717,10 @@
     "transports": [],
     "victims": [
       {
-        "id": "a7a90cac-e091-4e5a-ac5c-568b7adf9fe1",
+        "id": "3b431834-6c7d-4553-a07e-ffc3683d600f",
         "occurrenceId": "a22c550b-5dd3-4e46-a43a-67d18ac89053",
         "type": "People",
-        "situation": "Wounded",
+        "situation": "Dead",
         "circumstances": [
           {
             "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
@@ -4728,7 +4728,7 @@
             "type": "human"
           }
         ],
-        "deathDate": null,
+        "deathDate": "2026-10-07T19:00:00.000Z",
         "personType": "Civilian",
         "age": null,
         "ageGroup": {
@@ -4739,7 +4739,7 @@
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
           "name": "Homem cis"
         },
-        "race": "Não identificado",
+        "race": "Negra",
         "place": {
           "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
           "name": "Sem identificação"
@@ -4784,10 +4784,10 @@
         "unit": ""
       },
       {
-        "id": "3b431834-6c7d-4553-a07e-ffc3683d600f",
+        "id": "a7a90cac-e091-4e5a-ac5c-568b7adf9fe1",
         "occurrenceId": "a22c550b-5dd3-4e46-a43a-67d18ac89053",
         "type": "People",
-        "situation": "Dead",
+        "situation": "Wounded",
         "circumstances": [
           {
             "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
@@ -4795,7 +4795,7 @@
             "type": "human"
           }
         ],
-        "deathDate": "2026-10-07T19:00:00.000Z",
+        "deathDate": null,
         "personType": "Civilian",
         "age": null,
         "ageGroup": {
@@ -4806,7 +4806,7 @@
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
           "name": "Homem cis"
         },
-        "race": "Negra",
+        "race": "Não identificado",
         "place": {
           "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
           "name": "Sem identificação"
@@ -4901,7 +4901,7 @@
     "transports": [],
     "victims": [
       {
-        "id": "45e000bc-ca5f-4711-a370-d0f7b2b31394",
+        "id": "e0501464-e6f7-4de9-aeb6-401579dd1756",
         "occurrenceId": "6c947f5e-ea41-438f-9def-28777bd5b600",
         "type": "People",
         "situation": "Wounded",
@@ -4968,7 +4968,7 @@
         "unit": ""
       },
       {
-        "id": "e0501464-e6f7-4de9-aeb6-401579dd1756",
+        "id": "45e000bc-ca5f-4711-a370-d0f7b2b31394",
         "occurrenceId": "6c947f5e-ea41-438f-9def-28777bd5b600",
         "type": "People",
         "situation": "Wounded",
@@ -5454,7 +5454,12 @@
         "id": "43db6ba9-08bd-4f5c-b547-3135e6e67f32",
         "name": "Ataque a civis"
       },
-      "complementaryReasons": [],
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
       "clippings": [
         {
           "id": "185ba5d3-ecd7-4c21-a38c-5d5379d43c11",
@@ -5556,7 +5561,7 @@
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
           "name": "Homem cis"
         },
-        "race": "Branca",
+        "race": "Negra",
         "place": {
           "id": "6df2eadf-187d-4923-a23f-e5dfb508bcae",
           "name": "Evento"
@@ -6034,7 +6039,7 @@
   {
     "id": "8da34bac-8f1b-45ba-bac3-a9cd05f913d3",
     "documentNumber": 79450,
-    "address": "Favela Dourados - Cordovil, Rio de Janeiro - RJ, 21215-430, Brasil",
+    "address": "Favela Dourados - Cordovil, Rio de Janeiro - RJ, 21250-150, Brasil",
     "state": {
       "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
       "name": "Rio de Janeiro"
@@ -6058,8 +6063,8 @@
       "id": "1e7604b1-52ad-4e8a-8bc1-6a935e2d71e4",
       "name": "FAVELA DOURADOS"
     },
-    "latitude": "-22.828150245410775",
-    "longitude": "-43.30031355080224",
+    "latitude": "-22.82650326",
+    "longitude": "-43.29951507",
     "date": "2026-10-12T15:00:00.000Z",
     "policeAction": false,
     "agentPresence": false,
@@ -6069,7 +6074,12 @@
         "id": "a00fa7af-e091-46c1-8dc7-b8b60a144a9c",
         "name": "Disputa"
       },
-      "complementaryReasons": [],
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
       "clippings": [],
       "massacre": false,
       "policeUnit": ""
@@ -6176,6 +6186,143 @@
     "latitude": "-22.8825193",
     "longitude": "-43.2442626",
     "date": "2026-10-12T23:08:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "3b2ce689-e792-4bf3-a6e9-0a942ecfa207",
+    "documentNumber": 79461,
+    "address": "Cordovil, Rio de Janeiro - RJ, 21250-500, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "abb9ba0a-5915-4ba4-9ed6-037679beb45b",
+      "name": "CORDOVIL"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.8245262",
+    "longitude": "-43.3004665",
+    "date": "2026-10-14T13:45:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+        "name": "Ação policial"
+      },
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (GAT/16° BPM)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "c20b205b-4cfc-4e17-8fea-e33d503d148b",
+    "documentNumber": 79462,
+    "address": "Cordovil, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "abb9ba0a-5915-4ba4-9ed6-037679beb45b",
+      "name": "CORDOVIL"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.8239006",
+    "longitude": "-43.3010908",
+    "date": "2026-10-14T18:05:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "20b98471-37bf-495b-aefe-75d13a1712af",
+    "documentNumber": 79463,
+    "address": "Rua São Luiz Gonzaga - São Cristóvão, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "60b2d9e3-06f6-4f4d-994b-de86554bc23d",
+      "name": "SAO CRISTOVAO"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.8997546",
+    "longitude": "-43.2285397",
+    "date": "2026-10-14T18:50:00.000Z",
     "policeAction": false,
     "agentPresence": false,
     "relatedRecord": "",
