@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-16T20:00:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Engenho de Dentro",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8855048,
+    "lng": -43.2867786,
+    "address": "Rua Fernão Cardim, 14",
+    "fetched_at": "2026-10-16T23:45:27.638218+00:00"
+  },
+  {
+    "datetime": "2026-10-16T19:56:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cachambi",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8900676,
+    "lng": -43.2737188,
+    "address": "Rua Cachambi, 261",
+    "fetched_at": "2026-10-16T23:45:27.638237+00:00"
+  },
+  {
     "datetime": "2026-10-16T16:42:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Brás de Pina",
