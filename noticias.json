@@ -60,12 +60,6 @@
     "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/13/justica-condena-quatro-homens-a-15-anos-por-estupro-coletivo-de-adolescente-em-copacabana.ghtml"
   },
   {
-    "title": "PM investigado por ligação com CV ostentava dinheiro e passeios de lancha, mas pedia 'gasolina para trabalhar', aponta investigação",
-    "date": "2026-10-13T22:26:09+00:00",
-    "source": "G1 Rio de Janeiro",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/13/pm-investigado-dinheiro-luxo.ghtml"
-  },
-  {
     "title": "Operação mira PMs suspeitos de favorecer esquema de tráfico e armas ligado ao Comando Vermelho no Rio - Rádio Itatiaia",
     "date": "2026-10-13T13:18:50+00:00",
     "source": "Rádio Itatiaia",
@@ -646,6 +640,12 @@
     "date": "2026-08-25T07:00:00+00:00",
     "source": "G1",
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVU0za2tYYkZ0ZF9zSFRteXh2cGE0cWY1V0w0dW53QUIxeVRkQWdaMFg1U2FzSXdhaUtGNWRGQy1UWmZsTnhXeUNOMDhmRk9KeU04WFVBd0k3SmF2NzJSR1ZhcGNzUTlDTlBsZkdfQWl0b2YtSXNfcVFqb2VOMGtRMGVuMEViM2w4SlktbTRrYWViLXVrQVkyVVhPZkZfMUpGYWQyUDRXNUFzVXE0NHhvaEdCU0tlOHg0eDlkbDUwcjRYNndzdVdnUWkwRGVsY2U4NHgydy1lY01WVGRFY3ZtMlhXRDVpanVxdzVhS3lyVi1RQdIBgAJBVV95cUxOUE91T3g3VkdBOUxsdlVjczB3cWJQQnZSVVdFNG9zNVVnMjNVa0JzLWVGbndZNnZ0QlNLQzlfdkV0QkNPRGRGRHRLMjdMdjRLcWdrRnNNYkFZYWFjNFNLV1VLMEtkakFiS1hlVlpZS1VReUNUa2dWVzFYdi1oZUxOSHlUQWxKTW9GdTlMYkpDb3E1VjRzc0xmX0xPc3RPSUhwTXVTVVRHRnY1NjNYajBBNlh1UkpwOVlFZ0ZTMDM1UGdwWlM1Smd3c3ZFaERKbFlUNmNaUnVfdFEzT2RZMDhfSzhTYXpYUEhFUF83QVN2eTVoZkdMZnE5RjFfMmZ2ekJo?oc=5"
+  },
+  {
+    "title": "Operação no Complexo de Israel, no Rio, deixa 1 suspeito morto; 8 são presos e 2 fuzis são apreendidos - CBN",
+    "date": "2026-08-25T07:00:00+00:00",
+    "source": "CBN",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdkoxWVRkd1JEM0QyVDVieUhzNHRiemJmbnRxaDlqVko0UzB4UzVCcEhRWlFjRFJJOTVDWW5RQTdWbi1IaDFBYmJjNTU1ajdUbkRhQ3dlLTJkRTdxbHFVSUxYZ01xVkZEYkYtRUdmbjNZalFRU1hOUURJVzJiRnZBaTNBR3BSM0NuNmNGY3ZwZmh2OWd0NlFnV1FBMzl0NGc1Y0t2Y3RGUlpXX04xT0phZWVMMnFoWU55Rl90M2hGU0FtTGk0b2lscWhrbjE2SVI4TWlPMG5XTjB5UngyN3JydTBCNktnbkVqX29ycUVqVGRzd3PSAYICQVVfeXFMT05tdGZCMXdjcDZIaHpWbmt4QXdZUFlwS19JT0JtZnBIZF90RnZiblFHY0tUckI4R1M3bENkR3VvWUJWc0dzdlg4YTZCR3J2alQxUDEwWkVjQjFZUnh0UDh2Nlp3X3g4dzZaV3VCMG1BNER5ak9UMEhiQzBaMV9yd2hUaVlmYzJZS1h4Wk9oV1VlMVFIQzd6TXM0UDBnN0ZKOEh3Vmc1dkxvX2dydVB2VW1fT3VJOW92bEZweW1oS0hIbUZkR3o2M0xpcUJVMm05ZlhsS0VpdlZyZ3dJZGU1bngxQ0R2Q3Z3VkxFeEhWa2NsRFVKMEJtVXBaaWU3QmExNUZR?oc=5"
   },
   {
     "title": "Operação em Vigário Geral e Parada de Lucas mira intolerância religiosa do tráfico e tem quatro caminhões incendiados na Avenida Brasil - O GLOBO",
@@ -1422,12 +1422,6 @@
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNelk1WlpYYy1TQmhhbWZHdkVzYjJYRlVuRF9Rd3JkZFFfRy1XUDVoYlZFME5XdjNPMEdGeU8tOWJ6WnJJeWtQOTZweDd5QzhZbGNyNzRFVnFlRlFZX0poNWFjYUE1aVpMMnRXX25nZlE4Umh3R0dTYV9LODJpcW9HVXdydEJDZ1JSR1JSMGtpMHpLM3Bjd1FyeGZNM2t2UWs4UW04N3BZOEJ5R3Bxa051RlZiLU5wdmlmTFJZdVFrRXlfRGszX3ZlRkFtQkFwYzQ3V05xNjV1M3BnVkpaTHc?oc=5"
   },
   {
-    "title": "Disputa entre facções provoca madrugada de tiroteio em Vigário Geral e deixa dois baleados - R7",
-    "date": "2026-07-02T07:00:00+00:00",
-    "source": "R7",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc3RTUHlJZmFqZUR6RGJ6MFdfV2ZZMUUtNEliWGtXc1dBSHBvYm9SY3owcGdoRy1ZOG1PQVBtQW5GZllmUU80b1dBUmU3eW5wSHE5RVF4YmxvQjFBd2pSb3F6MGhEQ3ZJZWVOSy1JRmZfODhUeDBQNFhiZkY1RlZhWW4xVlNlSXhHYnhBd2dnOUl4VHZvWlNRSmpmWFVpdzVNQlN1OHNRYjJrQ3kzY3lYZ19oSnpmaXhoRGRoM0VMWjZjUlJGbnBUT0tUcXNwYk92eTJoU3RrZDc2QkpDZ2lMa2VKOWQxSm1RNkE?oc=5"
-  },
-  {
     "title": "Problemático, apontado como chefe do tráfico em Manguinhos, é preso pela PM - O GLOBO",
     "date": "2026-07-02T07:00:00+00:00",
     "source": "O GLOBO",
@@ -1972,12 +1966,6 @@
     "date": "2026-01-30T16:15:08+00:00",
     "source": "Governo do Estado do Rio de Janeiro",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YT2l0b3Q5bk56eVFlYlpMS3E2ZTR6dXRHbnVMNmFFblE4S3FLTDBDeWNEaGxIQm43NHh6bF93NzZnckV5MkFBR3lQbFBjOTMwZHctTDJqR2lDRnFlWE5R?oc=5"
-  },
-  {
-    "title": "Tiroteio afeta circulação de trens na Zona Norte do Rio - Governo do Estado do Rio de Janeiro",
-    "date": "2026-01-30T16:15:08+00:00",
-    "source": "Governo do Estado do Rio de Janeiro",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qUGlFZGZ4UnJrWmdoUzdNNldMVkNGR0Z2WDZHaVd5Y253NF9UYXR5R2UxaUdRdElXMktkMl9kb3VHTlFJS1NZM1Bnak1rcDFzTDhsLWRmazB3cFE3cWdVcQ?oc=5"
   },
   {
     "title": "Polícia Civil realiza operação contra o tráfico em Duque de Caxias - Governo do Estado do Rio de Janeiro",
