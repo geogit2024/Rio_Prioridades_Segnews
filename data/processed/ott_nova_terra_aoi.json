@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-16T12:45:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Bonsucesso",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8625775,
+    "lng": -43.254037,
+    "address": "Avenida Teixeira de Castro, 10 E",
+    "fetched_at": "2026-10-16T18:21:28.531260+00:00"
+  },
+  {
     "datetime": "2026-10-15T22:04:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Cordovil",
