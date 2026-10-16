@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-16T16:42:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8326949,
+    "lng": -43.2973512,
+    "address": "Rua Castro Menezes, 570",
+    "fetched_at": "2026-10-16T21:27:42.179887+00:00"
+  },
+  {
     "datetime": "2026-10-16T12:45:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Bonsucesso",
