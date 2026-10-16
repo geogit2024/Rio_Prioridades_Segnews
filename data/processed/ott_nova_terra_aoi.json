@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-15T22:04:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8256182,
+    "lng": -43.3033031,
+    "address": "Rua Oliveira Melo, 443",
+    "fetched_at": "2026-10-16T05:18:46.556241+00:00"
+  },
+  {
     "datetime": "2026-10-15T02:04:00+00:00",
     "type": "Toque de recolher",
     "neighborhood": "Vigário Geral",
