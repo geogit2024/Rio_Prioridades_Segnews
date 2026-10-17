@@ -5472,7 +5472,7 @@
     "transports": [],
     "victims": [
       {
-        "id": "9991f146-8db9-462c-b13e-a2245aeda0e2",
+        "id": "8e8f054c-6504-4881-9f3b-3d9ced28f9b3",
         "occurrenceId": "0ed36103-3d4b-463d-8ab8-08213c63f23c",
         "type": "People",
         "situation": "Wounded",
@@ -5485,7 +5485,7 @@
         ],
         "deathDate": null,
         "personType": "Civilian",
-        "age": 38,
+        "age": null,
         "ageGroup": {
           "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
           "name": "Adulto"
@@ -5539,10 +5539,10 @@
         "unit": ""
       },
       {
-        "id": "f91dabf1-4428-4e92-a104-aadab4dbd572",
+        "id": "9991f146-8db9-462c-b13e-a2245aeda0e2",
         "occurrenceId": "0ed36103-3d4b-463d-8ab8-08213c63f23c",
         "type": "People",
-        "situation": "Dead",
+        "situation": "Wounded",
         "circumstances": [
           {
             "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
@@ -5550,9 +5550,9 @@
             "type": "human"
           }
         ],
-        "deathDate": "2026-10-11T21:00:00.000Z",
+        "deathDate": null,
         "personType": "Civilian",
-        "age": 46,
+        "age": 38,
         "ageGroup": {
           "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
           "name": "Adulto"
@@ -5561,7 +5561,7 @@
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
           "name": "Homem cis"
         },
-        "race": "Negra",
+        "race": "Não identificado",
         "place": {
           "id": "6df2eadf-187d-4923-a23f-e5dfb508bcae",
           "name": "Evento"
@@ -5673,10 +5673,10 @@
         "unit": ""
       },
       {
-        "id": "8e8f054c-6504-4881-9f3b-3d9ced28f9b3",
+        "id": "f91dabf1-4428-4e92-a104-aadab4dbd572",
         "occurrenceId": "0ed36103-3d4b-463d-8ab8-08213c63f23c",
         "type": "People",
-        "situation": "Wounded",
+        "situation": "Dead",
         "circumstances": [
           {
             "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
@@ -5684,9 +5684,9 @@
             "type": "human"
           }
         ],
-        "deathDate": null,
+        "deathDate": "2026-10-11T21:00:00.000Z",
         "personType": "Civilian",
-        "age": null,
+        "age": 46,
         "ageGroup": {
           "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
           "name": "Adulto"
@@ -5695,7 +5695,7 @@
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
           "name": "Homem cis"
         },
-        "race": "Não identificado",
+        "race": "Negra",
         "place": {
           "id": "6df2eadf-187d-4923-a23f-e5dfb508bcae",
           "name": "Evento"
@@ -6478,6 +6478,149 @@
       "clippings": [],
       "massacre": false,
       "policeUnit": "PM ( 22 BPM)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "a778b59f-d704-440c-81e5-46d0ab39d52b",
+    "documentNumber": 79510,
+    "address": "Vila do Pinheiro - Maré, Rio de Janeiro - RJ, 21046-185, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "aac41a17-1d54-45b5-9814-eabfb7a204ae",
+      "name": "MARE"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "264e1f13-1d4c-4c0d-bf10-b56549204533",
+      "name": "VILA DO PINHEIRO (COMPLEXO DA MARE)"
+    },
+    "latitude": "-22.86742212",
+    "longitude": "-43.23812972",
+    "date": "2026-10-17T10:30:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "7e0fbc13-b811-4054-9768-ddebd81fbea4",
+    "documentNumber": 79515,
+    "address": "Complexo de Manguinhos - Manguinhos, Rio de Janeiro - RJ, 21865-470, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "2aae2842-de72-4a32-be28-26aaa13bea27",
+      "name": "MANGUINHOS"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "dc3c2d1d-4707-415b-903b-87bcfe060b5a",
+      "name": "COMPLEXO DE MANGUINHOS"
+    },
+    "latitude": "-22.88179012748614",
+    "longitude": "-43.245485464545645",
+    "date": "2026-10-17T16:58:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+        "name": "Ação policial"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (UPP Manguinhos)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "02d21279-c458-4d91-b42f-e18f2f03bbc6",
+    "documentNumber": 79513,
+    "address": "Avenida Brasil - Bonsucesso, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "24d3d0be-9724-41b6-9a63-ecfb34fe9bc7",
+      "name": "BONSUCESSO"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.8636832",
+    "longitude": "-43.2480472",
+    "date": "2026-10-17T17:00:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "b52b5ac9-810d-4abc-b288-7008119ec05e",
+        "name": "Arrastão"
+      },
+      "complementaryReasons": [
+        {
+          "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+          "name": "Ação policial"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (NI)"
     },
     "transports": [],
     "victims": [],
