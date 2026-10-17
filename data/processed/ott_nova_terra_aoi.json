@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-17T16:11:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8391775,
+    "lng": -43.3111123,
+    "address": "Avenida Meriti, 2410",
+    "fetched_at": "2026-10-17T19:34:59.558407+00:00"
+  },
+  {
+    "datetime": "2026-10-17T15:27:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8391775,
+    "lng": -43.3111123,
+    "address": "Avenida Meriti, 2410",
+    "fetched_at": "2026-10-17T19:34:59.558432+00:00"
+  },
+  {
     "datetime": "2026-10-17T11:03:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Tomás Coelho",
