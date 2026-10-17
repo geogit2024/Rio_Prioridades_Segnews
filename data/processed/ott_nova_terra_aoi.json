@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-17T00:06:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9252121,
+    "lng": -43.2053745,
+    "address": "Rua Barão de Petrópolis, 01",
+    "fetched_at": "2026-10-17T07:05:17.345980+00:00"
+  },
+  {
     "datetime": "2026-10-16T20:00:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Engenho de Dentro",
