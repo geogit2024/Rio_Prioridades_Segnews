@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-17T11:03:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Tomás Coelho",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.865079,
+    "lng": -43.3090791,
+    "address": "Rua Itapuca, 240",
+    "fetched_at": "2026-10-17T14:24:55.529081+00:00"
+  },
+  {
+    "datetime": "2026-10-17T10:43:00+00:00",
+    "type": "Perseguição Policial",
+    "neighborhood": "Cachambi",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8871849,
+    "lng": -43.2736174,
+    "address": "Rua São Gabriel, 200",
+    "fetched_at": "2026-10-17T14:24:55.529116+00:00"
+  },
+  {
     "datetime": "2026-10-17T00:06:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Rio Comprido",
