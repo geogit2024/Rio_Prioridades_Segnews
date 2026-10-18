@@ -5472,10 +5472,10 @@
     "transports": [],
     "victims": [
       {
-        "id": "8e8f054c-6504-4881-9f3b-3d9ced28f9b3",
+        "id": "f91dabf1-4428-4e92-a104-aadab4dbd572",
         "occurrenceId": "0ed36103-3d4b-463d-8ab8-08213c63f23c",
         "type": "People",
-        "situation": "Wounded",
+        "situation": "Dead",
         "circumstances": [
           {
             "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
@@ -5483,9 +5483,9 @@
             "type": "human"
           }
         ],
-        "deathDate": null,
+        "deathDate": "2026-10-11T21:00:00.000Z",
         "personType": "Civilian",
-        "age": null,
+        "age": 46,
         "ageGroup": {
           "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
           "name": "Adulto"
@@ -5494,7 +5494,7 @@
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
           "name": "Homem cis"
         },
-        "race": "Não identificado",
+        "race": "Negra",
         "place": {
           "id": "6df2eadf-187d-4923-a23f-e5dfb508bcae",
           "name": "Evento"
@@ -5673,10 +5673,10 @@
         "unit": ""
       },
       {
-        "id": "f91dabf1-4428-4e92-a104-aadab4dbd572",
+        "id": "8e8f054c-6504-4881-9f3b-3d9ced28f9b3",
         "occurrenceId": "0ed36103-3d4b-463d-8ab8-08213c63f23c",
         "type": "People",
-        "situation": "Dead",
+        "situation": "Wounded",
         "circumstances": [
           {
             "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
@@ -5684,9 +5684,9 @@
             "type": "human"
           }
         ],
-        "deathDate": "2026-10-11T21:00:00.000Z",
+        "deathDate": null,
         "personType": "Civilian",
-        "age": 46,
+        "age": null,
         "ageGroup": {
           "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
           "name": "Adulto"
@@ -5695,7 +5695,7 @@
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
           "name": "Homem cis"
         },
-        "race": "Negra",
+        "race": "Não identificado",
         "place": {
           "id": "6df2eadf-187d-4923-a23f-e5dfb508bcae",
           "name": "Evento"
@@ -6621,6 +6621,144 @@
       "clippings": [],
       "massacre": false,
       "policeUnit": "PM (NI)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "28317372-9f11-4536-b828-75d77cef0bb5",
+    "documentNumber": 79520,
+    "address": "Tijuca, Rio de Janeiro - RJ, 20510-230, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "88e751a2-3a52-47d3-a70c-c55589021990",
+      "name": "TIJUCA"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.93122576911425",
+    "longitude": "-43.236724818119065",
+    "date": "2026-10-16T21:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "baa3b299-67ad-41d2-aaf0-23ec8288cadb",
+        "name": "Homicidio/Tentativa"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "720c5c6a-af08-4d02-b953-665f347dcce1",
+    "documentNumber": 79522,
+    "address": "Favela Furquim Mendes - Vigário Geral, Rio de Janeiro - RJ, 21240-800, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "1c65d48b-5c56-4722-bac1-a7ee0fe7bbc1",
+      "name": "VIGARIO GERAL"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "b47253b7-3a8b-425c-8e0d-ac6d669979d2",
+      "name": "FURQUIM MENDES"
+    },
+    "latitude": "-22.805109646920855",
+    "longitude": "-43.316591602460726",
+    "date": "2026-10-18T11:31:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "aae9c0eb-d361-4597-921b-ca05aa58ae1e",
+    "documentNumber": 79525,
+    "address": "Rua Figueiredo Rocha - Vigário Geral (Complexo de Israel), Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "1c65d48b-5c56-4722-bac1-a7ee0fe7bbc1",
+      "name": "VIGARIO GERAL"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "179b8eb0-5db9-4622-8e36-6fc629127e1e",
+      "name": "FAVELA DE VIGARIO GERAL (COMPLEXO DE ISRAEL)"
+    },
+    "latitude": "-22.8066018",
+    "longitude": "-43.3127416",
+    "date": "2026-10-18T16:08:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+        "name": "Ação policial"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (16 BPM)"
     },
     "transports": [],
     "victims": [],
