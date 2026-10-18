@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-18T10:51:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Jardim América",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8034207,
+    "lng": -43.3206303,
+    "address": "Rua Marechal Antônio Sousa, 1720",
+    "fetched_at": "2026-10-18T14:33:10.422444+00:00"
+  },
+  {
+    "datetime": "2026-10-18T10:39:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.809977082602,
+    "lng": -43.308212850356,
+    "address": "Rua Xavier Pinheiro, 685",
+    "fetched_at": "2026-10-18T14:33:10.422472+00:00"
+  },
+  {
     "datetime": "2026-10-18T02:52:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Jardim América",
