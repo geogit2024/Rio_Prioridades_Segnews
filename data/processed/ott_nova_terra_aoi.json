@@ -44,6 +44,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-18T02:52:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Jardim América",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8114452,
+    "lng": -43.3208041,
+    "address": "Rua Jornalista Geraldo Rocha, 35",
+    "fetched_at": "2026-10-18T06:12:51.571597+00:00"
+  },
+  {
+    "datetime": "2026-10-18T01:31:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8256182,
+    "lng": -43.3033031,
+    "address": "Rua Oliveira Melo, 443",
+    "fetched_at": "2026-10-18T06:12:51.571629+00:00"
+  },
+  {
+    "datetime": "2026-10-18T00:03:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Higienópolis",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8770615,
+    "lng": -43.2571527,
+    "address": "Rua Tenente Abel Cunha, 20",
+    "fetched_at": "2026-10-18T06:12:51.571648+00:00"
+  },
+  {
+    "datetime": "2026-10-18T00:01:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Lins de Vasconcelos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9076862,
+    "lng": -43.2797296,
+    "address": "Rua Azamor, 98",
+    "fetched_at": "2026-10-18T06:12:51.571662+00:00"
+  },
+  {
     "datetime": "2026-10-17T22:19:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Irajá",
