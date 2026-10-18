@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-17T22:19:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8551212,
+    "lng": -43.3241147,
+    "address": "Avenida Vicente de Carvalho, 235",
+    "fetched_at": "2026-10-18T01:22:14.515134+00:00"
+  },
+  {
     "datetime": "2026-10-17T16:48:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Benfica",
