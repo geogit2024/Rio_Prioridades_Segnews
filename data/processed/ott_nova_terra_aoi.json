@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-19T06:11:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8642644,
+    "lng": -43.2479153,
+    "address": "Avenida Brasil, 65",
+    "fetched_at": "2026-10-19T15:34:01.020600+00:00"
+  },
+  {
     "datetime": "2026-10-19T02:41:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Olaria",
