@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-18T21:05:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8507291,
+    "lng": -43.3211891,
+    "address": "Travessa Piracaba, 118",
+    "fetched_at": "2026-10-19T02:36:42.616147+00:00"
+  },
+  {
     "datetime": "2026-10-18T10:51:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Jardim América",
