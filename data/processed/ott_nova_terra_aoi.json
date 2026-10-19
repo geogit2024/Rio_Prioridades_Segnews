@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-19T20:06:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8415421,
+    "lng": -43.2696424,
+    "address": "Rua Leopoldina Rego, 700",
+    "fetched_at": "2026-10-19T23:56:01.080341+00:00"
+  },
+  {
+    "datetime": "2026-10-19T20:03:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8636832,
+    "lng": -43.2480472,
+    "address": "Avenida Brasil, 177",
+    "fetched_at": "2026-10-19T23:56:01.080351+00:00"
+  },
+  {
     "datetime": "2026-10-19T06:11:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Manguinhos",
