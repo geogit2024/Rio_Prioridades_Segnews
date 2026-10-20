@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-20T08:03:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8766151,
+    "lng": -43.3091141,
+    "address": "Rua Cardoso Quintão, 166",
+    "fetched_at": "2026-10-20T13:45:23.796420+00:00"
+  },
+  {
     "datetime": "2026-10-20T04:46:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Vasco da Gama",
