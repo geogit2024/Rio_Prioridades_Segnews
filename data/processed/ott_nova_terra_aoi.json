@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-20T04:46:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vasco da Gama",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8895526,
+    "lng": -43.2290306,
+    "address": "Rua Ricardo Machado, 528",
+    "fetched_at": "2026-10-20T08:27:14.543340+00:00"
+  },
+  {
+    "datetime": "2026-10-20T00:03:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9252121,
+    "lng": -43.2053745,
+    "address": "Rua Barão de Petrópolis, 01",
+    "fetched_at": "2026-10-20T08:27:14.543388+00:00"
+  },
+  {
     "datetime": "2026-10-19T20:06:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Penha",
