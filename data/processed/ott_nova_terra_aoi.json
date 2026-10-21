@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-21T00:52:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9148773,
+    "lng": -43.2509408,
+    "address": "Rua Torres Homem, 856",
+    "fetched_at": "2026-10-21T04:40:35.537489+00:00"
+  },
+  {
     "datetime": "2026-10-20T08:03:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Piedade",
