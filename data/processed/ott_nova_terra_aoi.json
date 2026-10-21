@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-21T02:35:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "São Francisco Xavier",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9058579,
+    "lng": -43.2435389,
+    "address": "Avenida Marechal Rondon, 320",
+    "fetched_at": "2026-10-21T09:38:14.645968+00:00"
+  },
+  {
     "datetime": "2026-10-21T00:52:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Vila Isabel",
