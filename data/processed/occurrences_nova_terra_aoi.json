@@ -7181,15 +7181,15 @@
     "transports": [],
     "victims": [
       {
-        "id": "105d6c23-502e-4e23-b512-943e4a79f6a0",
+        "id": "c7dd1cfa-8ec9-4c30-a3f0-e1ab3c451ccb",
         "occurrenceId": "1605dc3b-50dc-48fc-980b-2ab344390fa6",
         "type": "People",
         "situation": "Wounded",
         "circumstances": [
           {
-            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
-            "name": "Sem identificação",
-            "type": "human"
+            "id": "b44d4f46-e7e4-4822-a42e-660927796731",
+            "name": "Bala perdida",
+            "type": "both"
           }
         ],
         "deathDate": null,
@@ -7248,15 +7248,15 @@
         "unit": ""
       },
       {
-        "id": "c7dd1cfa-8ec9-4c30-a3f0-e1ab3c451ccb",
+        "id": "105d6c23-502e-4e23-b512-943e4a79f6a0",
         "occurrenceId": "1605dc3b-50dc-48fc-980b-2ab344390fa6",
         "type": "People",
         "situation": "Wounded",
         "circumstances": [
           {
-            "id": "b44d4f46-e7e4-4822-a42e-660927796731",
-            "name": "Bala perdida",
-            "type": "both"
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
           }
         ],
         "deathDate": null,
