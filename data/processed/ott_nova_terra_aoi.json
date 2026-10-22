@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-22T07:17:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8878915,
+    "lng": -43.3323298,
+    "address": "Rua Iguaiba, 220",
+    "fetched_at": "2026-10-22T10:22:11.819238+00:00"
+  },
+  {
     "datetime": "2026-10-21T07:55:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Irajá",
