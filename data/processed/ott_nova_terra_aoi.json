@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-23T03:04:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Cachambi",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8882796,
+    "lng": -43.2774386,
+    "address": "Rua Honório, 1201",
+    "fetched_at": "2026-10-23T10:30:33.704262+00:00"
+  },
+  {
     "datetime": "2026-10-23T00:15:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Tijuca",
