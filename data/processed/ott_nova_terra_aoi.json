@@ -44,6 +44,61 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-23T00:15:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9239006,
+    "lng": -43.2188378,
+    "address": "Rua Barão de Itapagipe, 463",
+    "fetched_at": "2026-10-23T05:40:45.596716+00:00"
+  },
+  {
+    "datetime": "2026-10-23T00:07:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Grajaú",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.928081,
+    "lng": -43.2558318,
+    "address": "Rua Ferreira Pontes, 484",
+    "fetched_at": "2026-10-23T05:40:45.596752+00:00"
+  },
+  {
+    "datetime": "2026-10-23T00:01:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9286268,
+    "lng": -43.2494442,
+    "address": "Rua do Outeiro, 136",
+    "fetched_at": "2026-10-23T05:40:45.596771+00:00"
+  },
+  {
+    "datetime": "2026-10-23T00:01:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9327895,
+    "lng": -43.2409297,
+    "address": "Rua Conde de Bonfim, 705",
+    "fetched_at": "2026-10-23T05:40:45.596785+00:00"
+  },
+  {
+    "datetime": "2026-10-22T22:28:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8391775,
+    "lng": -43.3111123,
+    "address": "Avenida Meriti, 2410",
+    "fetched_at": "2026-10-23T05:40:45.596799+00:00"
+  },
+  {
     "datetime": "2026-10-22T17:02:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Vila Isabel",
