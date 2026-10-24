@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-24T07:55:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8313548,
+    "lng": -43.3022253,
+    "address": "Estrada do Quitungo, 961",
+    "fetched_at": "2026-10-24T13:35:11.525679+00:00"
+  },
+  {
     "datetime": "2026-10-24T00:10:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Maria da Graça",
