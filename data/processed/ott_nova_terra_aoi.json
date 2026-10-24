@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-23T21:17:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8395895,
+    "lng": -43.2964617,
+    "address": "Avenida Vicente de Carvalho, 1627",
+    "fetched_at": "2026-10-24T00:57:27.675582+00:00"
+  },
+  {
     "datetime": "2026-10-23T17:23:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Brás de Pina",
