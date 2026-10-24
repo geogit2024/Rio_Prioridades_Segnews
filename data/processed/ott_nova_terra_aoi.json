@@ -44,6 +44,61 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-24T00:10:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Maria da Graça",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8819385,
+    "lng": -43.2653735,
+    "address": "Rua Domingos de Magalhães, 1213",
+    "fetched_at": "2026-10-24T05:23:13.474976+00:00"
+  },
+  {
+    "datetime": "2026-10-24T00:10:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Inhaúma",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8741294,
+    "lng": -43.2719651,
+    "address": "Rua Lagoa Clara, 149",
+    "fetched_at": "2026-10-24T05:23:13.474990+00:00"
+  },
+  {
+    "datetime": "2026-10-24T00:09:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Del Castilho",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8809823,
+    "lng": -43.2699966,
+    "address": "Avenida Dom Hélder Câmara, 3743",
+    "fetched_at": "2026-10-24T05:23:13.475000+00:00"
+  },
+  {
+    "datetime": "2026-10-23T23:10:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8416721,
+    "lng": -43.2693957,
+    "address": "Rua São Faustino, 21",
+    "fetched_at": "2026-10-24T05:23:13.475044+00:00"
+  },
+  {
+    "datetime": "2026-10-23T23:03:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8392917,
+    "lng": -43.2913678,
+    "address": "Rua Crato, 60",
+    "fetched_at": "2026-10-24T05:23:13.475060+00:00"
+  },
+  {
     "datetime": "2026-10-23T21:17:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Penha Circular",
