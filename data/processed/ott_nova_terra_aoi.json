@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-24T20:23:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Complexo do Alemão",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.860141,
+    "lng": -43.2678229,
+    "address": "Rua Nova, 1",
+    "fetched_at": "2026-10-24T23:42:40.072990+00:00"
+  },
+  {
     "datetime": "2026-10-24T07:55:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Brás de Pina",
