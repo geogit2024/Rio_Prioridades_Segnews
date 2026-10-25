@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-25T00:38:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Engenho da Rainha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8662201,
+    "lng": -43.3005655,
+    "address": "Estrada Adhemar Bebiano, 4675",
+    "fetched_at": "2026-10-25T06:51:02.730819+00:00"
+  },
+  {
+    "datetime": "2026-10-25T00:12:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Rocha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9046959,
+    "lng": -43.2462066,
+    "address": "Rua Nazário, 30",
+    "fetched_at": "2026-10-25T06:51:02.730830+00:00"
+  },
+  {
     "datetime": "2026-10-24T20:23:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Complexo do Alemão",
