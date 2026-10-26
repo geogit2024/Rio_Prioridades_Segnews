@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-26T03:08:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8243305,
+    "lng": -43.3326104,
+    "address": "Avenida Brasil, 270",
+    "fetched_at": "2026-10-26T06:59:08.543226+00:00"
+  },
+  {
+    "datetime": "2026-10-26T01:13:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8256182,
+    "lng": -43.3033031,
+    "address": "Rua Oliveira Melo, 443",
+    "fetched_at": "2026-10-26T06:59:08.543294+00:00"
+  },
+  {
     "datetime": "2026-10-25T21:42:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Brás de Pina",
