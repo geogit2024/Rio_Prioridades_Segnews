@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-26T17:58:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8824151,
+    "lng": -43.3352074,
+    "address": "Avenida Ernani Cardoso, 209",
+    "fetched_at": "2026-10-26T23:29:18.132668+00:00"
+  },
+  {
     "datetime": "2026-10-26T07:54:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Vigário Geral",
