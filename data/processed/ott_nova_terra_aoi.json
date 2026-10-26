@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-25T21:42:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8330874,
+    "lng": -43.3084839,
+    "address": "Rua Engenheiro Francelino Mota, 668",
+    "fetched_at": "2026-10-26T01:42:15.611771+00:00"
+  },
+  {
+    "datetime": "2026-10-25T21:19:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8392917,
+    "lng": -43.2913678,
+    "address": "Rua Crato, 60",
+    "fetched_at": "2026-10-26T01:42:15.611815+00:00"
+  },
+  {
     "datetime": "2026-10-25T14:28:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Lins de Vasconcelos",
