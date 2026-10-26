@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-26T07:54:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8060539,
+    "lng": -43.3149972,
+    "address": "Rua Furquim Mendes",
+    "fetched_at": "2026-10-26T14:00:02.384191+00:00"
+  },
+  {
+    "datetime": "2026-10-26T06:30:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Parada de Lucas",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8179487,
+    "lng": -43.3005963,
+    "address": "Rua Bulhões Marcial, 323",
+    "fetched_at": "2026-10-26T14:00:02.384243+00:00"
+  },
+  {
     "datetime": "2026-10-26T03:08:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Irajá",
