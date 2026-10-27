@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-27T00:00:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9165886,
+    "lng": -43.2502461,
+    "address": "Boulevard 28 de Setembro, 420",
+    "fetched_at": "2026-10-27T08:07:00.845951+00:00"
+  },
+  {
     "datetime": "2026-10-26T23:18:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Irajá",
