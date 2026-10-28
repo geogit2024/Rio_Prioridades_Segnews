@@ -7181,15 +7181,15 @@
     "transports": [],
     "victims": [
       {
-        "id": "c7dd1cfa-8ec9-4c30-a3f0-e1ab3c451ccb",
+        "id": "105d6c23-502e-4e23-b512-943e4a79f6a0",
         "occurrenceId": "1605dc3b-50dc-48fc-980b-2ab344390fa6",
         "type": "People",
         "situation": "Wounded",
         "circumstances": [
           {
-            "id": "b44d4f46-e7e4-4822-a42e-660927796731",
-            "name": "Bala perdida",
-            "type": "both"
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
           }
         ],
         "deathDate": null,
@@ -7248,15 +7248,15 @@
         "unit": ""
       },
       {
-        "id": "105d6c23-502e-4e23-b512-943e4a79f6a0",
+        "id": "c7dd1cfa-8ec9-4c30-a3f0-e1ab3c451ccb",
         "occurrenceId": "1605dc3b-50dc-48fc-980b-2ab344390fa6",
         "type": "People",
         "situation": "Wounded",
         "circumstances": [
           {
-            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
-            "name": "Sem identificação",
-            "type": "human"
+            "id": "b44d4f46-e7e4-4822-a42e-660927796731",
+            "name": "Bala perdida",
+            "type": "both"
           }
         ],
         "deathDate": null,
@@ -7479,6 +7479,53 @@
         "unit": ""
       }
     ],
+    "animalVictims": []
+  },
+  {
+    "id": "ccabe874-7c81-4498-8559-08bc172a3b40",
+    "documentNumber": 79615,
+    "address": "Quitungo-Guaporé, Estrada do Quitungo - Brás de Pina, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "9570c4bb-4634-4c67-93a4-27a89a4e5354",
+      "name": "BRAS DE PINA"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "163f7690-975b-454d-86ad-b80bf25a3dac",
+      "name": "QUITUNGO-GUAPORE"
+    },
+    "latitude": "-22.8313548",
+    "longitude": "-43.3022253",
+    "date": "2026-10-27T19:30:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
     "animalVictims": []
   }
 ]
