@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-27T23:29:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8391775,
+    "lng": -43.3111123,
+    "address": "Avenida Meriti, 2410",
+    "fetched_at": "2026-10-28T08:29:28.261335+00:00"
+  },
+  {
     "datetime": "2026-10-27T22:18:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Cordovil",
