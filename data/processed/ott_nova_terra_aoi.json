@@ -44,6 +44,61 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-27T22:18:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8239006,
+    "lng": -43.3010908,
+    "address": "Rua Dourados, 6a",
+    "fetched_at": "2026-10-28T02:12:17.290741+00:00"
+  },
+  {
+    "datetime": "2026-10-27T20:58:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8760365,
+    "lng": -43.305519,
+    "address": "Rua Manuel Corrêa, 183",
+    "fetched_at": "2026-10-28T02:12:17.290764+00:00"
+  },
+  {
+    "datetime": "2026-10-27T20:39:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.815272,
+    "lng": -43.3067804,
+    "address": "Rua Otranto, 613",
+    "fetched_at": "2026-10-28T02:12:17.290774+00:00"
+  },
+  {
+    "datetime": "2026-10-27T20:38:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8209672,
+    "lng": -43.2984106,
+    "address": "Rua Bulhões Marcial, 149",
+    "fetched_at": "2026-10-28T02:12:17.290781+00:00"
+  },
+  {
+    "datetime": "2026-10-27T20:37:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Parada de Lucas",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8185145,
+    "lng": -43.3028834,
+    "address": "Rua Cordovil, 377",
+    "fetched_at": "2026-10-28T02:12:17.290788+00:00"
+  },
+  {
     "datetime": "2026-10-27T19:39:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Brás de Pina",
