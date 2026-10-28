@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-28T07:07:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Méier",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9009411,
+    "lng": -43.2716496,
+    "address": "Rua Martins Lage, 291",
+    "fetched_at": "2026-10-28T15:21:24.711817+00:00"
+  },
+  {
     "datetime": "2026-10-27T23:29:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Vila da Penha",
