@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-29T15:01:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8419254,
+    "lng": -43.3236326,
+    "address": "Avenida Monsenhor Félix, 738",
+    "fetched_at": "2026-10-29T22:14:12.469037+00:00"
+  },
+  {
+    "datetime": "2026-10-29T14:58:00+00:00",
+    "type": "Incêndio",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8479931,
+    "lng": -43.3249039,
+    "address": "Avenida Monsenhor Félix, 454",
+    "fetched_at": "2026-10-29T22:14:12.469050+00:00"
+  },
+  {
     "datetime": "2026-10-29T00:10:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Tomás Coelho",
