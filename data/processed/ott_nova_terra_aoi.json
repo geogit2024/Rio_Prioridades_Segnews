@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-28T20:27:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Pilares",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8829733,
+    "lng": -43.2903161,
+    "address": "Avenida Dom Hélder Câmara, 6350",
+    "fetched_at": "2026-10-29T00:07:08.001061+00:00"
+  },
+  {
+    "datetime": "2026-10-28T20:23:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Abolição",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8888786,
+    "lng": -43.2987086,
+    "address": "Rua Mario Carpenter, 951a",
+    "fetched_at": "2026-10-29T00:07:08.001096+00:00"
+  },
+  {
     "datetime": "2026-10-28T07:07:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Méier",
