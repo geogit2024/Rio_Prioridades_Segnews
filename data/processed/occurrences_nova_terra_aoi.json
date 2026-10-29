@@ -7527,5 +7527,324 @@
     "transports": [],
     "victims": [],
     "animalVictims": []
+  },
+  {
+    "id": "8919508b-ada9-4696-9038-fdd5d2f1a439",
+    "documentNumber": 79621,
+    "address": "Av. Schultz Wenk - Cordovil, Rio de Janeiro - RJ, 21012-220, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "abb9ba0a-5915-4ba4-9ed6-037679beb45b",
+      "name": "CORDOVIL"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.82480233926544",
+    "longitude": "-43.29292905272388",
+    "date": "2026-10-27T20:00:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+        "name": "Ação policial"
+      },
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (16° BPM)"
+    },
+    "transports": [],
+    "victims": [
+      {
+        "id": "d486d74c-92d8-4f9e-8c22-6821bb7f1bd1",
+        "occurrenceId": "8919508b-ada9-4696-9038-fdd5d2f1a439",
+        "type": "People",
+        "situation": "Dead",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": "2026-10-27T20:00:00.000Z",
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Negra",
+        "place": {
+          "id": "67e5857c-4b33-4029-bf7e-0bf0d101be48",
+          "name": "Automóvel"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
+        "id": "c3a05954-89af-4fe0-97e7-35b882422115",
+        "occurrenceId": "8919508b-ada9-4696-9038-fdd5d2f1a439",
+        "type": "People",
+        "situation": "Dead",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": "2026-10-27T20:00:00.000Z",
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Negra",
+        "place": {
+          "id": "67e5857c-4b33-4029-bf7e-0bf0d101be48",
+          "name": "Automóvel"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      }
+    ],
+    "animalVictims": []
+  },
+  {
+    "id": "11bf74fd-d7ec-4d36-817c-4f2a5e221f51",
+    "documentNumber": 79616,
+    "address": "R. Miguel Fernandes - Méier, Rio de Janeiro - RJ, 20780-060, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "ddaa9760-f092-4fd4-b389-6dd2d85c0ace",
+      "name": "MEIER"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.8988986",
+    "longitude": "-43.2724188",
+    "date": "2026-10-28T06:46:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": null,
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": null
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "bf353c47-d0f3-4e35-ac44-1f356768f6d0",
+    "documentNumber": 79625,
+    "address": "Rua Guaiba - Brás de Pina, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "9570c4bb-4634-4c67-93a4-27a89a4e5354",
+      "name": "BRAS DE PINA"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.8363611",
+    "longitude": "-43.2946259",
+    "date": "2026-10-28T18:45:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "51318e63-1938-41dd-8c7f-9f70c397189d",
+    "documentNumber": 79627,
+    "address": "Favela da Coroa (Trajano) - Pilares, Rio de Janeiro - RJ, 20755-100, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "0f722e20-426f-4440-899e-71deee31a8c9",
+      "name": "PILARES"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "ab463b03-6c0d-41fe-963b-5a21ab54d41b",
+      "name": "FAVELA DA COROA (OU TRAJANO)"
+    },
+    "latitude": "-22.88484745",
+    "longitude": "\t-43.2943946",
+    "date": "2026-10-28T20:30:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
   }
 ]
