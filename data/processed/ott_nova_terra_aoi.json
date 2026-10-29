@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-29T00:10:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tomás Coelho",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8704105,
+    "lng": -43.3038618,
+    "address": "Rua Paulo Píres, 60",
+    "fetched_at": "2026-10-29T05:41:50.373560+00:00"
+  },
+  {
     "datetime": "2026-10-28T20:27:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Pilares",
