@@ -44,6 +44,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-30T13:31:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8319643,
+    "lng": -43.3290879,
+    "address": "Avenida Monsenhor Félix, 1213",
+    "fetched_at": "2026-10-30T19:55:20.182096+00:00"
+  },
+  {
+    "datetime": "2026-10-30T12:45:00+00:00",
+    "type": "Carros na contramão",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8427064,
+    "lng": -43.3338554,
+    "address": "Colégio",
+    "fetched_at": "2026-10-30T19:55:20.182126+00:00"
+  },
+  {
+    "datetime": "2026-10-30T12:12:00+00:00",
+    "type": "Carros na contramão",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.84779,
+    "lng": -43.32435,
+    "address": "Metrô Irajá",
+    "fetched_at": "2026-10-30T19:55:20.182137+00:00"
+  },
+  {
     "datetime": "2026-10-30T07:27:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Brás de Pina",
