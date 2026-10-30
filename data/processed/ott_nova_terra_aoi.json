@@ -44,6 +44,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-30T00:37:00+00:00",
+    "type": "Arrastão",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8408534,
+    "lng": -43.30538,
+    "address": "Avenida Oliveira Belo, 1254",
+    "fetched_at": "2026-10-30T08:06:57.529995+00:00"
+  },
+  {
     "datetime": "2026-10-29T15:01:00+00:00",
     "type": "Manifestação",
     "neighborhood": "Irajá",
