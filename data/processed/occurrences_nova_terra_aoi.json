@@ -7576,7 +7576,7 @@
     "transports": [],
     "victims": [
       {
-        "id": "d486d74c-92d8-4f9e-8c22-6821bb7f1bd1",
+        "id": "c3a05954-89af-4fe0-97e7-35b882422115",
         "occurrenceId": "8919508b-ada9-4696-9038-fdd5d2f1a439",
         "type": "People",
         "situation": "Dead",
@@ -7643,7 +7643,7 @@
         "unit": ""
       },
       {
-        "id": "c3a05954-89af-4fe0-97e7-35b882422115",
+        "id": "d486d74c-92d8-4f9e-8c22-6821bb7f1bd1",
         "occurrenceId": "8919508b-ada9-4696-9038-fdd5d2f1a439",
         "type": "People",
         "situation": "Dead",
@@ -7837,6 +7837,173 @@
       "mainReason": {
         "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
         "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "861173cc-a25d-4125-92b9-105855bfa868",
+    "documentNumber": 79631,
+    "address": "Comunidade do JJ - Tomás Coelho, Rio de Janeiro - RJ, 21370-460, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "a46e6182-26c0-4ae8-b76c-e412e7b37894",
+      "name": "TOMAS COELHO"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "b46a727c-3d68-4d23-80f0-898c6e5a977a",
+      "name": "COMUNIDADE DO JJ"
+    },
+    "latitude": "-22.865185896330377",
+    "longitude": "-43.31065010394612",
+    "date": "2026-10-29T07:00:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+        "name": "Ação policial"
+      },
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (3 BPM)"
+    },
+    "transports": [],
+    "victims": [
+      {
+        "id": "1e4a9e0c-c83b-4e42-bc0d-a3c6941cbdde",
+        "occurrenceId": "861173cc-a25d-4125-92b9-105855bfa868",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "8c2117be-c0c6-483f-9c5f-f670872eb181",
+            "name": "Sem identificação",
+            "type": "human"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      }
+    ],
+    "animalVictims": []
+  },
+  {
+    "id": "86075820-eb0f-44f9-bba9-9d6fd156ceda",
+    "documentNumber": 79639,
+    "address": "Parque União (Complexo da Maré) - Maré, Rio de Janeiro - RJ, 21044-030, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "aac41a17-1d54-45b5-9814-eabfb7a204ae",
+      "name": "MARE"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "f406e51c-b74f-4a18-ace1-c82b8120d31f",
+      "name": "PARQUE UNIAO (COMPLEXO DA MARE)"
+    },
+    "latitude": "-22.85115502\t",
+    "longitude": "-43.24390164",
+    "date": "2026-10-29T16:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "49265966-3f99-423f-a920-25ffbd264a37",
+        "name": "Briga"
       },
       "complementaryReasons": [],
       "clippings": [],
