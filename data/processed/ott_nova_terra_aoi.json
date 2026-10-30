@@ -44,6 +44,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-30T07:27:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8331016,
+    "lng": -43.2960327,
+    "address": "Rua Suruí",
+    "fetched_at": "2026-10-30T15:01:25.235345+00:00"
+  },
+  {
+    "datetime": "2026-10-30T05:48:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Benfica",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8942309,
+    "lng": -43.2391298,
+    "address": "Rua Prefeito Olímpio de Melo, 1910A",
+    "fetched_at": "2026-10-30T15:01:25.235383+00:00"
+  },
+  {
+    "datetime": "2026-10-30T05:41:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8392917,
+    "lng": -43.2913678,
+    "address": "Rua Crato, 60",
+    "fetched_at": "2026-10-30T15:01:25.235394+00:00"
+  },
+  {
     "datetime": "2026-10-30T00:37:00+00:00",
     "type": "Arrastão",
     "neighborhood": "Vila da Penha",
