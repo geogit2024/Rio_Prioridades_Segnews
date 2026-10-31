@@ -8005,7 +8005,12 @@
         "id": "49265966-3f99-423f-a920-25ffbd264a37",
         "name": "Briga"
       },
-      "complementaryReasons": [],
+      "complementaryReasons": [
+        {
+          "id": "a9958f1b-0048-4d29-b610-bfca6ab69779",
+          "name": "Outro"
+        }
+      ],
       "clippings": [],
       "massacre": false,
       "policeUnit": ""
