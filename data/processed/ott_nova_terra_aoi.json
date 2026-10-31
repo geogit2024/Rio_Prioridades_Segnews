@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-31T10:47:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8893302,
+    "lng": -43.3062218,
+    "address": "Rua João Pinheiro, 305",
+    "fetched_at": "2026-10-31T14:55:22.406742+00:00"
+  },
+  {
+    "datetime": "2026-10-31T10:16:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Pilares",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8814212,
+    "lng": -43.2934238,
+    "address": "Avenida João Ribeiro, 1",
+    "fetched_at": "2026-10-31T14:55:22.406793+00:00"
+  },
+  {
     "datetime": "2026-10-31T02:12:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Vigário Geral",
