@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-30T22:26:00+00:00",
+    "type": "Toque de recolher",
+    "neighborhood": "Abolição",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8888786,
+    "lng": -43.2987086,
+    "address": "Rua Mario Carpenter, 951a",
+    "fetched_at": "2026-10-31T02:35:55.931046+00:00"
+  },
+  {
+    "datetime": "2026-10-30T22:17:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Vista Alegre",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8288673,
+    "lng": -43.3169088,
+    "address": "Rua Ponta Porã, 111",
+    "fetched_at": "2026-10-31T02:35:55.931104+00:00"
+  },
+  {
     "datetime": "2026-10-30T13:31:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Irajá",
