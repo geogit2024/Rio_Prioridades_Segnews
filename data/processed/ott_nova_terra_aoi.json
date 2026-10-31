@@ -44,6 +44,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-10-31T02:12:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8081825,
+    "lng": -43.3036695,
+    "address": "Rua Bulhões Marcial, 785",
+    "fetched_at": "2026-10-31T08:51:46.861614+00:00"
+  },
+  {
+    "datetime": "2026-10-31T00:42:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Engenho da Rainha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.865215,
+    "lng": -43.2970248,
+    "address": "Rua Flora Rica, 39",
+    "fetched_at": "2026-10-31T08:51:46.861627+00:00"
+  },
+  {
     "datetime": "2026-10-30T22:26:00+00:00",
     "type": "Toque de recolher",
     "neighborhood": "Abolição",
