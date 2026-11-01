@@ -1,5 +1,16 @@
 [
   {
+    "datetime": "31/10/2026, 20:43:24",
+    "type": "Disparos Ouvidos",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8940921,
+    "lng": -43.3347693,
+    "address": "Rua Professor C�ncio P�voa, 347",
+    "fetched_at": "2026-11-01T01:09:47.878867+00:00"
+  },
+  {
     "datetime": "28/09/2026, 17:47:22",
     "type": "Toque de recolher",
     "neighborhood": "Tomás Coelho",
@@ -42,6 +53,39 @@
     "lng": -43.2449626,
     "address": "Rua Ladislau Neto, 63",
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
+  },
+  {
+    "datetime": "2026-10-31T21:46:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8938772,
+    "lng": -43.3329379,
+    "address": "Rua São Pedro, 303",
+    "fetched_at": "2026-11-01T01:09:47.878809+00:00"
+  },
+  {
+    "datetime": "2026-10-31T20:52:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.922329,
+    "lng": -43.2477454,
+    "address": "Rua Maxwell, 443",
+    "fetched_at": "2026-11-01T01:09:47.878856+00:00"
+  },
+  {
+    "datetime": "2026-10-31T20:52:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9324433,
+    "lng": -43.2411073,
+    "address": "Tijuca, Rio de Janeiro",
+    "fetched_at": "2026-11-01T01:09:47.878862+00:00"
   },
   {
     "datetime": "2026-10-31T10:47:00+00:00",
