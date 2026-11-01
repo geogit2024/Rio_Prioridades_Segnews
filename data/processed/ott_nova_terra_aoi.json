@@ -55,6 +55,116 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-01T02:57:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9180123,
+    "lng": -43.2470182,
+    "address": "Rua Teodoro da Silva, 493",
+    "fetched_at": "2026-11-01T07:29:23.035026+00:00"
+  },
+  {
+    "datetime": "2026-11-01T02:57:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9281999,
+    "lng": -43.2040896,
+    "address": "Rua Barão de Petrópolis, 336",
+    "fetched_at": "2026-11-01T07:29:23.035039+00:00"
+  },
+  {
+    "datetime": "2026-11-01T02:32:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8070129,
+    "lng": -43.3101595,
+    "address": "Rua Xavier Pinheiro, 290",
+    "fetched_at": "2026-11-01T07:29:23.035052+00:00"
+  },
+  {
+    "datetime": "2026-11-01T01:47:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Pilares",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8800218,
+    "lng": -43.2886492,
+    "address": "Rua de Lazer, 160",
+    "fetched_at": "2026-11-01T07:29:23.035085+00:00"
+  },
+  {
+    "datetime": "2026-11-01T01:16:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8381219,
+    "lng": -43.2979389,
+    "address": "Rua Ibicui, 70",
+    "fetched_at": "2026-11-01T07:29:23.035152+00:00"
+  },
+  {
+    "datetime": "2026-11-01T00:51:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8766619,
+    "lng": -43.2374917,
+    "address": "Rua José Moreira Pequeno, 47",
+    "fetched_at": "2026-11-01T07:29:23.035163+00:00"
+  },
+  {
+    "datetime": "2026-11-01T00:21:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8768712,
+    "lng": -43.2523886,
+    "address": "Rua Nossa Senhora de Fátima, 233",
+    "fetched_at": "2026-11-01T07:29:23.035217+00:00"
+  },
+  {
+    "datetime": "2026-11-01T00:12:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9252251,
+    "lng": -43.202278,
+    "address": "Rua Itapiru, 1275",
+    "fetched_at": "2026-11-01T07:29:23.035227+00:00"
+  },
+  {
+    "datetime": "2026-11-01T00:07:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9244127,
+    "lng": -43.2089853,
+    "address": "Praça Condessa Paulo de Frontin, 42",
+    "fetched_at": "2026-11-01T07:29:23.035238+00:00"
+  },
+  {
+    "datetime": "2026-10-31T22:18:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8960142,
+    "lng": -43.3213563,
+    "address": "Rua Saçu, 251",
+    "fetched_at": "2026-11-01T07:29:23.035259+00:00"
+  },
+  {
     "datetime": "2026-10-31T21:46:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Quintino Bocaiúva",
