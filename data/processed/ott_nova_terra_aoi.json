@@ -55,6 +55,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-01T14:48:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8385891,
+    "lng": -43.2980843,
+    "address": "Rua Cacequi, 347",
+    "fetched_at": "2026-11-01T19:02:09.217555+00:00"
+  },
+  {
+    "datetime": "2026-11-01T14:17:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Engenho Novo",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9137398,
+    "lng": -43.2718519,
+    "address": "Rua Araújo Leitão, 578",
+    "fetched_at": "2026-11-01T19:02:09.217568+00:00"
+  },
+  {
+    "datetime": "2026-11-01T12:36:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8852319,
+    "lng": -43.3319492,
+    "address": "Rua Padre Telêmaco, 136",
+    "fetched_at": "2026-11-01T19:02:09.217586+00:00"
+  },
+  {
     "datetime": "2026-11-01T09:42:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Piedade",
