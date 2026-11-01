@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-01T19:34:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9324433,
+    "lng": -43.2411073,
+    "address": "Tijuca, Rio de Janeiro",
+    "fetched_at": "2026-11-01T22:46:39.655858+00:00"
+  },
+  {
+    "datetime": "2026-11-01T16:24:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8119127,
+    "lng": -43.3121811,
+    "address": "Rua Isidro Rocha, 706",
+    "fetched_at": "2026-11-01T22:46:39.655893+00:00"
+  },
+  {
     "datetime": "2026-11-01T14:48:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Brás de Pina",
