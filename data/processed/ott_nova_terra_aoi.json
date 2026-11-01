@@ -55,6 +55,72 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-01T09:42:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9049641,
+    "lng": -43.3154794,
+    "address": "Rua Torres de Oliveira, 399",
+    "fetched_at": "2026-11-01T14:26:45.324480+00:00"
+  },
+  {
+    "datetime": "2026-11-01T08:41:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.89185,
+    "lng": -43.333757,
+    "address": "Rua Blumenau, 281",
+    "fetched_at": "2026-11-01T14:26:45.324569+00:00"
+  },
+  {
+    "datetime": "2026-11-01T07:49:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Jardim América",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8108447,
+    "lng": -43.3190671,
+    "address": "Rua Marechal Antônio Sousa, 952",
+    "fetched_at": "2026-11-01T14:26:45.324582+00:00"
+  },
+  {
+    "datetime": "2026-11-01T07:17:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vila Kosmos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8501659,
+    "lng": -43.3040636,
+    "address": "Rua Soldado Ivo de Oliveira, 216",
+    "fetched_at": "2026-11-01T14:26:45.324604+00:00"
+  },
+  {
+    "datetime": "2026-11-01T05:32:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9151391,
+    "lng": -43.2612564,
+    "address": "Rua Armando de Albuquerque, 694",
+    "fetched_at": "2026-11-01T14:26:45.324626+00:00"
+  },
+  {
+    "datetime": "2026-11-01T04:56:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8940921,
+    "lng": -43.3347693,
+    "address": "Rua Professor C�ncio P�voa, 347",
+    "fetched_at": "2026-11-01T14:26:45.324638+00:00"
+  },
+  {
     "datetime": "2026-11-01T02:57:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Vila Isabel",
