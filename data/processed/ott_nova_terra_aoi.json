@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-02T05:27:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Olaria",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8487261,
+    "lng": -43.2666279,
+    "address": "Rua Doutor Alfredo Barcelos, 776",
+    "fetched_at": "2026-11-02T09:04:55.713520+00:00"
+  },
+  {
+    "datetime": "2026-11-02T04:20:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Ramos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8525298,
+    "lng": -43.2514089,
+    "address": "Avenida Teixeira de Castro, 471",
+    "fetched_at": "2026-11-02T09:04:55.713549+00:00"
+  },
+  {
     "datetime": "2026-11-01T22:57:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Engenho de Dentro",
