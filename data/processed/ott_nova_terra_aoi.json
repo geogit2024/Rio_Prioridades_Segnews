@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-01T22:57:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Engenho de Dentro",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8932749,
+    "lng": -43.2923128,
+    "address": "Avenida Amaro Cavalcanti, 138",
+    "fetched_at": "2026-11-02T01:59:36.157290+00:00"
+  },
+  {
     "datetime": "2026-11-01T19:34:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Tijuca",
