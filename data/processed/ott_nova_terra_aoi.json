@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-03T12:02:00+00:00",
+    "type": "Incêndio",
+    "neighborhood": "Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8348294,
+    "lng": -43.2763993,
+    "address": "Rua Belizário Pena, 760",
+    "fetched_at": "2026-11-03T16:31:37.893729+00:00"
+  },
+  {
     "datetime": "2026-11-03T00:22:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Engenho de Dentro",
