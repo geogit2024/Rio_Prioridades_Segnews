@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-03T00:22:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Engenho de Dentro",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8918933,
+    "lng": -43.2902793,
+    "address": "Rua das Oficinas Jornalista Luiz Mendes, 69",
+    "fetched_at": "2026-11-03T08:35:23.829250+00:00"
+  },
+  {
     "datetime": "2026-11-02T22:34:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Mangueira",
@@ -75,6 +86,28 @@
     "lng": -43.3094211,
     "address": "Rua Engenheiro Lafayette Stockler, 542a",
     "fetched_at": "2026-11-03T01:43:06.805955+00:00"
+  },
+  {
+    "datetime": "2026-11-02T16:20:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8579294,
+    "lng": -43.2398478,
+    "address": "Rua Tancredo Neves, 619",
+    "fetched_at": "2026-11-03T08:35:23.829315+00:00"
+  },
+  {
+    "datetime": "2026-11-02T09:55:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8457769,
+    "lng": -43.2981264,
+    "address": "Rua Helvetia, 199",
+    "fetched_at": "2026-11-03T08:35:23.829336+00:00"
   },
   {
     "datetime": "2026-11-02T05:27:00+00:00",
