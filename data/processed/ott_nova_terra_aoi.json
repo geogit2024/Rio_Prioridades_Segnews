@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-02T22:34:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Mangueira",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9025508,
+    "lng": -43.2370745,
+    "address": "Rua General Bento Ribeiro, 6",
+    "fetched_at": "2026-11-03T01:43:06.805941+00:00"
+  },
+  {
+    "datetime": "2026-11-02T17:16:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.844146,
+    "lng": -43.3094211,
+    "address": "Rua Engenheiro Lafayette Stockler, 542a",
+    "fetched_at": "2026-11-03T01:43:06.805955+00:00"
+  },
+  {
     "datetime": "2026-11-02T05:27:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Olaria",
