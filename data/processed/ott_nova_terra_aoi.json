@@ -55,6 +55,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-04T04:42:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Grajaú",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9220664,
+    "lng": -43.2664571,
+    "address": "Rua Itabaiana, 250",
+    "fetched_at": "2026-11-04T08:50:21.946872+00:00"
+  },
+  {
+    "datetime": "2026-11-04T00:04:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Jardim América",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8114452,
+    "lng": -43.3208041,
+    "address": "Rua Jornalista Geraldo Rocha, 35",
+    "fetched_at": "2026-11-04T08:50:21.946931+00:00"
+  },
+  {
+    "datetime": "2026-11-03T23:40:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Jardim América",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8034207,
+    "lng": -43.3206303,
+    "address": "Rua Marechal Antônio Sousa, 1720",
+    "fetched_at": "2026-11-04T08:50:21.946939+00:00"
+  },
+  {
+    "datetime": "2026-11-03T23:39:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8386387,
+    "lng": -43.2693511,
+    "address": "Praça Santa Emiliana",
+    "fetched_at": "2026-11-04T08:50:21.946948+00:00"
+  },
+  {
     "datetime": "2026-11-03T20:33:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Parada de Lucas",
