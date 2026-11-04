@@ -55,6 +55,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-04T09:52:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Grajaú",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9266235,
+    "lng": -43.2568426,
+    "address": "Rua Botucatu, 337",
+    "fetched_at": "2026-11-04T16:41:47.239838+00:00"
+  },
+  {
+    "datetime": "2026-11-04T07:40:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Caju",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8787656,
+    "lng": -43.2242624,
+    "address": "Rua Carlos Seidl, 1033",
+    "fetched_at": "2026-11-04T16:41:47.239897+00:00"
+  },
+  {
+    "datetime": "2026-11-04T06:55:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8060539,
+    "lng": -43.3149972,
+    "address": "Rua Furquim Mendes",
+    "fetched_at": "2026-11-04T16:41:47.239908+00:00"
+  },
+  {
     "datetime": "2026-11-04T04:42:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Grajaú",
