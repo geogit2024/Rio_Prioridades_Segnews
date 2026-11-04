@@ -7576,7 +7576,7 @@
     "transports": [],
     "victims": [
       {
-        "id": "c3a05954-89af-4fe0-97e7-35b882422115",
+        "id": "d486d74c-92d8-4f9e-8c22-6821bb7f1bd1",
         "occurrenceId": "8919508b-ada9-4696-9038-fdd5d2f1a439",
         "type": "People",
         "situation": "Dead",
@@ -7643,7 +7643,7 @@
         "unit": ""
       },
       {
-        "id": "d486d74c-92d8-4f9e-8c22-6821bb7f1bd1",
+        "id": "c3a05954-89af-4fe0-97e7-35b882422115",
         "occurrenceId": "8919508b-ada9-4696-9038-fdd5d2f1a439",
         "type": "People",
         "situation": "Dead",
