@@ -55,6 +55,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-04T23:05:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Engenho Novo",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9169069,
+    "lng": -43.2807469,
+    "address": "Avenida Menezes Cortes, 1275",
+    "fetched_at": "2026-11-05T02:27:31.475749+00:00"
+  },
+  {
+    "datetime": "2026-11-04T21:34:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8345468,
+    "lng": -43.3003306,
+    "address": "Rua Vicente Caneco, 224",
+    "fetched_at": "2026-11-05T02:27:31.475807+00:00"
+  },
+  {
+    "datetime": "2026-11-04T21:34:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8239006,
+    "lng": -43.3010908,
+    "address": "Cordovil, Rio de Janeiro",
+    "fetched_at": "2026-11-05T02:27:31.475816+00:00"
+  },
+  {
+    "datetime": "2026-11-04T19:16:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8256182,
+    "lng": -43.3033031,
+    "address": "Rua Oliveira Melo, 443",
+    "fetched_at": "2026-11-05T02:27:31.475825+00:00"
+  },
+  {
     "datetime": "2026-11-04T17:33:00+00:00",
     "type": "Falta de luz",
     "neighborhood": "Brás de Pina",
