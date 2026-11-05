@@ -7571,12 +7571,12 @@
       ],
       "clippings": [],
       "massacre": false,
-      "policeUnit": "PM (16° BPM)"
+      "policeUnit": "PM (16 BPM)"
     },
     "transports": [],
     "victims": [
       {
-        "id": "d486d74c-92d8-4f9e-8c22-6821bb7f1bd1",
+        "id": "c3a05954-89af-4fe0-97e7-35b882422115",
         "occurrenceId": "8919508b-ada9-4696-9038-fdd5d2f1a439",
         "type": "People",
         "situation": "Dead",
@@ -7643,7 +7643,7 @@
         "unit": ""
       },
       {
-        "id": "c3a05954-89af-4fe0-97e7-35b882422115",
+        "id": "d486d74c-92d8-4f9e-8c22-6821bb7f1bd1",
         "occurrenceId": "8919508b-ada9-4696-9038-fdd5d2f1a439",
         "type": "People",
         "situation": "Dead",
@@ -8054,10 +8054,15 @@
         "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
         "name": "Ação policial"
       },
-      "complementaryReasons": [],
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
       "clippings": [],
       "massacre": false,
-      "policeUnit": "PM (UPP Lins) | PC (26 DP)"
+      "policeUnit": "PM (UPP Lins); PC (26ª DP)"
     },
     "transports": [],
     "victims": [],
@@ -8145,7 +8150,12 @@
         "id": "96992524-ebf7-4008-a999-81a179a91918",
         "name": "Tentativa/Roubo"
       },
-      "complementaryReasons": [],
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
       "clippings": [],
       "massacre": false,
       "policeUnit": ""
