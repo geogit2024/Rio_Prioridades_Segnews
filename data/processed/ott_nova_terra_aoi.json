@@ -55,6 +55,83 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-05T05:41:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9284758,
+    "lng": -43.2560372,
+    "address": "Rua Ferreira Pontes, 531",
+    "fetched_at": "2026-11-05T09:43:36.892998+00:00"
+  },
+  {
+    "datetime": "2026-11-05T05:38:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9352778,
+    "lng": -43.2563889,
+    "address": "Estrada da Casa Branca, 195",
+    "fetched_at": "2026-11-05T09:43:36.893033+00:00"
+  },
+  {
+    "datetime": "2026-11-05T03:55:00+00:00",
+    "type": "Falta de luz",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8361315,
+    "lng": -43.2837821,
+    "address": "Avenida Lobo Júnior, 1966",
+    "fetched_at": "2026-11-05T09:43:36.893041+00:00"
+  },
+  {
+    "datetime": "2026-11-05T01:51:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Lins de Vasconcelos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9111876,
+    "lng": -43.2819769,
+    "address": "Rua Ernestina, 7",
+    "fetched_at": "2026-11-05T09:43:36.893061+00:00"
+  },
+  {
+    "datetime": "2026-11-05T01:07:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Del Castilho",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8812693,
+    "lng": -43.2762917,
+    "address": "Avenida Segal, 1",
+    "fetched_at": "2026-11-05T09:43:36.893080+00:00"
+  },
+  {
+    "datetime": "2026-11-05T00:55:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Praça da Bandeira",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9138307,
+    "lng": -43.2129778,
+    "address": "Rua do Matoso, 89",
+    "fetched_at": "2026-11-05T09:43:36.893087+00:00"
+  },
+  {
+    "datetime": "2026-11-05T00:50:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8361906,
+    "lng": -43.2759767,
+    "address": "Avenida Montevideu, 900",
+    "fetched_at": "2026-11-05T09:43:36.893092+00:00"
+  },
+  {
     "datetime": "2026-11-04T23:05:00+00:00",
     "type": "Assalto",
     "neighborhood": "Engenho Novo",
