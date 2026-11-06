@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-06T18:04:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Estácio",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9168542,
+    "lng": -43.205915,
+    "address": "Rua Maia de Lacerda",
+    "fetched_at": "2026-11-06T22:23:24.584786+00:00"
+  },
+  {
     "datetime": "2026-11-06T06:03:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Piedade",
