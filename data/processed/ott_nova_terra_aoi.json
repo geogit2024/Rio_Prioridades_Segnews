@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-05T23:43:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Olaria",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8518333,
+    "lng": -43.2797211,
+    "address": "Rua Ministro Moreira de Abreu, 389",
+    "fetched_at": "2026-11-06T02:59:43.832869+00:00"
+  },
+  {
     "datetime": "2026-11-05T05:41:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Andaraí",
