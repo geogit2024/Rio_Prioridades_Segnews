@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-06T06:03:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9012784,
+    "lng": -43.3142317,
+    "address": "Rua Torres de Oliveira",
+    "fetched_at": "2026-11-06T10:36:42.339509+00:00"
+  },
+  {
+    "datetime": "2026-11-06T01:11:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9320902,
+    "lng": -43.2401161,
+    "address": "Rua Conde de Bonfim, 685",
+    "fetched_at": "2026-11-06T10:36:42.339543+00:00"
+  },
+  {
     "datetime": "2026-11-05T23:43:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Olaria",
