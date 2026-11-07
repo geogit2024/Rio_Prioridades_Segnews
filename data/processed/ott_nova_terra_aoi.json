@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-07T16:14:00+00:00",
+    "type": "Alagamento",
+    "neighborhood": "Jacaré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8931915,
+    "lng": -43.2576069,
+    "address": "Rua Silva Rêgo, 72",
+    "fetched_at": "2026-11-07T19:24:29.173344+00:00"
+  },
+  {
+    "datetime": "2026-11-07T16:01:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Praça da Bandeira",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9138307,
+    "lng": -43.2129778,
+    "address": "Rua do Matoso, 89",
+    "fetched_at": "2026-11-07T19:24:29.173433+00:00"
+  },
+  {
     "datetime": "2026-11-07T04:37:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Penha",
