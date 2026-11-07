@@ -55,6 +55,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-07T04:37:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8392905,
+    "lng": -43.2754825,
+    "address": "Rua do Couto, 29",
+    "fetched_at": "2026-11-07T08:43:09.697288+00:00"
+  },
+  {
+    "datetime": "2026-11-07T03:43:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Benfica",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.872717,
+    "lng": -43.2531542,
+    "address": "Rua Leopoldo Bulhões, 589",
+    "fetched_at": "2026-11-07T08:43:09.697313+00:00"
+  },
+  {
+    "datetime": "2026-11-07T00:08:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9199151,
+    "lng": -43.2118383,
+    "address": "Rua Barão de Itapagipe, 150",
+    "fetched_at": "2026-11-07T08:43:09.697361+00:00"
+  },
+  {
+    "datetime": "2026-11-07T00:06:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9176982,
+    "lng": -43.2090108,
+    "address": "Rua Aristídes Lôbo, 41",
+    "fetched_at": "2026-11-07T08:43:09.697369+00:00"
+  },
+  {
     "datetime": "2026-11-06T21:41:00+00:00",
     "type": "Assalto",
     "neighborhood": "Todos os Santos",
