@@ -55,6 +55,94 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-07T17:52:00+00:00",
+    "type": "Alagamento",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8081825,
+    "lng": -43.3036695,
+    "address": "Rua Bulhões Marcial, 785",
+    "fetched_at": "2026-11-07T22:52:02.675730+00:00"
+  },
+  {
+    "datetime": "2026-11-07T17:13:00+00:00",
+    "type": "Alagamento",
+    "neighborhood": "Bonsucesso",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8675181,
+    "lng": -43.2554743,
+    "address": "Rua Uranos, 439",
+    "fetched_at": "2026-11-07T22:52:02.675812+00:00"
+  },
+  {
+    "datetime": "2026-11-07T17:05:00+00:00",
+    "type": "Falta de luz",
+    "neighborhood": "Grajaú",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9202833,
+    "lng": -43.2515839,
+    "address": "Rua Nossa Senhora de Lourdes, 2",
+    "fetched_at": "2026-11-07T22:52:02.675862+00:00"
+  },
+  {
+    "datetime": "2026-11-07T16:59:00+00:00",
+    "type": "Alagamento",
+    "neighborhood": "Engenho Novo",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8968276,
+    "lng": -43.2665214,
+    "address": "Rua Vaz de Tolêdo, 798",
+    "fetched_at": "2026-11-07T22:52:02.675881+00:00"
+  },
+  {
+    "datetime": "2026-11-07T16:40:00+00:00",
+    "type": "Alagamento",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8856243,
+    "lng": -43.3263524,
+    "address": "Rua Nerval de Gouvêia, 53",
+    "fetched_at": "2026-11-07T22:52:02.675920+00:00"
+  },
+  {
+    "datetime": "2026-11-07T16:37:00+00:00",
+    "type": "Alagamento",
+    "neighborhood": "Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8424837,
+    "lng": -43.2823124,
+    "address": "Rua Engenheiro Francisco Passos, 171",
+    "fetched_at": "2026-11-07T22:52:02.675965+00:00"
+  },
+  {
+    "datetime": "2026-11-07T16:35:00+00:00",
+    "type": "Alagamento",
+    "neighborhood": "Cachambi",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.885832,
+    "lng": -43.2787224,
+    "address": "Avenida Dom Hélder Câmara, 4849",
+    "fetched_at": "2026-11-07T22:52:02.675976+00:00"
+  },
+  {
+    "datetime": "2026-11-07T16:32:00+00:00",
+    "type": "Alagamento",
+    "neighborhood": "Jardim América",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8095824,
+    "lng": -43.328861,
+    "address": "Rua Padre Boss, 385",
+    "fetched_at": "2026-11-07T22:52:02.675986+00:00"
+  },
+  {
     "datetime": "2026-11-07T16:14:00+00:00",
     "type": "Alagamento",
     "neighborhood": "Jacaré",
