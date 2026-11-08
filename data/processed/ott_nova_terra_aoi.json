@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-07T23:38:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8848781,
+    "lng": -43.3137743,
+    "address": "Avenida Dom Hélder Câmara, 8984",
+    "fetched_at": "2026-11-08T08:38:25.556691+00:00"
+  },
+  {
+    "datetime": "2026-11-07T22:58:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8260625,
+    "lng": -43.3219227,
+    "address": "Rua Manuel de Araújo, 210",
+    "fetched_at": "2026-11-08T08:38:25.556702+00:00"
+  },
+  {
     "datetime": "2026-11-07T22:37:00+00:00",
     "type": "Falta de luz",
     "neighborhood": "Vigário Geral",
@@ -4321,6 +4343,17 @@
     "lng": -43.3327547,
     "address": "Comunidade do Fubá",
     "fetched_at": "2026-09-17T22:20:34.293938+00:00"
+  },
+  {
+    "datetime": "07/11/2026, 22:58:25",
+    "type": "Tiroteio",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8286488,
+    "lng": -43.3311624,
+    "address": "Rua Metrovich, 43",
+    "fetched_at": "2026-11-08T08:38:25.556696+00:00"
   },
   {
     "datetime": "03/10/2026, 23:42:27",
