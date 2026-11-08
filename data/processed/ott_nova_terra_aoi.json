@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-07T22:37:00+00:00",
+    "type": "Falta de luz",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8074309,
+    "lng": -43.3099464,
+    "address": "Rua Xavier Pinheiro, 335",
+    "fetched_at": "2026-11-08T01:57:52.021262+00:00"
+  },
+  {
+    "datetime": "2026-11-07T21:23:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9252251,
+    "lng": -43.202278,
+    "address": "Rua Itapiru, 1275",
+    "fetched_at": "2026-11-08T01:57:52.021330+00:00"
+  },
+  {
     "datetime": "2026-11-07T17:52:00+00:00",
     "type": "Alagamento",
     "neighborhood": "Vigário Geral",
