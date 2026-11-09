@@ -55,6 +55,72 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-09T06:55:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8877059,
+    "lng": -43.3322906,
+    "address": "Rua Iguaiba",
+    "fetched_at": "2026-11-09T10:42:03.674580+00:00"
+  },
+  {
+    "datetime": "2026-11-09T06:24:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8874122,
+    "lng": -43.3203933,
+    "address": "Rua Columbia, 96",
+    "fetched_at": "2026-11-09T10:42:03.674652+00:00"
+  },
+  {
+    "datetime": "2026-11-09T01:43:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8074309,
+    "lng": -43.3099464,
+    "address": "Rua Xavier Pinheiro",
+    "fetched_at": "2026-11-09T10:42:03.674668+00:00"
+  },
+  {
+    "datetime": "2026-11-09T00:05:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8496297,
+    "lng": -43.3253098,
+    "address": "Rua Turiana, 31",
+    "fetched_at": "2026-11-09T10:42:03.674710+00:00"
+  },
+  {
+    "datetime": "2026-11-09T00:03:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8361906,
+    "lng": -43.2759767,
+    "address": "Avenida Montevideu, 900",
+    "fetched_at": "2026-11-09T10:42:03.674723+00:00"
+  },
+  {
+    "datetime": "2026-11-09T00:02:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8395895,
+    "lng": -43.2964617,
+    "address": "Avenida Vicente de Carvalho, 1627",
+    "fetched_at": "2026-11-09T10:42:03.674737+00:00"
+  },
+  {
     "datetime": "2026-11-08T22:42:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Caju",
