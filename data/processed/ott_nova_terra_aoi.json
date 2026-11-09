@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-08T22:42:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Caju",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8807991,
+    "lng": -43.2278482,
+    "address": "Rua da Paz, 36",
+    "fetched_at": "2026-11-09T02:51:37.326500+00:00"
+  },
+  {
+    "datetime": "2026-11-08T20:32:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.844329,
+    "lng": -43.3231669,
+    "address": "Estrada Padre Roser, 1153",
+    "fetched_at": "2026-11-09T02:51:37.326569+00:00"
+  },
+  {
     "datetime": "2026-11-08T19:43:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Vila Kosmos",
