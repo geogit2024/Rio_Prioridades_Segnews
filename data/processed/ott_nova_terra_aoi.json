@@ -55,6 +55,61 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-09T13:56:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Méier",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9128722,
+    "lng": -43.2845323,
+    "address": "Rua Vilela Tavares, 421",
+    "fetched_at": "2026-11-09T21:05:36.193737+00:00"
+  },
+  {
+    "datetime": "2026-11-09T11:08:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Higienópolis",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.869707133536,
+    "lng": -43.263154305366,
+    "address": "Rua Álvaro do Cabo, 140",
+    "fetched_at": "2026-11-09T21:05:36.193759+00:00"
+  },
+  {
+    "datetime": "2026-11-09T09:37:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8824151,
+    "lng": -43.3352074,
+    "address": "Avenida Ernani Cardoso, 209",
+    "fetched_at": "2026-11-09T21:05:36.193795+00:00"
+  },
+  {
+    "datetime": "2026-11-09T09:24:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8246722,
+    "lng": -43.288844,
+    "address": "Rua Pindaí, 148",
+    "fetched_at": "2026-11-09T21:05:36.193806+00:00"
+  },
+  {
+    "datetime": "2026-11-09T08:15:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Méier",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9070322,
+    "lng": -43.2833365,
+    "address": "Rua Aquidabã, 45",
+    "fetched_at": "2026-11-09T21:05:36.193830+00:00"
+  },
+  {
     "datetime": "2026-11-09T06:55:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Cascadura",
