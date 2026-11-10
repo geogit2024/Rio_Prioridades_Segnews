@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-10T15:17:00+00:00",
+    "type": "Arrastão",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8425552,
+    "lng": -43.3347292,
+    "address": "Metrô Colégio",
+    "fetched_at": "2026-11-10T19:07:46.833952+00:00"
+  },
+  {
     "datetime": "2026-11-09T22:48:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Irajá",
