@@ -55,6 +55,61 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-09T22:48:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8246645,
+    "lng": -43.320025,
+    "address": "Rua Mestre Donga, 7",
+    "fetched_at": "2026-11-10T03:31:47.560324+00:00"
+  },
+  {
+    "datetime": "2026-11-09T22:39:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Engenho da Rainha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8651421,
+    "lng": -43.2934286,
+    "address": "Estrada Adhemar Bebiano, 4045",
+    "fetched_at": "2026-11-10T03:31:47.560331+00:00"
+  },
+  {
+    "datetime": "2026-11-09T20:36:00+00:00",
+    "type": "Falta de luz",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9324433,
+    "lng": -43.2411073,
+    "address": "Tijuca, Rio de Janeiro",
+    "fetched_at": "2026-11-10T03:31:47.560363+00:00"
+  },
+  {
+    "datetime": "2026-11-09T19:31:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8074309,
+    "lng": -43.3099464,
+    "address": "Rua Xavier Pinheiro, 335",
+    "fetched_at": "2026-11-10T03:31:47.560395+00:00"
+  },
+  {
+    "datetime": "2026-11-09T18:19:00+00:00",
+    "type": "Toque de recolher",
+    "neighborhood": "Jardim América",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8114452,
+    "lng": -43.3208041,
+    "address": "Rua Jornalista Geraldo Rocha, 35",
+    "fetched_at": "2026-11-10T03:31:47.560412+00:00"
+  },
+  {
     "datetime": "2026-11-09T13:56:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Méier",
