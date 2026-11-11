@@ -55,6 +55,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-10T23:08:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9165886,
+    "lng": -43.2502461,
+    "address": "Boulevard 28 de Setembro, 420",
+    "fetched_at": "2026-11-11T06:06:40.260144+00:00"
+  },
+  {
+    "datetime": "2026-11-10T21:53:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8440541,
+    "lng": -43.3095368,
+    "address": "Rua Engenheiro Lafayette Stockler, 578",
+    "fetched_at": "2026-11-11T06:06:40.260201+00:00"
+  },
+  {
+    "datetime": "2026-11-10T21:53:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8313548,
+    "lng": -43.3022253,
+    "address": "Estrada do Quitungo, 961",
+    "fetched_at": "2026-11-11T06:06:40.260212+00:00"
+  },
+  {
     "datetime": "2026-11-10T18:27:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Maré",
@@ -4574,6 +4607,17 @@
     "lng": -43.3327547,
     "address": "Comunidade do Fubá",
     "fetched_at": "2026-09-17T22:20:34.293938+00:00"
+  },
+  {
+    "datetime": "11/11/2026, 00:30:20",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8344389,
+    "lng": -43.3027813,
+    "address": "Estrada do Quitungo, 1267",
+    "fetched_at": "2026-11-11T06:06:40.260035+00:00"
   },
   {
     "datetime": "07/11/2026, 22:58:25",
