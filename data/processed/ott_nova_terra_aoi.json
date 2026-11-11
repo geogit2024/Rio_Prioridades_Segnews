@@ -55,6 +55,61 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-11T17:08:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8824151,
+    "lng": -43.3352074,
+    "address": "Avenida Ernani Cardoso, 209",
+    "fetched_at": "2026-11-11T21:25:52.292444+00:00"
+  },
+  {
+    "datetime": "2026-11-11T13:51:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8796641,
+    "lng": -43.3191425,
+    "address": "Rua do Amparo, 485",
+    "fetched_at": "2026-11-11T21:25:52.292454+00:00"
+  },
+  {
+    "datetime": "2026-11-11T12:16:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8488821,
+    "lng": -43.2458045,
+    "address": "Rua Sebastião Machado, 31",
+    "fetched_at": "2026-11-11T21:25:52.292463+00:00"
+  },
+  {
+    "datetime": "2026-11-11T11:46:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8545662,
+    "lng": -43.2395794,
+    "address": "Rua Tancredo Neves, 3",
+    "fetched_at": "2026-11-11T21:25:52.292471+00:00"
+  },
+  {
+    "datetime": "2026-11-11T11:16:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Bonsucesso",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8563115,
+    "lng": -43.2487368,
+    "address": "Rua da Regeneração, 738",
+    "fetched_at": "2026-11-11T21:25:52.292479+00:00"
+  },
+  {
     "datetime": "2026-11-11T09:03:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Inhaúma",
