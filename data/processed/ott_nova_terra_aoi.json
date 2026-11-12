@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-12T18:58:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Engenho Novo",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9137398,
+    "lng": -43.2718519,
+    "address": "Rua Araújo Leitão, 578",
+    "fetched_at": "2026-11-12T23:39:55.711915+00:00"
+  },
+  {
+    "datetime": "2026-11-12T17:56:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8239006,
+    "lng": -43.3010908,
+    "address": "Rua Dourados, 6a",
+    "fetched_at": "2026-11-12T23:39:55.711931+00:00"
+  },
+  {
     "datetime": "2026-11-12T14:39:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Brás de Pina",
