@@ -8597,7 +8597,7 @@
     "transports": [],
     "victims": [
       {
-        "id": "d944c879-fe25-4a5d-8400-a4d7514fe1b1",
+        "id": "375d9d42-dc6c-4516-901b-3a2c5bb21bc3",
         "occurrenceId": "2730ab54-1796-4a1f-9769-f377f9369e2b",
         "type": "People",
         "situation": "Dead",
@@ -8664,7 +8664,7 @@
         "unit": ""
       },
       {
-        "id": "375d9d42-dc6c-4516-901b-3a2c5bb21bc3",
+        "id": "d944c879-fe25-4a5d-8400-a4d7514fe1b1",
         "occurrenceId": "2730ab54-1796-4a1f-9769-f377f9369e2b",
         "type": "People",
         "situation": "Dead",
@@ -8949,7 +8949,7 @@
   {
     "id": "4f212e97-77d7-4daf-a03c-33d25a2e2933",
     "documentNumber": 79802,
-    "address": "Nova Holanda, Maré, Rio de Janeiro - RJ, 21043-500, Brasil",
+    "address": "Nova Holanda - Maré, Rio de Janeiro - RJ, 21044-242, Brasil",
     "state": {
       "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
       "name": "Rio de Janeiro"
@@ -8973,9 +8973,325 @@
       "id": "0f40608d-055e-49cc-9380-dad58463933e",
       "name": "NOVA HOLANDA (COMPLEXO DA MARE)"
     },
-    "latitude": "-22.858193",
-    "longitude": "-43.2439368",
+    "latitude": "-22.854234841753122",
+    "longitude": " -43.24085306849724",
     "date": "2026-11-10T19:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "0a01e275-182f-41ec-b5d3-76740dced3e1",
+    "documentNumber": 79803,
+    "address": "Catumbi, Rio de Janeiro - RJ, 20251-590, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "4c3f50f6-0776-4ed4-9f5b-192613b2e819",
+      "name": "CATUMBI"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.9153318",
+    "longitude": "-43.194736",
+    "date": "2026-11-09T15:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "a00fa7af-e091-46c1-8dc7-b8b60a144a9c",
+        "name": "Disputa"
+      },
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "614f2386-3d7d-4034-ab5e-f79a13e30aa7",
+    "documentNumber": 79805,
+    "address": "Parque União - Maré, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "aac41a17-1d54-45b5-9814-eabfb7a204ae",
+      "name": "MARE"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "f406e51c-b74f-4a18-ace1-c82b8120d31f",
+      "name": "PARQUE UNIAO (COMPLEXO DA MARE)"
+    },
+    "latitude": "-22.8505857",
+    "longitude": "-43.2429542",
+    "date": "2026-11-11T05:25:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "b70c8ccc-3c64-4189-8381-66b810a9797d",
+        "name": "Operação policial"
+      },
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (BOPE, BAC)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "70ad5510-dff2-41d8-925d-7635f7e5e65c",
+    "documentNumber": 79809,
+    "address": "Parque União - Maré, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "aac41a17-1d54-45b5-9814-eabfb7a204ae",
+      "name": "MARE"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "f406e51c-b74f-4a18-ace1-c82b8120d31f",
+      "name": "PARQUE UNIAO (COMPLEXO DA MARE)"
+    },
+    "latitude": "-22.8505857",
+    "longitude": "-43.2429542",
+    "date": "2026-11-11T11:00:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "#79805",
+    "contextInfo": {
+      "mainReason": {
+        "id": "b70c8ccc-3c64-4189-8381-66b810a9797d",
+        "name": "Operação policial"
+      },
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (BOPE, BAC)"
+    },
+    "transports": [
+      {
+        "id": "dbea3144-7de6-407e-b0d5-e0ab3fc87f7e",
+        "occurrenceId": "70ad5510-dff2-41d8-925d-7635f7e5e65c",
+        "transport": {
+          "id": "9aabafb2-1c17-4865-a680-e6e715e6f3aa",
+          "name": "Via"
+        },
+        "interruptedTransport": true,
+        "dateInterruption": "2026-11-11T11:00:00.000Z",
+        "releaseDate": null,
+        "transportDescription": "Atearam fogo em diferentes pontos da Linha Vermelha, interditando a via"
+      },
+      {
+        "id": "0b61dfe9-7da8-4cf2-81ee-5f0c022a0e85",
+        "occurrenceId": "70ad5510-dff2-41d8-925d-7635f7e5e65c",
+        "transport": {
+          "id": "9aabafb2-1c17-4865-a680-e6e715e6f3aa",
+          "name": "Via"
+        },
+        "interruptedTransport": true,
+        "dateInterruption": "2026-11-11T11:00:00.000Z",
+        "releaseDate": null,
+        "transportDescription": "Av. Brasil sentido campo grande"
+      }
+    ],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "0ba77bbf-fd9f-4f3a-83c0-75fa14a9ab3d",
+    "documentNumber": 79812,
+    "address": "Tatajuba (Complexo da Maré) - Maré, Rio de Janeiro - RJ, 21044-650, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "aac41a17-1d54-45b5-9814-eabfb7a204ae",
+      "name": "MARE"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.856473",
+    "longitude": "-43.2424128",
+    "date": "2026-11-11T14:50:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "79805",
+    "contextInfo": {
+      "mainReason": {
+        "id": "b70c8ccc-3c64-4189-8381-66b810a9797d",
+        "name": "Operação policial"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (BOPE, BAC)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "36684cd7-13f3-49b9-94cb-2b8f08dc7537",
+    "documentNumber": 79817,
+    "address": "Rua Maria de lourdes Martins, Parque União (Complexo da Maré) - Maré, Rio de Janeiro - RJ, 21044-020, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "aac41a17-1d54-45b5-9814-eabfb7a204ae",
+      "name": "MARE"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "f406e51c-b74f-4a18-ace1-c82b8120d31f",
+      "name": "PARQUE UNIAO (COMPLEXO DA MARE)"
+    },
+    "latitude": "-22.84903254124488",
+    "longitude": "-43.24454616469509",
+    "date": "2026-11-11T16:10:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "79805",
+    "contextInfo": {
+      "mainReason": {
+        "id": "b70c8ccc-3c64-4189-8381-66b810a9797d",
+        "name": "Operação policial"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (BOPE, BAC)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "e54e00a8-fdb1-486c-8170-ec415b68e977",
+    "documentNumber": 79822,
+    "address": "Morro do Juramento - Vicente de Carvalho, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "9676e3c5-e16d-4fe1-b0f5-4c76d624821e",
+      "name": "VICENTE DE CARVALHO"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "f843d27a-7b84-459d-884b-9fd47e24fee0",
+      "name": "MORRO DO JURAMENTINHO (COMPLEXO DO JURAMENTO)"
+    },
+    "latitude": "-22.8627778",
+    "longitude": "-43.3152778",
+    "date": "2026-11-11T20:00:00.000Z",
     "policeAction": false,
     "agentPresence": false,
     "relatedRecord": "",
