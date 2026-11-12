@@ -55,6 +55,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-11T23:17:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9221754,
+    "lng": -43.2437725,
+    "address": "Rua Silva Teles, 73",
+    "fetched_at": "2026-11-12T02:21:53.268411+00:00"
+  },
+  {
+    "datetime": "2026-11-11T20:14:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Lins de Vasconcelos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9085158,
+    "lng": -43.2796947,
+    "address": "Rua Lins de Vasconcelos, 9999",
+    "fetched_at": "2026-11-12T02:21:53.268474+00:00"
+  },
+  {
+    "datetime": "2026-11-11T20:13:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Lins de Vasconcelos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9111876,
+    "lng": -43.2819769,
+    "address": "Rua Ernestina, 7",
+    "fetched_at": "2026-11-12T02:21:53.268483+00:00"
+  },
+  {
+    "datetime": "2026-11-11T19:11:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Estácio",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9175146,
+    "lng": -43.2088544,
+    "address": "Rua Professor Quintino do Vale, 125",
+    "fetched_at": "2026-11-12T02:21:53.268500+00:00"
+  },
+  {
     "datetime": "2026-11-11T17:08:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Cascadura",
