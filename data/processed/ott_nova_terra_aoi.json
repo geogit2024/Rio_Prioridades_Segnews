@@ -55,6 +55,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-12T14:39:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8313548,
+    "lng": -43.3022253,
+    "address": "Estrada do Quitungo, 961",
+    "fetched_at": "2026-11-12T18:14:36.974879+00:00"
+  },
+  {
+    "datetime": "2026-11-12T14:39:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8256182,
+    "lng": -43.3033031,
+    "address": "Rua Oliveira Melo, 443",
+    "fetched_at": "2026-11-12T18:14:36.974897+00:00"
+  },
+  {
+    "datetime": "2026-11-12T13:34:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Grajaú",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9226958,
+    "lng": -43.2600417,
+    "address": "Rua Grajaú, 54",
+    "fetched_at": "2026-11-12T18:14:36.974911+00:00"
+  },
+  {
+    "datetime": "2026-11-12T10:43:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8293407,
+    "lng": -43.2938685,
+    "address": "Rua Itabira, 305",
+    "fetched_at": "2026-11-12T18:14:36.974937+00:00"
+  },
+  {
     "datetime": "2026-11-12T06:39:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Grajaú",
