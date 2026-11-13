@@ -9087,11 +9087,213 @@
         }
       ],
       "clippings": [],
-      "massacre": false,
+      "massacre": true,
       "policeUnit": "PM (BOPE, BAC)"
     },
     "transports": [],
-    "victims": [],
+    "victims": [
+      {
+        "id": "787df642-673c-43e3-9865-f189e8fb1510",
+        "occurrenceId": "614f2386-3d7d-4034-ab5e-f79a13e30aa7",
+        "type": "People",
+        "situation": "Dead",
+        "circumstances": [
+          {
+            "id": "24faf824-6836-4478-a56d-f4f4e070156b",
+            "name": "Chacina",
+            "type": "human"
+          }
+        ],
+        "deathDate": "2026-11-11T05:25:00.000Z",
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
+        "id": "9a4172be-a292-4b2e-acb7-ea8810ee32a4",
+        "occurrenceId": "614f2386-3d7d-4034-ab5e-f79a13e30aa7",
+        "type": "People",
+        "situation": "Dead",
+        "circumstances": [
+          {
+            "id": "24faf824-6836-4478-a56d-f4f4e070156b",
+            "name": "Chacina",
+            "type": "human"
+          }
+        ],
+        "deathDate": "2026-11-11T05:25:00.000Z",
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
+        "id": "873d819a-4025-4c56-b1d7-a774adb0838a",
+        "occurrenceId": "614f2386-3d7d-4034-ab5e-f79a13e30aa7",
+        "type": "People",
+        "situation": "Dead",
+        "circumstances": [
+          {
+            "id": "24faf824-6836-4478-a56d-f4f4e070156b",
+            "name": "Chacina",
+            "type": "human"
+          }
+        ],
+        "deathDate": "2026-11-11T05:25:00.000Z",
+        "personType": "Civilian",
+        "age": null,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Não identificado",
+        "place": {
+          "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
+          "name": "Sem identificação"
+        },
+        "serviceStatus": {
+          "id": "7304cf1f-f7a3-4108-87b8-edf8f99a56c0",
+          "name": "Não se aplica",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "12d2604d-f769-41ed-92a1-83cacc0d7205",
+            "name": "Não identificado",
+            "type": ""
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      }
+    ],
     "animalVictims": []
   },
   {
@@ -9144,18 +9346,6 @@
     },
     "transports": [
       {
-        "id": "dbea3144-7de6-407e-b0d5-e0ab3fc87f7e",
-        "occurrenceId": "70ad5510-dff2-41d8-925d-7635f7e5e65c",
-        "transport": {
-          "id": "9aabafb2-1c17-4865-a680-e6e715e6f3aa",
-          "name": "Via"
-        },
-        "interruptedTransport": true,
-        "dateInterruption": "2026-11-11T11:00:00.000Z",
-        "releaseDate": null,
-        "transportDescription": "Atearam fogo em diferentes pontos da Linha Vermelha, interditando a via"
-      },
-      {
         "id": "0b61dfe9-7da8-4cf2-81ee-5f0c022a0e85",
         "occurrenceId": "70ad5510-dff2-41d8-925d-7635f7e5e65c",
         "transport": {
@@ -9166,6 +9356,18 @@
         "dateInterruption": "2026-11-11T11:00:00.000Z",
         "releaseDate": null,
         "transportDescription": "Av. Brasil sentido campo grande"
+      },
+      {
+        "id": "dbea3144-7de6-407e-b0d5-e0ab3fc87f7e",
+        "occurrenceId": "70ad5510-dff2-41d8-925d-7635f7e5e65c",
+        "transport": {
+          "id": "9aabafb2-1c17-4865-a680-e6e715e6f3aa",
+          "name": "Via"
+        },
+        "interruptedTransport": true,
+        "dateInterruption": "2026-11-11T11:00:00.000Z",
+        "releaseDate": null,
+        "transportDescription": "Atearam fogo em diferentes pontos da Linha Vermelha, interditando a via"
       }
     ],
     "victims": [],
@@ -9206,7 +9408,12 @@
         "id": "b70c8ccc-3c64-4189-8381-66b810a9797d",
         "name": "Operação policial"
       },
-      "complementaryReasons": [],
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
       "clippings": [],
       "massacre": false,
       "policeUnit": "PM (BOPE, BAC)"
@@ -9253,7 +9460,12 @@
         "id": "b70c8ccc-3c64-4189-8381-66b810a9797d",
         "name": "Operação policial"
       },
-      "complementaryReasons": [],
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
       "clippings": [],
       "massacre": false,
       "policeUnit": "PM (BOPE, BAC)"
@@ -9292,6 +9504,193 @@
     "latitude": "-22.8627778",
     "longitude": "-43.3152778",
     "date": "2026-11-11T20:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "88b31eb7-36c5-4bc5-a788-52b19beb2dfb",
+    "documentNumber": 79827,
+    "address": "Morro do Andaraí - Andaraí, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "c4d3a042-9414-4585-af7e-21220079971e",
+      "name": "ANDARAI"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "7cb20856-07ce-40f5-9025-4b7e4017d0df",
+      "name": "MORRO DO ANDARAI"
+    },
+    "latitude": "-22.922329",
+    "longitude": "-43.2477454",
+    "date": "2026-11-12T05:00:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "b70c8ccc-3c64-4189-8381-66b810a9797d",
+        "name": "Operação policial"
+      },
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (6 BPM)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "4a3f1ce6-4210-478c-9f3b-1817f1efc4c4",
+    "documentNumber": 79829,
+    "address": "Cordovil, Rio de Janeiro - RJ, 21011-350, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "abb9ba0a-5915-4ba4-9ed6-037679beb45b",
+      "name": "CORDOVIL"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.823823968092775",
+    "longitude": "-43.29619299539409",
+    "date": "2026-11-12T10:40:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "cc74df83-c4cd-4c68-b4d4-89b4a921f774",
+    "documentNumber": 79831,
+    "address": "Morro do Juramento - Vicente de Carvalho, Rio de Janeiro - RJ, 21235-000, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "9676e3c5-e16d-4fe1-b0f5-4c76d624821e",
+      "name": "VICENTE DE CARVALHO"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "f4641c20-7f1f-47eb-a480-d8d31f2b32a2",
+      "name": "MORRO DO JURAMENTO (COMPLEXO DO JURAMENTO)"
+    },
+    "latitude": "-22.8595476",
+    "longitude": "-43.3148861",
+    "date": "2026-11-12T11:00:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "b7ef3a1a-c673-4b45-b380-c89e5be0ca41",
+    "documentNumber": 79832,
+    "address": "Estr. do Quitungo - Brás de Pina, Rio de Janeiro - RJ, 21240-070, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "9570c4bb-4634-4c67-93a4-27a89a4e5354",
+      "name": "BRAS DE PINA"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.827346678171995",
+    "longitude": "-43.29770326693906",
+    "date": "2026-11-12T14:39:00.000Z",
     "policeAction": false,
     "agentPresence": false,
     "relatedRecord": "",
