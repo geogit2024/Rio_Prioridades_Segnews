@@ -55,6 +55,83 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-13T07:58:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Engenho da Rainha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8727927,
+    "lng": -43.2920378,
+    "address": "Rua Pinheiro Amado",
+    "fetched_at": "2026-11-13T11:32:20.089680+00:00"
+  },
+  {
+    "datetime": "2026-11-13T07:37:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8060539,
+    "lng": -43.3149972,
+    "address": "Rua Furquim Mendes",
+    "fetched_at": "2026-11-13T11:32:20.089697+00:00"
+  },
+  {
+    "datetime": "2026-11-13T07:17:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8784034,
+    "lng": -43.2542681,
+    "address": "Rua Fiscal Monteiro",
+    "fetched_at": "2026-11-13T11:32:20.089711+00:00"
+  },
+  {
+    "datetime": "2026-11-13T06:55:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8852319,
+    "lng": -43.3319492,
+    "address": "Rua Padre Telêmaco",
+    "fetched_at": "2026-11-13T11:32:20.089760+00:00"
+  },
+  {
+    "datetime": "2026-11-13T05:29:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8716283,
+    "lng": -43.2376436,
+    "address": "Via B 1 Quadra A, 8",
+    "fetched_at": "2026-11-13T11:32:20.089808+00:00"
+  },
+  {
+    "datetime": "2026-11-13T01:07:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Jardim América",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8034207,
+    "lng": -43.3206303,
+    "address": "Rua Marechal Antônio Sousa, 1720",
+    "fetched_at": "2026-11-13T11:32:20.089830+00:00"
+  },
+  {
+    "datetime": "2026-11-13T00:58:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8636832,
+    "lng": -43.2480472,
+    "address": "Avenida Brasil, 177",
+    "fetched_at": "2026-11-13T11:32:20.089885+00:00"
+  },
+  {
     "datetime": "2026-11-12T21:34:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Jardim América",
