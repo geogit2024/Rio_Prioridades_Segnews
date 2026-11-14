@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-14T17:33:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Del Castilho",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8816765,
+    "lng": -43.2670354,
+    "address": "Rua Maria de Fátima, 31",
+    "fetched_at": "2026-11-14T22:49:39.772085+00:00"
+  },
+  {
     "datetime": "2026-11-14T08:32:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Brás de Pina",
