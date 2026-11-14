@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-14T00:05:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Estácio",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9165218,
+    "lng": -43.1974061,
+    "address": "Rua Emília Guimarães, 38",
+    "fetched_at": "2026-11-14T06:13:55.745620+00:00"
+  },
+  {
     "datetime": "2026-11-13T07:58:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Engenho da Rainha",
