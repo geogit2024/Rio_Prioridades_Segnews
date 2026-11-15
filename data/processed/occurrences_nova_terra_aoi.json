@@ -9160,7 +9160,7 @@
         "unit": ""
       },
       {
-        "id": "873d819a-4025-4c56-b1d7-a774adb0838a",
+        "id": "787df642-673c-43e3-9865-f189e8fb1510",
         "occurrenceId": "614f2386-3d7d-4034-ab5e-f79a13e30aa7",
         "type": "People",
         "situation": "Dead",
@@ -9227,7 +9227,7 @@
         "unit": ""
       },
       {
-        "id": "787df642-673c-43e3-9865-f189e8fb1510",
+        "id": "873d819a-4025-4c56-b1d7-a774adb0838a",
         "occurrenceId": "614f2386-3d7d-4034-ab5e-f79a13e30aa7",
         "type": "People",
         "situation": "Dead",
@@ -9798,7 +9798,7 @@
       ],
       "clippings": [],
       "massacre": false,
-      "policeUnit": "PM"
+      "policeUnit": ""
     },
     "transports": [],
     "victims": [
@@ -9840,19 +9840,27 @@
             "id": "61586211-26d3-4f94-8584-6cc393875357",
             "name": "Agente de segurança",
             "type": "Agente"
+          },
+          {
+            "id": "715da8f4-714f-40ba-a171-793abc17cfdc",
+            "name": "Político",
+            "type": "Politico"
           }
         ],
         "politicalPosition": {
-          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
-          "name": "Não se aplica",
+          "id": "e7f0b10f-8d14-4b7c-8d63-3a67c43be207",
+          "name": "Vereador",
           "type": "Politico"
         },
         "politicalStatus": {
-          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
-          "name": "Não se aplica",
+          "id": "3d593cd0-fe83-46cc-9dc7-586dd7a89c0e",
+          "name": "Ex-candidato",
           "type": "Politico"
         },
-        "partie": null,
+        "partie": {
+          "id": "5547e65c-f27f-4ef1-9215-a687633bf161",
+          "name": "PARTIDO SOCIAL LIBERAL"
+        },
         "coorporation": {
           "id": "2ba0d4a5-abdc-4161-be92-55672850d4df",
           "name": "Polícia Militar"
