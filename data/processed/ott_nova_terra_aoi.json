@@ -55,6 +55,83 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-15T03:30:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8408891,
+    "lng": -43.3132319,
+    "address": "Avenida Meriti, 2086",
+    "fetched_at": "2026-11-15T09:41:01.083696+00:00"
+  },
+  {
+    "datetime": "2026-11-15T01:39:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Jardim América",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8034207,
+    "lng": -43.3206303,
+    "address": "Rua Marechal Antônio Sousa, 1720",
+    "fetched_at": "2026-11-15T09:41:01.083726+00:00"
+  },
+  {
+    "datetime": "2026-11-15T01:28:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9200623,
+    "lng": -43.2125681,
+    "address": "Rua Barão de Itapagipe, 154",
+    "fetched_at": "2026-11-15T09:41:01.083733+00:00"
+  },
+  {
+    "datetime": "2026-11-15T00:10:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8207138,
+    "lng": -43.2917724,
+    "address": "Estrada do Porto Velho, 561",
+    "fetched_at": "2026-11-15T09:41:01.083759+00:00"
+  },
+  {
+    "datetime": "2026-11-15T00:05:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tomás Coelho",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8694321,
+    "lng": -43.3073536,
+    "address": "Rua Moacir de Almeida, 385",
+    "fetched_at": "2026-11-15T09:41:01.083765+00:00"
+  },
+  {
+    "datetime": "2026-11-15T00:05:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Pilares",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8828793,
+    "lng": -43.2926977,
+    "address": "Avenida Dom Hélder Câmara, 6523",
+    "fetched_at": "2026-11-15T09:41:01.083772+00:00"
+  },
+  {
+    "datetime": "2026-11-14T23:26:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8781116,
+    "lng": -43.2411685,
+    "address": "Avenida",
+    "fetched_at": "2026-11-15T09:41:01.083778+00:00"
+  },
+  {
     "datetime": "2026-11-14T22:12:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "São Francisco Xavier",
