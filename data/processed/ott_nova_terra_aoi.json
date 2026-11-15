@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-14T22:12:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "São Francisco Xavier",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9025291,
+    "lng": -43.2445232,
+    "address": "Rua Vinte e Quatro de Maio, s/‎n",
+    "fetched_at": "2026-11-15T02:18:02.607904+00:00"
+  },
+  {
     "datetime": "2026-11-14T17:33:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Del Castilho",
