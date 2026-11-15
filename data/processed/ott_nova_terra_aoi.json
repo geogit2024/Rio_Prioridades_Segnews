@@ -55,6 +55,61 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-15T10:50:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Engenho da Rainha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8668463,
+    "lng": -43.2919286,
+    "address": "Rua Moréia",
+    "fetched_at": "2026-11-15T16:35:31.884585+00:00"
+  },
+  {
+    "datetime": "2026-11-15T09:17:00+00:00",
+    "type": "Arrastão",
+    "neighborhood": "Engenho da Rainha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.865215,
+    "lng": -43.2970248,
+    "address": "Rua Flora Rica, 39",
+    "fetched_at": "2026-11-15T16:35:31.884595+00:00"
+  },
+  {
+    "datetime": "2026-11-15T07:46:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8870147,
+    "lng": -43.3190575,
+    "address": "Rua Vital, 182",
+    "fetched_at": "2026-11-15T16:35:31.884603+00:00"
+  },
+  {
+    "datetime": "2026-11-15T07:31:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8925916,
+    "lng": -43.324568,
+    "address": "Rua Clarimundo de Melo, 847",
+    "fetched_at": "2026-11-15T16:35:31.884609+00:00"
+  },
+  {
+    "datetime": "2026-11-15T07:20:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8913122,
+    "lng": -43.310605,
+    "address": "Rua Assis Carneiro, 105",
+    "fetched_at": "2026-11-15T16:35:31.884615+00:00"
+  },
+  {
     "datetime": "2026-11-15T03:30:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Vila da Penha",
