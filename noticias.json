@@ -1,11 +1,5 @@
 [
   {
-    "title": "Confronto entre PMs e traficantes deixa 1 morto, 7 presos e 1 ferido no RJ",
-    "date": "2026-11-15T15:25:51+00:00",
-    "source": "CNN Brasil",
-    "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/confronto-entre-traficantes-e-pms-termina-com-7-presos-e-2-feridos-no-rio/"
-  },
-  {
     "title": "Operação da PM em comunidade de Quintino termina com 7 detidos, 1 morto e 2 fuzis apreendidos",
     "date": "2026-11-15T13:14:07+00:00",
     "source": "G1 Rio de Janeiro",
@@ -28,6 +22,12 @@
     "date": "2026-11-15T10:51:56+00:00",
     "source": "Berlinda News",
     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSmpIMTdMR3Z1U2o4WllxcndEM3ZpQTRId2RORHBPQldISkVGLUJjSlRucFljdk1fR1VTdXQ1bi0zVzc1SzViQXNLR21aTkVJQ1ZDMTFVTE0zUTdudXBCeFhPUjNNdkZvWjEtTDZ0RGpGMHJpYTR1a012LUc4N0ZjZC02WktTVkxWV2RkTFhneENKYmZjNkNIUENqSEg0aWF3OXdWZXZvU282SkJBU1g1YzhiVlROUmFmWnhjMXI3ekMxTGhSMmkxTWtFRmp5R1pPRXRmYTZSeFJScUI2ZHRVN0kxRWJtbVg2WXR1dmU5dWFZb0R1Wi1vaFp3Y3lSM1E0?oc=5"
+  },
+  {
+    "title": "PMBA DE LUTO: Soldado da PM morre após ser baleado na cabeça em confronto em Nova Brasília, em Salvador. - Alô Juca",
+    "date": "2026-11-15T09:58:00+00:00",
+    "source": "Alô Juca",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaHI3Z0JHRWUwTldsejBZODBRZEpzenhVcU9QUktxV2NiendOOEpwV1cxNDlCRWU2VzJ0bHNrVGU2RDF6Y1NCWlFiZHRhVFpFZGt5RFRlazZiNFlKbGx5VFBtVFlLeVYxaUdPX2VNclpDNWNyYzNfY1U4YmtSODlSa2hwTGhlbTdVLWtYOFlvTU9XakZaSEpiMExFQVA3a1JyWkZmcDlOdw?oc=5"
   },
   {
     "title": "Traficante Predador passou 5 meses na guerra da Ucrânia mesmo condenado por tráfico no Brasil",
@@ -118,60 +118,6 @@
     "date": "2026-11-11T23:00:52+00:00",
     "source": "Carnavalesco",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTQxY2lJNE1IS3A5SGMtQWY5VUg2QmszV09qS181aFExWS1KNnNCQW43N1hXUlFiNDNaVHdocV8yem1IVDRyQU9VN2dtS0NKY0VVdUU1c3JYUFhnLWFpRHlRNVRIUzdFT3NDXzc4Mm11a0NJM3puZ3FqeTZ1SE0wX09YUllnbE56U3dmR1hZMXAyUWNSZUVMU2g2eThVcXhmU2dzaGFWQ29KM2hWT2d0V29uUmhHQjlw?oc=5"
-  },
-  {
-    "title": "Um em cada três moradores do RJ vive em áreas controladas pelo crime organizado, aponta ISP",
-    "date": "2026-11-11T22:22:20+00:00",
-    "source": "G1 Rio de Janeiro",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/11/um-em-cada-tres-moradores-do-rj-vive-em-areas-controladas-pelo-crime-organizado-aponta-isp.ghtml"
-  },
-  {
-    "title": "Avó matou neta de 4 anos por ciúmes da mãe da criança, diz polícia",
-    "date": "2026-11-11T20:39:45+00:00",
-    "source": "G1 Rio de Janeiro",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/11/avo-matou-neta-de-4-anos-por-ciumes-da-mae-da-crianca-diz-policia.ghtml"
-  },
-  {
-    "title": "FOTOS: Complexo da Maré vive clima de tensão durante operação policial - O Dia",
-    "date": "2026-11-11T20:14:01+00:00",
-    "source": "O Dia",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY0VjZ3VycWYzR2VqXzR2elZSZzNmU1l5M19LVGNsWmtRcko5UjFLd3ZEWHBlbmRWWjM5Y1lIMFM4NDV2aWl4X2xPbGdpUncwU25jTE5KQ1VuTTF6cEpzLUNKOWR4bWcyQUtCQmY5SVBFbmtCcGc3bkxyLWI0MmJYVGpwMUZQYVBXODlSaGxsNjlsWHY1MFBxTlZCdkVkQlo1bHcyNEFWRHI2X0JKa2g3WjBjT1F2N2VCdGN5c0ZGakpTZEpfTTkw0gHHAUFVX3lxTFBjRWNndXJxZjNHZWpfNHZ6VlJnM2ZTWXkzX0tUY2xaa1FySjlSMUt3dkRYcGVuZFZaMzljWUgwUzg0NXZpaXhfbE9sZ2lSdzBTbmNMTkpDVW5NMXpwSnMtQ0o5ZHhtZzJBS0JCZjlJUEVua0JwZzduTHItYjQyYlhUanAxRlBhUFc4OVJobGw2OWxYdjUwUHFOVkJ2RWRCWjVsdzI0QVZEcjZfQkpraDdaMGNPUXY3ZUJ0Y3lzRkZqSlNkSl9NOTA?oc=5"
-  },
-  {
-    "title": "Operação policial na Maré afeta circulação de 42 linhas de ônibus no Rio de Janeiro nesta quarta-feira (11) - Diário do Transporte",
-    "date": "2026-11-11T19:28:05+00:00",
-    "source": "Diário do Transporte",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb2hueV9EejRLWjJxR2l5SFJoem9nWXVqenlhMGNIWTNkTXVVLWdLWHFTZEVZYW1XSFFkY3ZTeFJPVkNkdXBWVXVTX3RRQWpIZUdydFNwenJwRjJjc0QySExTOF9NQjZKbWF6SkhvUDhNYjY3dHlVcXU3VGloMUdmRTZ2dk81STBJNFI4bWttTFZfbWZfYnM2UzZZYUlISExSU1RIa2c5cmt2VGFiRzdXVXVhZ0JHTmVmOEo0anhkWlFRS2FiOTVoZmhwZmtyWHV4MnNLN29vYVNDd3NlY1Rqa0p4QTRuUdIB6wFBVV95cUxPQkw3TXN6ZTcwUUI0MUtPMFc1bmhaMENNWmNISkZvcUp3X1BUR0NsbjQyYW9BbTBRa0tCWU4xM1k2cVZpSlRZLXFwb0pOel9fXzVna3N5dDZUZDZDSURWNWprbGk4SVh0R21Da3l5ZkxOcHVtdk1pNzhCMlYzbG1aV0RmN1JVbHpEWUV1UndwTnJ1dENKc0JXZC0tUUs1M3QxbVUtV19aTFNyUnRKMm50aXNzbHpSNUlEMzYwOVphTUlxY1NSeWpkQWN6NHBDZ1RqZ2JTczdndnY3d3U1c3BmalhmMExtbVlHTHJR?oc=5"
-  },
-  {
-    "title": "Operação da PM no Complexo da Maré leva a confrontos e bloqueios em vias - boca.com.br",
-    "date": "2026-11-11T17:13:23+00:00",
-    "source": "boca.com.br",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzNTJGcGREWjg0dU5TZmt0a1ZsdVlnN0R3WUxsNm1OZ3hPZ0hBeFRGM2JUbWZNTjd0eVNJd1Q0cERHamNPUU9ISlF0UGx0aEZZWUJaQ1oyRVRWOXhwSUpFMmNFU2JLZ1dmc0x5c1RQNVdtSkE?oc=5"
-  },
-  {
-    "title": "Operação policial na Maré provoca bloqueios na Avenida Brasi - Portal de Beltrão",
-    "date": "2026-11-11T16:49:00+00:00",
-    "source": "Portal de Beltrão",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORkt2SHNMT0NvU3cycDZRbWtYaURXZXdMcTNRM2tJUmlSMW5zT2tMemRMaWctTi1GSU5tcDhaOExIV0xUYmdUaTFpN1VLdTFQWldLUTBuMDVwaVlXOUY2ODNoeG5GMGNjVERGWFQ4Sk5uWTNWajJmOFQ1ZHJ0X3pnMXR3aHhJR1oweUFMdFp4OVhST0s5TGxjYktYWEE0SWdRQmNDQ2RBeFhDQVpuVzFLSXRZRHZwSV94TTkwX3VscGlhclVoX183WTdfMktXc0pkUWZTTDlSdFRfc0JaSXdfMWxGN240SXBQRmRlSVQ0Z280RXNoTWRN?oc=5"
-  },
-  {
-    "title": "Bope faz operação no Complexo da Maré contra o tráfico e roubos de cargas e veículos - Correio da Manhã",
-    "date": "2026-11-11T13:53:00+00:00",
-    "source": "Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQalZ4V2lSVWwwNW5WT1NER1ZHS3htdkN4cEFoYkJBZlZ6czE5elRybXM0RXpDQmFSd0JRS2hvbjVKN01ocjlXQXRpM0kyVFNiaDQyaXQ3U3pmSDk4UjRKUUdFSUhYY1Y2VHNvaFdWUVQ2Q2ItRERmWDlVNHRKOHRtUXk4S2pLRTFNWFlNS1FsLVZXTm5JdWdPRzFmYVJJSms1WEJzQ1hBRUZZMFM2UXhuMXJWNDlnbzlMRlhveF9kaXJFRFFwb0FENGt0TjNTTXN4VE5zcnRkVk9DVlFnWW5JUXJ4WEZWSDU1?oc=5"
-  },
-  {
-    "title": "Operação policial na Maré mobiliza equipes perto da Avenida Brasil no Rio - Folha do Leste",
-    "date": "2026-11-11T12:12:52+00:00",
-    "source": "Folha do Leste",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVprdGt6S1dVbERiNFNLNTIybUppLTZ6UWhBN1B5Nmt4aUVNRmRPS1VJWng0SmZGeE9PTF8xZklqN0VVOTZPQllFT3dMbHNLNWRDMWp2U1lJczdkWkJwXzFOemZJMnZ5SjNnaDhxZmN2NkozSm9JQ0ZmU3draGVkVk5ja1pjUQ?oc=5"
-  },
-  {
-    "title": "Moradores da Maré acordam com intenso tiroteio durante operação do Bope contra roubo de cargas e tráfico - Super Rádio Tupi",
-    "date": "2026-11-11T09:50:52+00:00",
-    "source": "Super Rádio Tupi",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZTJUckFTbXFPUEN5TER2R09YQ2Z0bXNwbDhlMHFOamhDa0hqeFE3eVBEVlAtWU9DYzJnaDh4WjllNDdGNnI5Z3dyZ3VHTW1kTW1WQ3J0MVZnOXFxSEV4VWw5SG12T0l2cDdVVFUtWEEzWFpxRDlsVkhWT0hvbUVLZ0RsbzJGc2pMTXNBWkhDaFJMVzBQTEU2ZmtNaFJSblRhTXRpTzl3TkdhY3g0OV9wR2ZvN2ZaQ0JlTEljTjlkN3NtYl8yUnFJXw?oc=5"
   },
   {
     "title": "Memorial a vítimas da violência é reinaugurado no Complexo da Maré - Agência Brasil",
@@ -978,12 +924,6 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQjlTdFE5bzl6bERXOU1uSHVmaC1jU2NMRjJIbHVTX1c5NUs3cF9jelktUDZoVDNkbHVxODZQbGtNUl9lTUlfT3RGRGtyQlBOdnF6UGJlRm9RWVlzSU9DQ1JlRUxhdjZSTVhrZGt0eUlTVjlkVkEyRDM2VlZFa2s1THB2M0YwX0Jhd3BVVjhBWXQtUzhyVHRRZXZvNkdjbzFhUnk2dEJURQ?oc=5"
   },
   {
-    "title": "Idosa morre após ser atingida por bala perdida em Duque de Caxias - O GLOBO",
-    "date": "2026-07-13T07:00:00+00:00",
-    "source": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd0pndDI2VENnOWM1MnpCWDBXalNvQ19CbXRjbFFvX25pUGpaT1l2Z1JBUjh3MGxLdFc5MFdIcDdPQzdHTGt5WWFWR2h1dTc2a1QzUFFwa0h6NWZmc2JhSzlIVTMwWGE2bnpJYWVacDdhSnF3dVhiWmdTOG1QMERHOS01eVV1a1NSazJZb0pBbmRVZzl6WXVSbURBeTJMSUR0c1NpYW1vQTJLRVRCLUptRjdsRHRnYjBKaHdB0gHKAUFVX3lxTFBFVmp5aVZValBfWjd0YXBJU1FwalcyZi1MTnVxNU93SFhHTDBuemdzaUE0TkwwRUk4LThjUHhULUJkVGlhdG1GUTBiTU9xeEJzOENTWDFCejhKRGhtY3dQak1WM29mSlExcFpOYm1FaElDSDdoMEVaNG1zNDB5THY1endlaGpPWUF2MWxxQ05QdGtwa3RhZ2J6a1JBR0lMaHdKNXBXOVRLN0tkdFU3b25EbkFsNUE2d09hWGtGYW11dFdhcHl2VUZXa1E?oc=5"
-  },
-  {
     "title": "RJ: Polícia investiga seis mortes após confronto entre facções em Cordovil - CNN Brasil",
     "date": "2026-07-12T07:00:00+00:00",
     "source": "CNN Brasil",
@@ -1758,12 +1698,6 @@
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeW1LdlRYVFJPTTJDbjZjdGcxUlpQTGdnakxNZlQtT1RVbEtWb1BBQldETmM1bDM4TU85cGFmWlZ3ZlVtQk9qUFd6M2JfelhkQ2h0QnN1eW96TXlUMFJXNG5nVGtMeUJfV3VGdlV5RWNZYWxnRzd4TDBDNEhoTDBYMTFndF9OVExXQnQwU2Vad2o0WDJENWNRVXY0US10Q2dqTEF4dzRUVEk1dTVmaUFBbl8ybUU2bmlkNXNLM1cwWVd3cDVveXFhbkcxV2g5ajQ5c1B2Tnl6WU5EUzU0bGNj?oc=5"
   },
   {
-    "title": "Deputados divergem sobre operação policial no Rio de Janeiro - Assembleia Legislativa de Alagoas",
-    "date": "2025-10-29T07:00:00+00:00",
-    "source": "Assembleia Legislativa de Alagoas",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYnVpT2szOTB5a0pNUk9FbWZMdGNCS1V4VUdLZzlVTDFNWUhOWXBMQjZROFVPWF9BcDJyeERScHNiUkl1NVZQV2ZBWkMxcDkxM2stNmdJaEVBSDVLeEVRMDlDSjFoYmdLVVdvYXN1b3Foc3Q0OWstUDVUQlNXZnFOa05IMTNJeGhiNVR5NG5yZHlTc2lZRk5kNXRwZzdPOU5OemFMRHRPemN3dw?oc=5"
-  },
-  {
     "title": "Grande número de mortos indica que operação em complexos de favelas do Rio de Janeiro não pode ser chamada de sucesso, avalia docente da Unesp - Jornal da Unesp",
     "date": "2025-10-29T07:00:00+00:00",
     "source": "Jornal da Unesp",
@@ -1776,12 +1710,6 @@
     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wNC1TcDh4aF9zUllrYW1nZS1MYXZCbHNvNHVjUnBtSFFCUXN6NFU2dVljRmF0Uks2Y3lfRHd4WlBlamE1aDRWZUt6Q1N2VFNnOWRienRoYjE3VUlWOUhFdHVB0gFnQVVfeXFMT25XTWVsY3dtZElXNGlWNi1CRExhQzkweS1XWndUZDRCamRDLVNBNjkwNV9QdmNkeGxvWWdFWWZoVjlUS3U2SXNyZTVXS1ZZOS14VGpzT0xSQmFEYzJBV2RWbTdUaUp1SQ?oc=5"
   },
   {
-    "title": "Governo do RJ confirma 121 mortos em megaoperação; moradores retiram dezenas de corpos de mata - G1",
-    "date": "2025-10-29T07:00:00+00:00",
-    "source": "G1",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUm1ybUZOV0l5MkZFSThmZVZ2WmtlZ1NGb1lTQkxQNTVIYU1uRENmYU1FOWNtNWpDdXNJU1A3NE5lNFdqX2MxZWdzbnEyZDVLcno1a0dSdTlaZ0dQdnVMaEVsekVaUnhQREJRT2xVdXlVYkhBT3NNNF9PakpZeFdsYko0ZElYUGtWMjJmb2ZWVnVpSnowV0x2cnVvTlrSAasBQVVfeXFMUE1DYlFwZFV0T09lY2NsVUl3Y0ozV0lzSk9ETmpJN2FiTmlWLWdVQTVkUmIwMklzdnJldWZSSnNERmhJckE4V2xmSVJkWm9pSTY3cVRPWFhvRVVyTjh3M3FtWkZrQk5sMkFWZWs5YklrcTUtLXRURDh1NUUxNXNnTmp5elYxcE54NmY1ZlBrRU43REo5aHJUSG1NTlFsZl9SOG03SVN6WG1kbnJB?oc=5"
-  },
-  {
     "title": "Megaoperação no Alemão e na Penha contra o CV tem 121 mortos e 113 presos; vias são fechadas em represália em todo o Grande Rio - G1",
     "date": "2025-10-28T07:00:00+00:00",
     "source": "G1",
@@ -1792,6 +1720,12 @@
     "date": "2025-10-28T07:00:00+00:00",
     "source": "O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQ0tFb1lKajVMZWpfUVYtWlhjdzZUWTEwWi1XR21fUUJ3QmZ1TDJGNGQ3UFFwOS1CeHFuOG5naG80bWJYTWRoUzZtWXh2VGl3bWM4SHBCOXZkZ3J3RkswVEtrcjR1dXBZVEExMVpGUkNfc0g0OEpoRGtjNFRQQWpFZXpqeHl0V3YtYkNva0Uycm1XeHYyd3RuU1Q3Mm9vNHN3bjdTSVJVRFlXcjFSV19jYXVwX3FpNWtueWpobzNlN01nTjcxVXY0OGo1NnJQQWs4Q3I1LVVMbnVhNV8xTm9wWUhxX2w1OEpzUGZ1bk83dlhGQ1dnYWNFWDMyOURfc0RYNWxF0gGSAkFVX3lxTE03clpQWlVEUXZSaVFXckRpa0JKTTBBX01pZ19jUEVpUERoeDF5Yzg1cUlQRUNIcVdIVVQwTFNZdHA1ZlJJdFc2Qm9pY09wdVZQd0FYQ3VuMTRwaHY2MEV6WlNab2JzWlAwbldsZ3RxU2NiQUdXdTI3UW1GTGhHN1MyVmJ2N0QxblBId2h0ZW9KejgyamxNS2ZiSVFKTlBDbnRRNjVIVXdCblZXQXA3cnR5SFlDSW1mdGRTRlNVcGQxUk5NQ19PVGZFRkUzYk5TcXZZY1Q4bmoxOGhoUUk0cmhvRXBkSGhLcUUxVVZPSEdaSmZqTmxsOVM3bkRheVktN3hzSm1KUTF6cmhMeWhuX0hYaHc?oc=5"
+  },
+  {
+    "title": "Prefeito do Rio apoia operação policial contra o Comando Vermelho - Agência Brasil",
+    "date": "2025-10-28T07:00:00+00:00",
+    "source": "Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemJPTUlWcm53bmhoXzE2aWVOTkVqVGU2MUNFb1hDOEhqNkxhaVYwOEoxb0tSb21wbVI4VmVjTmw0ZDM3Q083WmQ3LU4xUVd0V0k5bkpVR09HWnMwTXNJdElLb3VCTGxnR1B2dlFXWDVwMWxkMTdHWkpHbFFfZU1UZWp0Wktha0RjeWc5WlhNQzV6M0NKRlloeXBocy1ob1gwMXBHMW5sWV9qZHJadTNvZkRqcUpMRzNrMldQZw?oc=5"
   },
   {
     "title": "Operação no Alemão e na Penha tem 122 mortos e se torna a mais letal da história do Rio de Janeiro - G1",
@@ -1944,6 +1878,12 @@
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxRanJDaDZpOFN1X2hpTkl6YTRzSHVSZW5tWllnNF9YQjRNMWtMWUxXYXliVXVzdy1sU2MyeEpxcWNISVBWRWhtRnpwbWxDWTFjc3VTWWpsZ19OdXRlb2pSaDlDbzRSRTFPQTdYV2Fycmw2OVJyRTE5ZUVfS2FiQXhTQ1hVRFRNd0JuTm1yQ1BsbDR1RW5lMjNaY21JUTZveUVQS2prdjZHUDNZMkJCZA?oc=5"
   },
   {
+    "title": "Operação da PM na Mangueirinha, em Duque de Caxias, tem dois mortos, um ferido e um preso; frentista foi atingido por bala perdida - O GLOBO",
+    "date": "2023-08-23T07:00:00+00:00",
+    "source": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQam1rMXVtNm1sVDFVY1lrYmtwLWFLaGM1bmJHTkcxdHlaVXlOLXE2aFhVcjlYLWpJYUFqOUZnaldSSnVBa1loT0pxSi1KT204RVlEZ1Y1MVBTVkZWRWt4SjVqQlZjT0pSUTc2WlVDVEthMjVfNFNFMFMySXU5ZVBXVVMzOHl0WnhvdWZMSmtiODE3c0FqaENGaTItYWpDOUdlc2FMWGpuMU9RYzMwN1YzdlJGUkhXSkU2ODRJaTNSNU04NEJBbjJIVDlDQXdNR1pkbllfd0stNNIB5gFBVV95cUxQUTBSbG1rdGp1RUExOFJKeUJPUVJiUmxmUXlkWUpwdUpSNXVjYTNIaGFzbGFFRzlEc2lVYlhwQ2k1UVF6aGJtemVLTTVncWVWdFQ2UlRzT21YZGc5TmkzY2lLNElCS1dTMmNVdE1tQkI4dUR3alhQWHAzSVIzZzg5VVRLRFdTS1duZ1doeGRqelA0Mlp5WWVpSjhfRUljRElzWkxDbW1qN1U3LUdMTlFaV0RqVkJONHVneXh0YWNBSU9zd28weHRaUDZmVC1uSS1SUWs2Zk0zSnlJOXJzMXZxUml6dTV5dw?oc=5"
+  },
+  {
     "title": "Tiroteio afeta circulação de trens em Cordovil, na Zona Norte do Rio - G1",
     "date": "2023-04-26T07:00:00+00:00",
     "source": "G1",
@@ -1980,16 +1920,16 @@
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaE1EQmh5SjlXZDY5YWVPMzN1Y05tVVRFUk5ESTBfMEgxUjdBcU9uY250NTU5M3ZzQkUwVTVmbDJkVlR5ZWV6dDdqaW5iU2Q1UHhlNlNGN0I2VjNVMDhPckxwbGRvODVhUVUyUkZHWEFoNFdydXB1cnVSX2FOdHhVT09TYTRrVUpNY3BaSnQ2bFBvNEtqNDBTMTduYmhRam81WTVv?oc=5"
   },
   {
+    "title": "Polícia faz operação de asfixia financeira do tráfico de drogas no Rio - Agência Brasil",
+    "date": "2022-02-04T08:00:00+00:00",
+    "source": "Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObk1zVFhsdm81bVpyMmZsdy1nR2pQVjVMSXpiMS1iM3diRzhuVXBhX3dtV3lOMERURVMxak1hSXJOejVTdFctOWZZSUdLOUFGaFMtM3lZcVRJMmhGczJFVWlNcW9YT0xOUXNYdmtGUFhYYmVBa3JpM2JXeTQzUG90NE4ycVZ5SU1oeHNJcHVSUlNuZnlqYUhuWlpEa3V5NDlpcE5iR3o0WVFpQWVBVFNfeWRUaWJuUncySS1ZTi1hajE3aTQ?oc=5"
+  },
+  {
     "title": "Área de delegacia responsável pelo Jacarezinho tem uma morte em confronto com a polícia a cada 15 dias, em média, desde 2003 - O GLOBO",
     "date": "2021-12-17T08:00:00+00:00",
     "source": "O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSE5oTFdITEI0eS1NMnVwdTQwNDVaN3JTN1l6X0tpM0ZGbzBMTEw2eTk5ZFNsMWdXRFRmVHRRTFd1aUthaktSWGRMcHJZZ2JHR2lxSVdXdjZETHhjZVRVcFItemQ2b1R0MC1oQ1REUlB4Y1FiUjhndEpYM1NLdUQxc05yUXdCV0RHeFZfSmE2QmN5OTA3aXhMR0htMDVvbVVJUGs4WWNqNEsxSnlCdHJDSDc5aGhwYkx1cFVZZnY1UnRwd2xWVldlSUpVb1djUjdzYlNJWjZrNUo4NGtBZU5QdTc5alk5XzhzNGRPatIB-wFBVV95cUxQSFV4UHFjUkNhX2RwTXJVcWp6NTF0Rkd2cVlZdF9HYlhIX1lfTW5GNWwwbEc2QXRLTlNENTBKR3RTZURqUldjMXdzUkpsblFPRXdveFNpZEcxel85UjdOMFNGeG4za05KSDZ6WENiTHVpVi1wU1Y3RGlGbFZBQTlySEh3SG1VR1JZUnZzY0VMaDZOV0hvTmVVdjhwWXlXNWdOeDI3WTdKZHdlSzNzSm1fYVFsRU5hMTRJSHZneXBmTUVBVU9jd3Vhc1FzbzlWbU90MXlkTDhLX2kybjRwVk1UcE9Xc01JeEFnb0tEZ2QtRzRHcFFCUGJoTlA5VQ?oc=5"
-  },
-  {
-    "title": "Jacarezinho: 25 mortos tinham antecendentes criminais, metade por delitos ligados ao tráfico - O GLOBO",
-    "date": "2021-12-17T08:00:00+00:00",
-    "source": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNl9rVHFTdm12SEJna21CdmMyWms4NXBZU1hpNHVPd2xha0tGaHo0MFR6eVJ4RVc5T1Q2QjY1ek02V0V5cGFGX0x1T3BJSXJRR01yUDlPUU1GOHVwTlNrQjNzNndtR0lZNUQ1U3BReXVFQk5Tdl9wSjFDUXlzS1BxdnpqeTZYdlZSM0plcUtzcjZydHFVdHFnS0ZhOWg1cWtTQ2VaMXRGWHBYOFh1RHhFM25jaFhOQnprRG5WWDNKQXlnTTB5TkFZ0gHWAUFVX3lxTE12SXdVZ1YzZlZjOGZpX2twanRnU2tlQ0hzdm1FNkRQUnpoTGdlaW1ucVhJUXp0SllhWXJRUVlBU3hXWEV3a0JMWExneUpBN3ZiSmtSWFNtbkZKZl9HR2hVOGNNcjU4WkQtRFVKbFBwOWFxemRHb0FmbGc0RURyTWNLcXBvcm1sS2pqcm5Ub00ybEV3N0VNWUxEU0k4OXhFQ0JUNmo4S2NVdllDZnFxbUZZc0pDRWZKa2dVZVVGWnZ2bF93RUJ3N3FIMzdfNUxkS20zdGRuQ3c?oc=5"
   },
   {
     "title": "Operação policial mira esquema na Zona Norte do Rio que usou cooperativa de reciclagem para lavar mais de R$ 50 milhões - O GLOBO",
@@ -2034,6 +1974,12 @@
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTVRBbHBwMGw5SDJaRmhuWWU5UGRjUmtRMklHNWlKVE1QS0hQbDVNTUh1YkV3Q2NPTXZnQi1BeFp4WDdPSloxdlVDb25nRGg0RWRpYXhfVnJFWkJZSlFQUDhXRmI5d0tWV25KanZHVk5qVDJFRFdwY0RlZTY5R1ZxVVBnYzhycDFXcURHeVJ0ajJZTm5qamdUTl90VWdnQW1Ha1E?oc=5"
   },
   {
+    "title": "Número de mortos em operação no Jacarezinho sobe para 29 - Agência Brasil",
+    "date": "2021-05-08T07:00:00+00:00",
+    "source": "Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGQ5VTIyQlJDM0h4SDlYMHZqS3JwbVMzQkUtUFA2Tk8yZW9DZktMVjJCUk95SDNnZ0owTGZyWWNWb2VUZGxKdXlGaENtQkVocHByanlLVXEtck9laU1VUTAweTZDOGpjYXVOZ0wtRGtDVFM3MXNjT2xwWkZFV1VDdExtTVNxdHd6T0YyMTNVWjJJQ3h4QXQ5c0k4SWYyOWN1TUJSX3BqWElrNTZrTlVkVg?oc=5"
+  },
+  {
     "title": "A CIDH condena violência policial na Favela do Jacarezinho no Rio de Janeiro e insta o Estado brasileiro a reformar sua política de segurança pública - OAS - Organization of American States",
     "date": "2021-05-07T07:00:00+00:00",
     "source": "OAS - Organization of American States",
@@ -2050,12 +1996,6 @@
     "date": "2021-05-06T07:00:00+00:00",
     "source": "G1",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRE9LRGdKZnpiYlQ2QnlJTndtQzlwT01JUlVISzB4OFM3YXFFUkhZem9mSGI3ZWZyNEFSSWRHNVdQdUV5YXh1cEp5NVlmY21sOGhnM19JNWtoUVMwLW1seU1oWUx4OUxLUTVDRnlKcHc2eEVHTXJnRXpMZC1Pbm5tY0k0WTF5MUxBVUhuSWZUZldTZWlLR2pneGt6Sm9nX2otdXdj0gGyAUFVX3lxTE9hc3k5Q3dBVllZb2Y2OUg0ank2YjZYT2dQdGJMamIwaHFieHVnMk9SWWVEN1JfS213NFdxVXRVS05mU2pJTzdSMzhxNEk3WjNyWGNoU2Q5VklrOFdXSHJTMW51TnBvcW9nNHFpTDdCTm1BYUhjeDEta0VVRWRuYV93WWVIUHphMEplY2F5TEY0SlhLeEUtX2l2WjZWM0lkVXZqaDFJWS1rYktSQXkyencwUWc?oc=5"
-  },
-  {
-    "title": "Operação no Jacarezinho tem 25 mortos, entre eles um policial civil - O GLOBO",
-    "date": "2021-05-06T07:00:00+00:00",
-    "source": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTh6YWR6MXdTY0hmSUJlLUFWTWJsZlV6R3F1RFB2ejB6S0VVZXBSVWhFWENKS2JvR0VUNGpYdUk0UU95MWpidnZSMmNlZjJLZkY0SEVCUkZVcjM3T1A0aVMxRWFrRnBMQWFwb0U4NE11UGwzTFYwS1VqdjFnQml6UEFITklxQ1l6SHAxQnJwaDFzbjNVNGlOTktnOVZCaHYyRXRwXzBUY9IBtgFBVV95cUxPanNvU0U0OWRTLVVNYmRLZVBTOGVoZHlET0s3TjVFOGNmYzhCS09HRHNYMGlzTmR6MjY2OTRPV05IMGY4YW5yV3NocnNNOUdLV0lKdU9jSGZpLXdaZkVyZFRVdmpTdVdYamdiTXNDVEQzVHVkSDRGRnp3OGU0eUc2Y1pUSTRGenczLVZmQTJXT1ZZLUpQNkpkaW9hUFh4ZnU2Z1pWUVhoQ28zZmxLX0RGVEJ5OVhGQQ?oc=5"
   },
   {
     "title": "Dez pessoas morrem durante operação policial em comunidades de Quintino, Zona Norte do Rio - G1",
@@ -2184,12 +2124,6 @@
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHRaQnVURTFCOFcwcmthS1E1cWRudG0xTlFIS1RJX3pWTUh6djRzWHdMNEc3SF9JSEg2VnF5UmlFS3FhdHNvSGJ4WGVuV0M5cnRaUlBIVExzdU5LbVpua1FSb1NIM3hzZ2Y4Zms0OHBrWlFHVXdmWHBMclF1TkZIV3JvaWE5bVJPODhsVDZ4alByTG5BM01qU3lyVTl3UklvMElz?oc=5"
   },
   {
-    "title": "\"Caveirão\" tira barricada do tráfico na favela do Jacarezinho - O GLOBO",
-    "date": "2017-05-04T21:01:51+00:00",
-    "source": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2x3OXBoV0lTU0Y0VFhxd255M1lYWVMtN0xsTk9pczBCYWhtc2hUNS01cFFKWFpMMTYxekduWWxwNUJwaXcxSlJCNTBGeDJkMUdVZWRncjZDc1d1UW5pVXBkUkw4UzBPOUpVVk1kczREYjVrTkFmclFYRjhfem9FMTJIYnF4a0NCYUxYX0JhU2YtNm5lUzVmaFEtdHk2dw?oc=5"
-  },
-  {
     "title": "Criança morre atingida por bala perdida durante perseguição em Irajá - O GLOBO",
     "date": "2017-01-22T08:00:00+00:00",
     "source": "O GLOBO",
@@ -2242,12 +2176,6 @@
     "date": "2015-07-10T07:00:00+00:00",
     "source": "O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2ZNSzJwZGVTT3N5X0Q3SEJXelh5eFZoSlZuSHBJblFBT0tMSlpBYkRFaG9oTHY3ZFBZdzZ5SHJZb3U3NXhGbnE0ZlVDTjlmUkotOVZXNllEUV9WX09BZFFIUzNaNzR5bzZuSGZMRTRER2EzT1JxNU9HVnc0a0NZZlY1X0JQYXB5TnJlVkFqYlk5ZHROTEpMaVRR0gGoAUFVX3lxTFAtT3lTTmtKME5NTWNuNlRlXzhCV3kwa3BXcnQyLWRuR2Z5Z3BxUjBzbmVaMWJpV3dnNWdpV3B1ZS02bnZiSTlCbG53Q29jbUt3VDE2QmRhRmxFVlJxV0JNMWlkQU04cUVyYXlWaDRpcUFSblAyZkV3Q1Rpc2RTU1JSRTBidXZUUzMtYnk3dUJ3aXlLYkpkc1lnNUxsUDJVZ09SNGQ0cWpFcg?oc=5"
-  },
-  {
-    "title": "Operação da polícia prende chefe do tráfico no Alemão, Zona Norte do Rio - G1",
-    "date": "2014-09-18T07:00:00+00:00",
-    "source": "G1",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkxodnRoa0xYeUZSd0RjZTBaZWxMdmVQT1UzTDBvRXNnNDg1dERxS1RVbTlpSzkwdHJ2anFzQU1rSkxHWUJXWlN6M2RZd3BDZWxKb3pTWTlwY0FYTjF4eDN0aDR3VS1Ya0dPYnEwOXRNTGJERVotY3RIYTlYR0ZfZ2VKMGFfNXJyVTlHajg5eTZDYzBCMklDeXNMaWVhcmlxbm9CWUlBZ0Vzcm1qYVc2UGRVbVFEbU5VblhWVTd5VQ?oc=5"
   },
   {
     "title": "Favela Santa Lúcia, em Duque de Caxias, tem madrugada com tiroteio - O GLOBO",
