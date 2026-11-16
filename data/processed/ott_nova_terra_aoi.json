@@ -55,6 +55,61 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-16T02:31:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Estácio",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9167049,
+    "lng": -43.2046451,
+    "address": "Rua São Carlos, 300",
+    "fetched_at": "2026-11-16T08:00:22.502726+00:00"
+  },
+  {
+    "datetime": "2026-11-16T01:56:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8350189,
+    "lng": -43.2984577,
+    "address": "Rua Pastor Francisco Soren, 238",
+    "fetched_at": "2026-11-16T08:00:22.502746+00:00"
+  },
+  {
+    "datetime": "2026-11-16T01:15:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8392917,
+    "lng": -43.2913678,
+    "address": "Rua Crato, 60",
+    "fetched_at": "2026-11-16T08:00:22.502752+00:00"
+  },
+  {
+    "datetime": "2026-11-16T01:12:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Benfica",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8884736,
+    "lng": -43.2455316,
+    "address": "Rua Leopoldo Bulhões, 323",
+    "fetched_at": "2026-11-16T08:00:22.502757+00:00"
+  },
+  {
+    "datetime": "2026-11-16T00:08:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8489607,
+    "lng": -43.3243701,
+    "address": "Travessa União, 10",
+    "fetched_at": "2026-11-16T08:00:22.502780+00:00"
+  },
+  {
     "datetime": "2026-11-15T21:49:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Benfica",
