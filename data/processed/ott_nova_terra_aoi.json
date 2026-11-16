@@ -55,6 +55,116 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-15T21:49:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Benfica",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8884736,
+    "lng": -43.2455316,
+    "address": "Rua Leopoldo Bulhões, 323",
+    "fetched_at": "2026-11-16T01:14:22.224731+00:00"
+  },
+  {
+    "datetime": "2026-11-15T21:41:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8949957,
+    "lng": -43.305762,
+    "address": "Rua Viana Júnior, 37",
+    "fetched_at": "2026-11-16T01:14:22.224750+00:00"
+  },
+  {
+    "datetime": "2026-11-15T20:41:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Caju",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8735493,
+    "lng": -43.2373155,
+    "address": "Avenida Canal Dois, 738",
+    "fetched_at": "2026-11-16T01:14:22.224789+00:00"
+  },
+  {
+    "datetime": "2026-11-15T20:24:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8518205,
+    "lng": -43.2431352,
+    "address": "Rua Darcí Vargas, 81",
+    "fetched_at": "2026-11-16T01:14:22.224802+00:00"
+  },
+  {
+    "datetime": "2026-11-15T20:13:00+00:00",
+    "type": "Toque de recolher",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8674795,
+    "lng": -43.2360836,
+    "address": "Via C Onze, 1",
+    "fetched_at": "2026-11-16T01:14:22.224813+00:00"
+  },
+  {
+    "datetime": "2026-11-15T19:57:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8369568,
+    "lng": -43.2928758,
+    "address": "Rua Irapuá, 202",
+    "fetched_at": "2026-11-16T01:14:22.224825+00:00"
+  },
+  {
+    "datetime": "2026-11-15T19:54:00+00:00",
+    "type": "Toque de recolher",
+    "neighborhood": "Caju",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8735493,
+    "lng": -43.2373155,
+    "address": "Avenida Canal Dois, 738",
+    "fetched_at": "2026-11-16T01:14:22.224836+00:00"
+  },
+  {
+    "datetime": "2026-11-15T19:50:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9240729,
+    "lng": -43.2110163,
+    "address": "Rua do Bispo, 72",
+    "fetched_at": "2026-11-16T01:14:22.224848+00:00"
+  },
+  {
+    "datetime": "2026-11-15T19:32:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Bonsucesso",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.86185,
+    "lng": -43.2546639,
+    "address": "Rua Cardoso de Morais, 201",
+    "fetched_at": "2026-11-16T01:14:22.224859+00:00"
+  },
+  {
+    "datetime": "2026-11-15T19:32:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8636832,
+    "lng": -43.2480472,
+    "address": "Avenida Brasil, 177",
+    "fetched_at": "2026-11-16T01:14:22.224870+00:00"
+  },
+  {
     "datetime": "2026-11-15T18:09:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Brás de Pina",
