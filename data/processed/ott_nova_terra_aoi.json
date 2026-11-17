@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-17T14:42:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Ramos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8485404,
+    "lng": -43.25851,
+    "address": "Rua Barreiros, 1022",
+    "fetched_at": "2026-11-17T19:09:27.233772+00:00"
+  },
+  {
+    "datetime": "2026-11-17T12:18:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Benfica",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8972115,
+    "lng": -43.2425526,
+    "address": "Rua Joana Alves, 159",
+    "fetched_at": "2026-11-17T19:09:27.233795+00:00"
+  },
+  {
     "datetime": "2026-11-17T06:42:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Caju",
