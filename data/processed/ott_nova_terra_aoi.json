@@ -55,6 +55,116 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-17T06:42:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Caju",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.884588980612,
+    "lng": -43.230241966571,
+    "address": "Rua Paraíso, 104",
+    "fetched_at": "2026-11-17T10:05:45.552523+00:00"
+  },
+  {
+    "datetime": "2026-11-17T06:14:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8622222,
+    "lng": -43.2405556,
+    "address": "Rua dos Patriotas, 14",
+    "fetched_at": "2026-11-17T10:05:45.552561+00:00"
+  },
+  {
+    "datetime": "2026-11-17T05:15:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8797914,
+    "lng": -43.254052,
+    "address": "Avenida dos Democráticos, 154",
+    "fetched_at": "2026-11-17T10:05:45.552598+00:00"
+  },
+  {
+    "datetime": "2026-11-17T04:03:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Caju",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.885191,
+    "lng": -43.2312237,
+    "address": "Rua Paraíso, 109",
+    "fetched_at": "2026-11-17T10:05:45.552606+00:00"
+  },
+  {
+    "datetime": "2026-11-17T00:58:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Engenho de Dentro",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8986409,
+    "lng": -43.2944042,
+    "address": "Rua Daniel Carneiro, 26",
+    "fetched_at": "2026-11-17T10:05:45.552613+00:00"
+  },
+  {
+    "datetime": "2026-11-17T00:37:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8360651,
+    "lng": -43.2885143,
+    "address": "Rua Bento Cardoso, 239",
+    "fetched_at": "2026-11-17T10:05:45.552622+00:00"
+  },
+  {
+    "datetime": "2026-11-17T00:36:00+00:00",
+    "type": "Arrastão",
+    "neighborhood": "Engenho de Dentro",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8986409,
+    "lng": -43.2944042,
+    "address": "Rua Daniel Carneiro, 26",
+    "fetched_at": "2026-11-17T10:05:45.552629+00:00"
+  },
+  {
+    "datetime": "2026-11-17T00:34:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8261215,
+    "lng": -43.2858092,
+    "address": "Praça Anhanga, 112",
+    "fetched_at": "2026-11-17T10:05:45.552637+00:00"
+  },
+  {
+    "datetime": "2026-11-17T00:33:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8221688,
+    "lng": -43.2968399,
+    "address": "Rua Bulhões Marcial, 170",
+    "fetched_at": "2026-11-17T10:05:45.552653+00:00"
+  },
+  {
+    "datetime": "2026-11-17T00:28:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8338943,
+    "lng": -43.2916319,
+    "address": "Rua Guaporé, 424",
+    "fetched_at": "2026-11-17T10:05:45.552660+00:00"
+  },
+  {
     "datetime": "2026-11-16T13:26:00+00:00",
     "type": "Toque de recolher",
     "neighborhood": "Quintino Bocaiúva",
