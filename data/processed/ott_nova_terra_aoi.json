@@ -55,6 +55,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-18T14:45:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8646955,
+    "lng": -43.2405394,
+    "address": "Rua Praia de Inhaúma, 93",
+    "fetched_at": "2026-11-18T17:59:46.692560+00:00"
+  },
+  {
+    "datetime": "2026-11-18T13:45:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8750575,
+    "lng": -43.2390559,
+    "address": "Avenida Canal Um, 297",
+    "fetched_at": "2026-11-18T17:59:46.692612+00:00"
+  },
+  {
+    "datetime": "2026-11-18T12:17:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8646955,
+    "lng": -43.2405394,
+    "address": "Rua Praia de Inhaúma, 93",
+    "fetched_at": "2026-11-18T17:59:46.692634+00:00"
+  },
+  {
+    "datetime": "2026-11-18T06:59:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8766084,
+    "lng": -43.3064242,
+    "address": "Travessa Cardoso Quintão, 39",
+    "fetched_at": "2026-11-18T17:59:46.692698+00:00"
+  },
+  {
     "datetime": "2026-11-18T05:18:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Maré",
