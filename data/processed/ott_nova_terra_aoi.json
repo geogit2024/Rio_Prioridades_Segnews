@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-18T05:18:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8518205,
+    "lng": -43.2431352,
+    "address": "Rua Darcí Vargas, 81",
+    "fetched_at": "2026-11-18T09:06:01.269172+00:00"
+  },
+  {
+    "datetime": "2026-11-18T00:29:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8825193,
+    "lng": -43.2442626,
+    "address": "Rua Vinte e Um, 1",
+    "fetched_at": "2026-11-18T09:06:01.269221+00:00"
+  },
+  {
     "datetime": "2026-11-17T21:54:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Vista Alegre",
