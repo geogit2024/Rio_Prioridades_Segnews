@@ -55,6 +55,61 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-17T21:54:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vista Alegre",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8207786,
+    "lng": -43.3108111,
+    "address": "Rua Misael Mendonça, 300",
+    "fetched_at": "2026-11-18T01:35:23.524098+00:00"
+  },
+  {
+    "datetime": "2026-11-17T21:09:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Caju",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8807991,
+    "lng": -43.2278482,
+    "address": "Rua da Paz, 36",
+    "fetched_at": "2026-11-18T01:35:23.524132+00:00"
+  },
+  {
+    "datetime": "2026-11-17T18:25:00+00:00",
+    "type": "Toque de recolher",
+    "neighborhood": "Caju",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.88484,
+    "lng": -43.2303433,
+    "address": "Rua Francisco Almeida Santos, 1",
+    "fetched_at": "2026-11-18T01:35:23.524178+00:00"
+  },
+  {
+    "datetime": "2026-11-17T18:20:00+00:00",
+    "type": "Arrastão",
+    "neighborhood": "Ramos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8531897,
+    "lng": -43.2477279,
+    "address": "Av",
+    "fetched_at": "2026-11-18T01:35:23.524192+00:00"
+  },
+  {
+    "datetime": "2026-11-17T16:40:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8425552,
+    "lng": -43.3347292,
+    "address": "Metrô Colégio",
+    "fetched_at": "2026-11-18T01:35:23.524205+00:00"
+  },
+  {
     "datetime": "2026-11-17T14:42:00+00:00",
     "type": "Assalto",
     "neighborhood": "Ramos",
@@ -5487,6 +5542,17 @@
     "lng": -43.2597941,
     "address": "Rua Barão do Bom Retiro, 2353",
     "fetched_at": "2026-09-17T19:27:17.278205+00:00"
+  },
+  {
+    "datetime": "17/11/2026, 20:42:37",
+    "type": "Utilidade Publica",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8622222,
+    "lng": -43.2405556,
+    "address": "Rua dos Patriotas, 14",
+    "fetched_at": "2026-11-18T01:35:23.524147+00:00"
   },
   {
     "datetime": "17/09/2026, 17:46:01",
