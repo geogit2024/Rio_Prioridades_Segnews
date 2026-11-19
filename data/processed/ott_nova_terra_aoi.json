@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-19T00:54:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8459316,
+    "lng": -43.2865423,
+    "address": "Rua Aimoré, 313a",
+    "fetched_at": "2026-11-19T07:17:55.662145+00:00"
+  },
+  {
+    "datetime": "2026-11-19T00:31:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8622222,
+    "lng": -43.2405556,
+    "address": "Rua dos Patriotas, 14",
+    "fetched_at": "2026-11-19T07:17:55.662169+00:00"
+  },
+  {
     "datetime": "2026-11-18T18:32:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Maré",
