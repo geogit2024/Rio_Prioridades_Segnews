@@ -55,6 +55,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-19T12:24:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8518205,
+    "lng": -43.2431352,
+    "address": "Rua Darcí Vargas, 81",
+    "fetched_at": "2026-11-19T16:40:56.048057+00:00"
+  },
+  {
+    "datetime": "2026-11-19T09:12:00+00:00",
+    "type": "Incêndio",
+    "neighborhood": "Vila Isabel",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9144791,
+    "lng": -43.2490203,
+    "address": "Rua Torres Homem, 666",
+    "fetched_at": "2026-11-19T16:40:56.048118+00:00"
+  },
+  {
+    "datetime": "2026-11-19T08:30:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.84779,
+    "lng": -43.32435,
+    "address": "Metrô Irajá",
+    "fetched_at": "2026-11-19T16:40:56.048138+00:00"
+  },
+  {
+    "datetime": "2026-11-19T06:37:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8648213,
+    "lng": -43.2443262,
+    "address": "Av. Guilherme Maxwel",
+    "fetched_at": "2026-11-19T16:40:56.048147+00:00"
+  },
+  {
     "datetime": "2026-11-19T00:54:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Penha",
