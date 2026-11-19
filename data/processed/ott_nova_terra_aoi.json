@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-19T18:10:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8505199,
+    "lng": -43.3311923,
+    "address": "Rua Guiraréia, 370",
+    "fetched_at": "2026-11-19T23:14:05.958374+00:00"
+  },
+  {
     "datetime": "2026-11-19T12:24:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Maré",
