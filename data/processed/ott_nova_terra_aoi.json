@@ -55,6 +55,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-18T18:32:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8622222,
+    "lng": -43.2405556,
+    "address": "Rua dos Patriotas, 14",
+    "fetched_at": "2026-11-19T00:04:32.093650+00:00"
+  },
+  {
+    "datetime": "2026-11-18T15:45:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8717931,
+    "lng": -43.2390752,
+    "address": "Avenida Canal, 444",
+    "fetched_at": "2026-11-19T00:04:32.093693+00:00"
+  },
+  {
+    "datetime": "2026-11-18T15:07:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Caju",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.868121,
+    "lng": -43.2376398,
+    "address": "Travessa Quarenta e Oito, 25",
+    "fetched_at": "2026-11-19T00:04:32.093706+00:00"
+  },
+  {
     "datetime": "2026-11-18T14:45:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Maré",
