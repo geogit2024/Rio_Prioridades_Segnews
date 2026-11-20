@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-20T08:35:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8613513,
+    "lng": -43.247869,
+    "address": "Baixa do Sapateiro",
+    "fetched_at": "2026-11-20T12:37:04.510538+00:00"
+  },
+  {
+    "datetime": "2026-11-20T01:02:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8529369,
+    "lng": -43.2967558,
+    "address": "Rua Ferreira Chaves",
+    "fetched_at": "2026-11-20T12:37:04.510592+00:00"
+  },
+  {
     "datetime": "2026-11-20T00:25:00+00:00",
     "type": "Utilidade Pública",
     "neighborhood": "Irajá",
