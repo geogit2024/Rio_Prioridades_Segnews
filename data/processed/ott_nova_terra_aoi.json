@@ -55,6 +55,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-20T00:25:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.83237946866,
+    "lng": -43.328375331827,
+    "address": "",
+    "fetched_at": "2026-11-20T03:59:12.909800+00:00"
+  },
+  {
+    "datetime": "2026-11-20T00:08:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9225121,
+    "lng": -43.2492233,
+    "address": "Rua Agenor Moreira, 103",
+    "fetched_at": "2026-11-20T03:59:12.909831+00:00"
+  },
+  {
+    "datetime": "2026-11-20T00:06:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9273419,
+    "lng": -43.2447519,
+    "address": "Rua Uruguai, 218",
+    "fetched_at": "2026-11-20T03:59:12.909852+00:00"
+  },
+  {
+    "datetime": "2026-11-19T21:06:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Cidade Universitária",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8580493,
+    "lng": -43.2325274,
+    "address": "Avenida Athos da Silveira Ramos, 274",
+    "fetched_at": "2026-11-20T03:59:12.909912+00:00"
+  },
+  {
     "datetime": "2026-11-19T18:10:00+00:00",
     "type": "Assalto",
     "neighborhood": "Irajá",
