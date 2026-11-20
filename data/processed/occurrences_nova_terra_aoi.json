@@ -9093,7 +9093,7 @@
     "transports": [],
     "victims": [
       {
-        "id": "787df642-673c-43e3-9865-f189e8fb1510",
+        "id": "9a4172be-a292-4b2e-acb7-ea8810ee32a4",
         "occurrenceId": "614f2386-3d7d-4034-ab5e-f79a13e30aa7",
         "type": "People",
         "situation": "Dead",
@@ -9160,7 +9160,7 @@
         "unit": ""
       },
       {
-        "id": "9a4172be-a292-4b2e-acb7-ea8810ee32a4",
+        "id": "787df642-673c-43e3-9865-f189e8fb1510",
         "occurrenceId": "614f2386-3d7d-4034-ab5e-f79a13e30aa7",
         "type": "People",
         "situation": "Dead",
@@ -9837,14 +9837,14 @@
         },
         "qualifications": [
           {
-            "id": "61586211-26d3-4f94-8584-6cc393875357",
-            "name": "Agente de segurança",
-            "type": "Agente"
-          },
-          {
             "id": "715da8f4-714f-40ba-a171-793abc17cfdc",
             "name": "Político",
             "type": "Politico"
+          },
+          {
+            "id": "61586211-26d3-4f94-8584-6cc393875357",
+            "name": "Agente de segurança",
+            "type": "Agente"
           }
         ],
         "politicalPosition": {
@@ -10528,7 +10528,7 @@
   {
     "id": "a356bd02-188e-488b-8369-c4529d0b4cdf",
     "documentNumber": 79886,
-    "address": "Complexo de Israel, Cordovil, Rio de Janeiro - RJ, 21250-500, Brasil",
+    "address": "Complexo de Israel - Cordovil, Rio de Janeiro - RJ, 21250-500, Brasil",
     "state": {
       "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
       "name": "Rio de Janeiro"
@@ -10841,7 +10841,7 @@
   {
     "id": "cfc784b2-c86a-4c81-a186-b4796f398467",
     "documentNumber": 79906,
-    "address": "R. Três - Maré, Rio de Janeiro - RJ, 21046-605, Brasil",
+    "address": "R. Três, Vila do João - Maré, Rio de Janeiro - RJ, 21046-605, Brasil",
     "state": {
       "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
       "name": "Rio de Janeiro"
