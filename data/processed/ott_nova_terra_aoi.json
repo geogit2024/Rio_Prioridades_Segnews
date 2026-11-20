@@ -55,6 +55,83 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-20T14:10:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8661431,
+    "lng": -43.2400438,
+    "address": "Avenida Bento Ribeiro Dantas, 436",
+    "fetched_at": "2026-11-20T20:42:55.226984+00:00"
+  },
+  {
+    "datetime": "2026-11-20T13:55:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Bonsucesso",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8625775,
+    "lng": -43.254037,
+    "address": "Avenida Teixeira de Castro, 10 E",
+    "fetched_at": "2026-11-20T20:42:55.227029+00:00"
+  },
+  {
+    "datetime": "2026-11-20T13:55:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8518205,
+    "lng": -43.2431352,
+    "address": "Rua Darcí Vargas, 81",
+    "fetched_at": "2026-11-20T20:42:55.227040+00:00"
+  },
+  {
+    "datetime": "2026-11-20T13:43:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8661431,
+    "lng": -43.2400438,
+    "address": "Avenida Bento Ribeiro Dantas, 436",
+    "fetched_at": "2026-11-20T20:42:55.227050+00:00"
+  },
+  {
+    "datetime": "2026-11-20T13:42:00+00:00",
+    "type": "Carros na contramão",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8661431,
+    "lng": -43.2400438,
+    "address": "Avenida Bento Ribeiro Dantas, 436",
+    "fetched_at": "2026-11-20T20:42:55.227059+00:00"
+  },
+  {
+    "datetime": "2026-11-20T13:39:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Caju",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8735493,
+    "lng": -43.2373155,
+    "address": "Avenida Canal Dois, 738",
+    "fetched_at": "2026-11-20T20:42:55.227068+00:00"
+  },
+  {
+    "datetime": "2026-11-20T13:20:00+00:00",
+    "type": "Toque de recolher",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8936111,
+    "lng": -43.3163889,
+    "address": "Rua Clarimundo de Melo, 562",
+    "fetched_at": "2026-11-20T20:42:55.227077+00:00"
+  },
+  {
     "datetime": "2026-11-20T08:35:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Maré",
