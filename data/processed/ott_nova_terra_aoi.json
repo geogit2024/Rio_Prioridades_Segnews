@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-21T13:23:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Olaria",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8512886,
+    "lng": -43.27062,
+    "address": "Rua João Rêgo, 194 A",
+    "fetched_at": "2026-11-21T16:31:02.954812+00:00"
+  },
+  {
     "datetime": "2026-11-21T02:49:00+00:00",
     "type": "Perseguição Policial",
     "neighborhood": "Vila da Penha",
