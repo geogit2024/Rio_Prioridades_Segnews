@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-21T15:23:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8190844,
+    "lng": -43.2923293,
+    "address": "Rua Ponto Chique, 7",
+    "fetched_at": "2026-11-21T21:53:07.740393+00:00"
+  },
+  {
     "datetime": "2026-11-21T13:23:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Olaria",
