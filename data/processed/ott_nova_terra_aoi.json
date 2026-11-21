@@ -55,6 +55,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-20T22:10:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8616037,
+    "lng": -43.243182,
+    "address": "Rua Nova Jerusalem, 497",
+    "fetched_at": "2026-11-21T01:45:03.079608+00:00"
+  },
+  {
+    "datetime": "2026-11-20T21:53:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9252121,
+    "lng": -43.2053745,
+    "address": "Rua Barão de Petrópolis, 01",
+    "fetched_at": "2026-11-21T01:45:03.079639+00:00"
+  },
+  {
+    "datetime": "2026-11-20T21:38:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Quintino Bocaiúva",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8848687,
+    "lng": -43.3136857,
+    "address": "Avenida Dom Hélder Câmara, 8980",
+    "fetched_at": "2026-11-21T01:45:03.079657+00:00"
+  },
+  {
     "datetime": "2026-11-20T14:10:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Maré",
