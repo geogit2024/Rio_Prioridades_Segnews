@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-21T02:49:00+00:00",
+    "type": "Perseguição Policial",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8468687,
+    "lng": -43.3050242,
+    "address": "Avenida Vicente de Carvalho, 1175",
+    "fetched_at": "2026-11-21T08:48:28.103671+00:00"
+  },
+  {
     "datetime": "2026-11-20T22:10:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Maré",
