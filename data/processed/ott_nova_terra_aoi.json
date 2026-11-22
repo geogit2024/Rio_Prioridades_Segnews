@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-22T06:43:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8098797497,
+    "lng": -43.308207881503,
+    "address": "Rua Correa Dias, 411",
+    "fetched_at": "2026-11-22T17:06:24.332224+00:00"
+  },
+  {
     "datetime": "2026-11-22T00:25:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Tijuca",
