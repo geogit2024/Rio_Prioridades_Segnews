@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-22T16:42:00+00:00",
+    "type": "Arrastão",
+    "neighborhood": "Água Santa",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.907351,
+    "lng": -43.308876,
+    "address": "Estrada Paulo de Medeiros, 13",
+    "fetched_at": "2026-11-22T22:26:46.020188+00:00"
+  },
+  {
     "datetime": "2026-11-22T06:43:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Vigário Geral",
