@@ -9837,14 +9837,14 @@
         },
         "qualifications": [
           {
-            "id": "715da8f4-714f-40ba-a171-793abc17cfdc",
-            "name": "Político",
-            "type": "Politico"
-          },
-          {
             "id": "61586211-26d3-4f94-8584-6cc393875357",
             "name": "Agente de segurança",
             "type": "Agente"
+          },
+          {
+            "id": "715da8f4-714f-40ba-a171-793abc17cfdc",
+            "name": "Político",
+            "type": "Politico"
           }
         ],
         "politicalPosition": {
@@ -11047,7 +11047,7 @@
         ],
         "deathDate": "2026-11-20T06:30:00.000Z",
         "personType": "Civilian",
-        "age": null,
+        "age": 38,
         "ageGroup": {
           "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
           "name": "Adulto"
