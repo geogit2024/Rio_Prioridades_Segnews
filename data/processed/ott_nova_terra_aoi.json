@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-22T00:25:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.931826,
+    "lng": -43.2466492,
+    "address": "Rua General Espírito Santo Cardoso, 432",
+    "fetched_at": "2026-11-22T09:08:25.150636+00:00"
+  },
+  {
+    "datetime": "2026-11-22T00:08:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.931826,
+    "lng": -43.2466492,
+    "address": "Rua General Espírito Santo Cardoso, 432",
+    "fetched_at": "2026-11-22T09:08:25.150675+00:00"
+  },
+  {
     "datetime": "2026-11-21T22:46:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Piedade",
