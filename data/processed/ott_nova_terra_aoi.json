@@ -55,6 +55,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-22T22:47:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9324433,
+    "lng": -43.2411073,
+    "address": "Tijuca, Rio de Janeiro",
+    "fetched_at": "2026-11-23T02:56:57.471467+00:00"
+  },
+  {
+    "datetime": "2026-11-22T21:56:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9256251,
+    "lng": -43.2204231,
+    "address": "Rua Jacuman, 76",
+    "fetched_at": "2026-11-23T02:56:57.471502+00:00"
+  },
+  {
+    "datetime": "2026-11-22T21:45:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9176982,
+    "lng": -43.2090108,
+    "address": "Rua Aristídes Lôbo, 41",
+    "fetched_at": "2026-11-23T02:56:57.471521+00:00"
+  },
+  {
+    "datetime": "2026-11-22T21:23:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Rio Comprido",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9222823,
+    "lng": -43.2152254,
+    "address": "Rua Barão de Itapagipe, 311",
+    "fetched_at": "2026-11-23T02:56:57.471536+00:00"
+  },
+  {
     "datetime": "2026-11-22T16:42:00+00:00",
     "type": "Arrastão",
     "neighborhood": "Água Santa",
