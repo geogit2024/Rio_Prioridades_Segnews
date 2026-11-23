@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-23T08:25:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Cidade Universitária",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8648339,
+    "lng": -43.2200297,
+    "address": "UFRJ",
+    "fetched_at": "2026-11-23T11:45:10.115594+00:00"
+  },
+  {
+    "datetime": "2026-11-23T06:16:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Manguinhos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.883449981275,
+    "lng": -43.252951849738,
+    "address": "Rua Miranda, 104",
+    "fetched_at": "2026-11-23T11:45:10.115638+00:00"
+  },
+  {
     "datetime": "2026-11-22T22:47:00+00:00",
     "type": "Assalto",
     "neighborhood": "Tijuca",
