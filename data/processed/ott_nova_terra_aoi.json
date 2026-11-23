@@ -55,6 +55,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-23T19:39:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8196218,
+    "lng": -43.3325735,
+    "address": "Avenida Tenente Rebelo, 416",
+    "fetched_at": "2026-11-23T22:55:43.096796+00:00"
+  },
+  {
+    "datetime": "2026-11-23T12:10:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Bonsucesso",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8720459,
+    "lng": -43.2450217,
+    "address": "Avenida Brasil, 4900",
+    "fetched_at": "2026-11-23T22:55:43.096919+00:00"
+  },
+  {
+    "datetime": "2026-11-23T10:55:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.82585330429,
+    "lng": -43.336793851862,
+    "address": "Avenida Brasil, 19101",
+    "fetched_at": "2026-11-23T22:55:43.096928+00:00"
+  },
+  {
     "datetime": "2026-11-23T08:25:00+00:00",
     "type": "Assalto",
     "neighborhood": "Cidade Universitária",
