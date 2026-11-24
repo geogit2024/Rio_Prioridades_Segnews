@@ -55,6 +55,72 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-24T00:27:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Del Castilho",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8812693,
+    "lng": -43.2762917,
+    "address": "Avenida Segal, 1",
+    "fetched_at": "2026-11-24T06:39:30.325146+00:00"
+  },
+  {
+    "datetime": "2026-11-23T21:55:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8210735,
+    "lng": -43.3318963,
+    "address": "Rua Emíliano Felipe, 173",
+    "fetched_at": "2026-11-24T06:39:30.325186+00:00"
+  },
+  {
+    "datetime": "2026-11-23T21:21:00+00:00",
+    "type": "Arrastão",
+    "neighborhood": "Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8397142,
+    "lng": -43.2793156,
+    "address": "Rua Nicarágua, 295",
+    "fetched_at": "2026-11-24T06:39:30.325193+00:00"
+  },
+  {
+    "datetime": "2026-11-23T21:16:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Engenho Novo",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9153804,
+    "lng": -43.2696963,
+    "address": "AutoEstrada Grajaú",
+    "fetched_at": "2026-11-24T06:39:30.325200+00:00"
+  },
+  {
+    "datetime": "2026-11-23T20:48:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8196154,
+    "lng": -43.3325281,
+    "address": "Avenida Tenente Rebelo, 416",
+    "fetched_at": "2026-11-24T06:39:30.325206+00:00"
+  },
+  {
+    "datetime": "2026-11-23T20:43:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Piedade",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8963,
+    "lng": -43.3126497,
+    "address": "Rua Clarimundo de Melo, 400",
+    "fetched_at": "2026-11-24T06:39:30.325212+00:00"
+  },
+  {
     "datetime": "2026-11-23T19:39:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Irajá",
