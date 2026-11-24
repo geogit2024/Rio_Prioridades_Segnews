@@ -55,6 +55,127 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-24T09:55:00+00:00",
+    "type": "Falta de luz",
+    "neighborhood": "Caju",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8787538,
+    "lng": -43.2210212,
+    "address": "Rua Carmelita da Conceição, 18",
+    "fetched_at": "2026-11-24T18:18:26.177917+00:00"
+  },
+  {
+    "datetime": "2026-11-24T09:16:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8768069,
+    "lng": -43.2385199,
+    "address": "Rua Manoel Falcão A Maranhão, 74",
+    "fetched_at": "2026-11-24T18:18:26.177935+00:00"
+  },
+  {
+    "datetime": "2026-11-24T07:25:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9276183,
+    "lng": -43.254072,
+    "address": "Rua Paula Brito, 394",
+    "fetched_at": "2026-11-24T18:18:26.177965+00:00"
+  },
+  {
+    "datetime": "2026-11-24T06:41:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Andaraí",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9329241,
+    "lng": -43.2573699,
+    "address": "Rua Andaraí, 327",
+    "fetched_at": "2026-11-24T18:18:26.177978+00:00"
+  },
+  {
+    "datetime": "2026-11-24T06:37:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Ramos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8552552,
+    "lng": -43.2605562,
+    "address": "Rua Uranos, 1005",
+    "fetched_at": "2026-11-24T18:18:26.177991+00:00"
+  },
+  {
+    "datetime": "2026-11-24T06:16:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Bonsucesso",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.85656,
+    "lng": -43.24798,
+    "address": "Av",
+    "fetched_at": "2026-11-24T18:18:26.178003+00:00"
+  },
+  {
+    "datetime": "2026-11-24T06:08:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8648213,
+    "lng": -43.2443262,
+    "address": "Rua Capitão Carlos, 38",
+    "fetched_at": "2026-11-24T18:18:26.178026+00:00"
+  },
+  {
+    "datetime": "2026-11-24T06:07:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.923666,
+    "lng": -43.2583192,
+    "address": "Rua Barão de Mesquita, 1030",
+    "fetched_at": "2026-11-24T18:18:26.178037+00:00"
+  },
+  {
+    "datetime": "2026-11-24T06:06:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Bonsucesso",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8625775,
+    "lng": -43.254037,
+    "address": "Avenida Teixeira de Castro, 10 E",
+    "fetched_at": "2026-11-24T18:18:26.178048+00:00"
+  },
+  {
+    "datetime": "2026-11-24T06:05:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Grajaú",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9201586,
+    "lng": -43.2658295,
+    "address": "Rua Caruaru, 343",
+    "fetched_at": "2026-11-24T18:18:26.178060+00:00"
+  },
+  {
+    "datetime": "2026-11-24T06:02:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Tijuca",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.923666,
+    "lng": -43.2583192,
+    "address": "Rua Barão de Mesquita, 1030",
+    "fetched_at": "2026-11-24T18:18:26.178070+00:00"
+  },
+  {
     "datetime": "2026-11-24T00:27:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Del Castilho",
