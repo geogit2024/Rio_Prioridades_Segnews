@@ -11321,7 +11321,7 @@
   {
     "id": "a5210834-81b7-4577-9ee3-d3d745a7b9ae",
     "documentNumber": 79954,
-    "address": "Parque Guinle - Rua Gago Coutinho - Laranjeiras, Rio de Janeiro - RJ, Brasil",
+    "address": "Rua Gago Coutinho, Parque Guinle - Laranjeiras, Rio de Janeiro - RJ, Brasil",
     "state": {
       "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
       "name": "Rio de Janeiro"
@@ -11428,6 +11428,204 @@
         "unit": ""
       }
     ],
+    "animalVictims": []
+  },
+  {
+    "id": "08e68127-656d-46dd-a121-3cb80a90d6cc",
+    "documentNumber": 79965,
+    "address": "Barreira do Vasco - Vasco da Gama, Rio de Janeiro - RJ, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "108cc574-c463-4add-b281-49bf119bf9e3",
+      "name": "VASCO DA GAMA"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "c67a7c3f-0a72-4f64-87d9-a134acf4394c",
+      "name": "BARREIRA DO VASCO"
+    },
+    "latitude": "-22.8895526",
+    "longitude": "-43.2290306",
+    "date": "2026-11-24T00:15:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+        "name": "Ação policial"
+      },
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (UPP MANGUEIRA)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "289fab9f-40f9-43b2-99d5-f7af76d48913",
+    "documentNumber": 79960,
+    "address": "Morro do Andaraí - Andaraí, Rio de Janeiro - RJ, 20541-240, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "c4d3a042-9414-4585-af7e-21220079971e",
+      "name": "ANDARAI"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "7cb20856-07ce-40f5-9025-4b7e4017d0df",
+      "name": "MORRO DO ANDARAI"
+    },
+    "latitude": "-22.93296722\t",
+    "longitude": "-43.25643623",
+    "date": "2026-11-24T06:05:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "b70c8ccc-3c64-4189-8381-66b810a9797d",
+        "name": "Operação policial"
+      },
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (6 BPM)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "5e7d2032-1778-4f93-9390-7d4c9ba03365",
+    "documentNumber": 79959,
+    "address": "Morro do Timbau (Complexo da Maré) - Maré, Rio de Janeiro - RJ, 21042-050, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "aac41a17-1d54-45b5-9814-eabfb7a204ae",
+      "name": "MARE"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "dbfd01f6-d4a1-4155-8aaf-e56989379273",
+      "name": "MORRO DO TIMBAU (COMPLEXO DA MARE)"
+    },
+    "latitude": "-22.86250847\t",
+    "longitude": "-43.24132626",
+    "date": "2026-11-24T06:10:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "cf5cdb6a-a17a-4c74-b669-cac0e0677f82",
+    "documentNumber": 79969,
+    "address": "Quitungo-Guaporé - Brás de Pina, Rio de Janeiro - RJ, 21215-510, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "9570c4bb-4634-4c67-93a4-27a89a4e5354",
+      "name": "BRAS DE PINA"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "163f7690-975b-454d-86ad-b80bf25a3dac",
+      "name": "QUITUNGO-GUAPORE"
+    },
+    "latitude": "-22.835000\t",
+    "longitude": "-43.300278",
+    "date": "2026-11-24T20:05:00.000Z",
+    "policeAction": false,
+    "agentPresence": false,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+        "name": "Não identificado"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": ""
+    },
+    "transports": [],
+    "victims": [],
     "animalVictims": []
   }
 ]
