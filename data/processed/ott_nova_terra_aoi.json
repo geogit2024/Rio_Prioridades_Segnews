@@ -55,6 +55,17 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-25T01:33:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8086939,
+    "lng": -43.3071081,
+    "address": "Rua Correa Dias, 276",
+    "fetched_at": "2026-11-25T11:42:58.858162+00:00"
+  },
+  {
     "datetime": "2026-11-24T23:25:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Grajaú",
