@@ -55,6 +55,116 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-24T23:25:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Grajaú",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9266235,
+    "lng": -43.2568426,
+    "address": "Rua Botucatu, 337",
+    "fetched_at": "2026-11-25T02:40:11.225022+00:00"
+  },
+  {
+    "datetime": "2026-11-24T23:18:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vigário Geral",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8081825,
+    "lng": -43.3036695,
+    "address": "Rua Bulhões Marcial, 785",
+    "fetched_at": "2026-11-25T02:40:11.225071+00:00"
+  },
+  {
+    "datetime": "2026-11-24T22:14:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8648213,
+    "lng": -43.2443262,
+    "address": "Rua Capitão Carlos, 38",
+    "fetched_at": "2026-11-25T02:40:11.225128+00:00"
+  },
+  {
+    "datetime": "2026-11-24T21:03:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Olaria",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8438137,
+    "lng": -43.2693746,
+    "address": "Rua Ibiapina, 61",
+    "fetched_at": "2026-11-25T02:40:11.225148+00:00"
+  },
+  {
+    "datetime": "2026-11-24T20:12:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Parada de Lucas",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.814128,
+    "lng": -43.2981472,
+    "address": "Travessa Rubro Negro, 6",
+    "fetched_at": "2026-11-25T02:40:11.225181+00:00"
+  },
+  {
+    "datetime": "2026-11-24T20:11:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8221087,
+    "lng": -43.2904579,
+    "address": "Rua Meengaba, 137",
+    "fetched_at": "2026-11-25T02:40:11.225191+00:00"
+  },
+  {
+    "datetime": "2026-11-24T20:10:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8217675,
+    "lng": -43.3010512,
+    "address": "Rua Dante, 295",
+    "fetched_at": "2026-11-25T02:40:11.225201+00:00"
+  },
+  {
+    "datetime": "2026-11-24T20:09:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8238141,
+    "lng": -43.2960106,
+    "address": "Rua Tail�ndia, 43",
+    "fetched_at": "2026-11-25T02:40:11.225211+00:00"
+  },
+  {
+    "datetime": "2026-11-24T20:09:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Cordovil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8207138,
+    "lng": -43.2917724,
+    "address": "Estrada do Porto Velho, 561",
+    "fetched_at": "2026-11-25T02:40:11.225222+00:00"
+  },
+  {
+    "datetime": "2026-11-24T17:10:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Praça da Bandeira",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9122663,
+    "lng": -43.2133348,
+    "address": "Rua do Matoso, 39",
+    "fetched_at": "2026-11-25T02:40:11.225253+00:00"
+  },
+  {
     "datetime": "2026-11-24T09:55:00+00:00",
     "type": "Falta de luz",
     "neighborhood": "Caju",
