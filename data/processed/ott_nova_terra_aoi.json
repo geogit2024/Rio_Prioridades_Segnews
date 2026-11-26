@@ -55,6 +55,83 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-26T00:03:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Parada de Lucas",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8147224,
+    "lng": -43.2929747,
+    "address": "Avenida Brasil, 706",
+    "fetched_at": "2026-11-26T03:05:44.568687+00:00"
+  },
+  {
+    "datetime": "2026-11-25T23:05:00+00:00",
+    "type": "Incêndio",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8251907,
+    "lng": -43.3253484,
+    "address": "Rua Hannibal Porto, 450",
+    "fetched_at": "2026-11-26T03:05:44.568717+00:00"
+  },
+  {
+    "datetime": "2026-11-25T22:49:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8648213,
+    "lng": -43.2443262,
+    "address": "Rua Capitão Carlos, 38",
+    "fetched_at": "2026-11-26T03:05:44.568733+00:00"
+  },
+  {
+    "datetime": "2026-11-25T19:11:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8196106,
+    "lng": -43.3325721,
+    "address": "Avenida Tenente Rebelo, 416",
+    "fetched_at": "2026-11-26T03:05:44.568745+00:00"
+  },
+  {
+    "datetime": "2026-11-25T19:08:00+00:00",
+    "type": "Toque de recolher",
+    "neighborhood": "Méier",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9128722,
+    "lng": -43.2845323,
+    "address": "Rua Vilela Tavares, 421",
+    "fetched_at": "2026-11-26T03:05:44.568755+00:00"
+  },
+  {
+    "datetime": "2026-11-25T18:48:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Lins de Vasconcelos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9173137,
+    "lng": -43.27897,
+    "address": "Avenida Menezes Cortes próximo ao 955",
+    "fetched_at": "2026-11-26T03:05:44.568765+00:00"
+  },
+  {
+    "datetime": "2026-11-25T17:54:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Engenho Novo",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9153804,
+    "lng": -43.2696963,
+    "address": "AutoEstrada Grajaú",
+    "fetched_at": "2026-11-26T03:05:44.568774+00:00"
+  },
+  {
     "datetime": "2026-11-25T16:04:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Lins de Vasconcelos",
