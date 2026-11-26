@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-26T07:25:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Cascadura",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8838981,
+    "lng": -43.3388156,
+    "address": "Rua Bauru, 240",
+    "fetched_at": "2026-11-26T12:20:36.001076+00:00"
+  },
+  {
+    "datetime": "2026-11-26T06:40:00+00:00",
+    "type": "Falta de luz",
+    "neighborhood": "Irajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8283927,
+    "lng": -43.3322274,
+    "address": "Rua Major Azevedo, 184",
+    "fetched_at": "2026-11-26T12:20:36.001090+00:00"
+  },
+  {
     "datetime": "2026-11-26T00:03:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Parada de Lucas",
