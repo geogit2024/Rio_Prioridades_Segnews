@@ -55,6 +55,50 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-26T18:29:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Engenho Novo",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9153804,
+    "lng": -43.2696963,
+    "address": "AutoEstrada Grajaú",
+    "fetched_at": "2026-11-26T21:47:14.705251+00:00"
+  },
+  {
+    "datetime": "2026-11-26T18:19:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cachambi",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8891699,
+    "lng": -43.270174,
+    "address": "Rua Basílio de Brito, 149",
+    "fetched_at": "2026-11-26T21:47:14.705276+00:00"
+  },
+  {
+    "datetime": "2026-11-26T12:34:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Cidade Universitária",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8628536,
+    "lng": -43.2263053,
+    "address": "Avenida Pedro Calmon, 89",
+    "fetched_at": "2026-11-26T21:47:14.705319+00:00"
+  },
+  {
+    "datetime": "2026-11-26T11:31:00+00:00",
+    "type": "Manifestação",
+    "neighborhood": "Engenho Novo",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9153933,
+    "lng": -43.2697796,
+    "address": "AutoEstrada Grajaú",
+    "fetched_at": "2026-11-26T21:47:14.705340+00:00"
+  },
+  {
     "datetime": "2026-11-26T07:25:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Cascadura",
