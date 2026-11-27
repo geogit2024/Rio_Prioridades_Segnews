@@ -55,6 +55,39 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-27T18:21:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Inhaúma",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8622207,
+    "lng": -43.3065991,
+    "address": "Avenida Pastor Martin Luther King Junior, 4706",
+    "fetched_at": "2026-11-27T22:11:50.614581+00:00"
+  },
+  {
+    "datetime": "2026-11-27T18:13:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Vila da Penha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.844146,
+    "lng": -43.3094211,
+    "address": "Rua Engenheiro Lafayette Stockler, 542a",
+    "fetched_at": "2026-11-27T22:11:50.614606+00:00"
+  },
+  {
+    "datetime": "2026-11-27T13:39:00+00:00",
+    "type": "Tiroteio",
+    "neighborhood": "Praça da Bandeira",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9122663,
+    "lng": -43.2133348,
+    "address": "Rua do Matoso, 39",
+    "fetched_at": "2026-11-27T22:11:50.614656+00:00"
+  },
+  {
     "datetime": "2026-11-27T05:36:00+00:00",
     "type": "Operação Policial",
     "neighborhood": "Maré",
