@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-27T05:36:00+00:00",
+    "type": "Operação Policial",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8648213,
+    "lng": -43.2443262,
+    "address": "Rua Capitão Carlos, 38",
+    "fetched_at": "2026-11-27T13:21:08.602095+00:00"
+  },
+  {
+    "datetime": "2026-11-27T03:04:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Grajaú",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9251679,
+    "lng": -43.2559351,
+    "address": "Rua Uberaba, 29",
+    "fetched_at": "2026-11-27T13:21:08.602111+00:00"
+  },
+  {
     "datetime": "2026-11-27T00:37:00+00:00",
     "type": "Disparos ouvidos",
     "neighborhood": "Pilares",
