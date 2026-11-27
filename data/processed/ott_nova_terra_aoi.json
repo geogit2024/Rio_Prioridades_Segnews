@@ -55,6 +55,72 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-27T00:37:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Pilares",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8800622,
+    "lng": -43.2885732,
+    "address": "Rua de Lazer, 160",
+    "fetched_at": "2026-11-27T03:53:30.462343+00:00"
+  },
+  {
+    "datetime": "2026-11-27T00:19:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8648213,
+    "lng": -43.2443262,
+    "address": "Rua Capitão Carlos, 38",
+    "fetched_at": "2026-11-27T03:53:30.462376+00:00"
+  },
+  {
+    "datetime": "2026-11-26T23:45:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Penha Circular",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.838388,
+    "lng": -43.2935623,
+    "address": "Avenida Brás de Pina, 793",
+    "fetched_at": "2026-11-27T03:53:30.462395+00:00"
+  },
+  {
+    "datetime": "2026-11-26T21:22:00+00:00",
+    "type": "Assalto",
+    "neighborhood": "Todos os Santos",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8879795,
+    "lng": -43.2858199,
+    "address": "Rua Gonzaga de Campos, 244",
+    "fetched_at": "2026-11-27T03:53:30.462516+00:00"
+  },
+  {
+    "datetime": "2026-11-26T20:26:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Brás de Pina",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8234197,
+    "lng": -43.2826729,
+    "address": "Rua Iguaperiba, 527",
+    "fetched_at": "2026-11-27T03:53:30.462528+00:00"
+  },
+  {
+    "datetime": "2026-11-26T19:53:00+00:00",
+    "type": "Utilidade Pública",
+    "neighborhood": "Engenho Novo",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.9153804,
+    "lng": -43.2696963,
+    "address": "AutoEstrada Grajaú",
+    "fetched_at": "2026-11-27T03:53:30.462545+00:00"
+  },
+  {
     "datetime": "2026-11-26T18:29:00+00:00",
     "type": "Manifestação",
     "neighborhood": "Engenho Novo",
