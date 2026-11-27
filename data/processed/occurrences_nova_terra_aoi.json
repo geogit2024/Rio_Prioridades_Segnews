@@ -11763,11 +11763,29 @@
           "name": "Não identificado"
         }
       ],
-      "clippings": [],
+      "clippings": [
+        {
+          "id": "c66e84d4-94a5-4faa-ba30-15546c5d850b",
+          "name": "Tiros de Helicóptero"
+        }
+      ],
       "massacre": false,
-      "policeUnit": "PC (CORE)"
+      "policeUnit": "PC (CORE; 26 DP)"
     },
-    "transports": [],
+    "transports": [
+      {
+        "id": "c493cd7f-0d9b-450b-91ab-e2121772bc08",
+        "occurrenceId": "5c1bbd7f-f5f2-4617-8db6-7293e5ffa78c",
+        "transport": {
+          "id": "9aabafb2-1c17-4865-a680-e6e715e6f3aa",
+          "name": "Via"
+        },
+        "interruptedTransport": true,
+        "dateInterruption": "2026-11-25T16:10:00.000Z",
+        "releaseDate": null,
+        "transportDescription": "Fecharam a rua Caimbé, no Grajaú, com um ônibus, afetando 7 linhas."
+      }
+    ],
     "victims": [
       {
         "id": "c911937b-e6b5-424e-b506-623b6ba67b81",
@@ -11792,7 +11810,7 @@
           "id": "cd8372e3-a8bf-4e61-85b4-cbb62e13bb36",
           "name": "Mulher cis"
         },
-        "race": "Não identificado",
+        "race": "Negra",
         "place": {
           "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
           "name": "Sem identificação"
@@ -11807,73 +11825,6 @@
             "id": "d8bf83c0-4cc3-4202-82ea-7dc84cd0d9fb",
             "name": "Gestante",
             "type": ""
-          }
-        ],
-        "politicalPosition": {
-          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "politicalStatus": {
-          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
-          "name": "Não se aplica",
-          "type": "Politico"
-        },
-        "partie": null,
-        "coorporation": {
-          "id": "52e03783-cb08-49b5-8635-0d462773e250",
-          "name": "Não se aplica"
-        },
-        "agentPosition": {
-          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "agentStatus": {
-          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
-          "name": "Não se aplica",
-          "type": "Agente"
-        },
-        "unit": ""
-      },
-      {
-        "id": "cf555593-6ad3-4b39-8cae-2f00fa607f27",
-        "occurrenceId": "5c1bbd7f-f5f2-4617-8db6-7293e5ffa78c",
-        "type": "People",
-        "situation": "Wounded",
-        "circumstances": [
-          {
-            "id": "b44d4f46-e7e4-4822-a42e-660927796731",
-            "name": "Bala perdida",
-            "type": "both"
-          }
-        ],
-        "deathDate": null,
-        "personType": "Civilian",
-        "age": null,
-        "ageGroup": {
-          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
-          "name": "Adulto"
-        },
-        "genre": {
-          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
-          "name": "Homem cis"
-        },
-        "race": "Não identificado",
-        "place": {
-          "id": "9c529129-7c1f-4654-9eb7-09c9ece8c5c0",
-          "name": "Barbearia"
-        },
-        "serviceStatus": {
-          "id": "6d1bb29f-fd69-46ea-bf21-600c85d95f1a",
-          "name": "Em serviço",
-          "type": "Servico"
-        },
-        "qualifications": [
-          {
-            "id": "9667590b-9374-4484-9c68-ecf0181b9184",
-            "name": "Outros",
-            "type": "Servico"
           }
         ],
         "politicalPosition": {
@@ -11971,6 +11922,73 @@
         "unit": ""
       },
       {
+        "id": "cf555593-6ad3-4b39-8cae-2f00fa607f27",
+        "occurrenceId": "5c1bbd7f-f5f2-4617-8db6-7293e5ffa78c",
+        "type": "People",
+        "situation": "Wounded",
+        "circumstances": [
+          {
+            "id": "b44d4f46-e7e4-4822-a42e-660927796731",
+            "name": "Bala perdida",
+            "type": "both"
+          }
+        ],
+        "deathDate": null,
+        "personType": "Civilian",
+        "age": 25,
+        "ageGroup": {
+          "id": "1247dd9f-6796-495f-91c4-ca8d6db45c5e",
+          "name": "Adulto"
+        },
+        "genre": {
+          "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
+          "name": "Homem cis"
+        },
+        "race": "Negra",
+        "place": {
+          "id": "9c529129-7c1f-4654-9eb7-09c9ece8c5c0",
+          "name": "Barbearia"
+        },
+        "serviceStatus": {
+          "id": "6d1bb29f-fd69-46ea-bf21-600c85d95f1a",
+          "name": "Em serviço",
+          "type": "Servico"
+        },
+        "qualifications": [
+          {
+            "id": "9667590b-9374-4484-9c68-ecf0181b9184",
+            "name": "Outros",
+            "type": "Servico"
+          }
+        ],
+        "politicalPosition": {
+          "id": "84bb4841-1cac-4592-ba57-21714aa84454",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "politicalStatus": {
+          "id": "5238a823-cab9-47f5-85bc-34b810ae0d71",
+          "name": "Não se aplica",
+          "type": "Politico"
+        },
+        "partie": null,
+        "coorporation": {
+          "id": "52e03783-cb08-49b5-8635-0d462773e250",
+          "name": "Não se aplica"
+        },
+        "agentPosition": {
+          "id": "c27a6a83-bea5-4699-b6d9-2b1be0372701",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "agentStatus": {
+          "id": "940eb1bd-6f7f-4f73-9d6e-b44eb4fdd791",
+          "name": "Não se aplica",
+          "type": "Agente"
+        },
+        "unit": ""
+      },
+      {
         "id": "8852f24d-d3ce-420c-9890-7c60bc51b3af",
         "occurrenceId": "5c1bbd7f-f5f2-4617-8db6-7293e5ffa78c",
         "type": "People",
@@ -11993,7 +12011,7 @@
           "id": "bd0504ee-e0b5-4ae1-ae12-b6d9c61802e1",
           "name": "Homem cis"
         },
-        "race": "Não identificado",
+        "race": "Negra",
         "place": {
           "id": "e5c2090b-694f-4ff9-8f53-66a496193319",
           "name": "Sem identificação"
@@ -12038,6 +12056,60 @@
         "unit": ""
       }
     ],
+    "animalVictims": []
+  },
+  {
+    "id": "7af9ec25-b75f-4bbb-81b5-c8f80bee1fba",
+    "documentNumber": 79992,
+    "address": "Av. Alm. Frontin, 628 - Maré, Rio de Janeiro - RJ, 21030-040",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "aac41a17-1d54-45b5-9814-eabfb7a204ae",
+      "name": "MARE"
+    },
+    "subNeighborhood": null,
+    "locality": null,
+    "latitude": "-22.84197614798011",
+    "longitude": "-43.24581709329912",
+    "date": "2026-11-26T12:30:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+        "name": "Ação policial"
+      },
+      "complementaryReasons": [
+        {
+          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
+          "name": "Não identificado"
+        }
+      ],
+      "clippings": [
+        {
+          "id": "aff2a9ac-ef9f-4bd8-bee5-82f2a06c04bd",
+          "name": "Outros"
+        }
+      ],
+      "massacre": false,
+      "policeUnit": "PM (COE)"
+    },
+    "transports": [],
+    "victims": [],
     "animalVictims": []
   }
 ]
