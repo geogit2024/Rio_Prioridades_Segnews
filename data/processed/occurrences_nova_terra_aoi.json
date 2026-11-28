@@ -11759,8 +11759,8 @@
       },
       "complementaryReasons": [
         {
-          "id": "6f855e33-1b82-446d-873f-9a6dc2a843f8",
-          "name": "Não identificado"
+          "id": "2c6503b4-f65a-4d16-b33a-46535fa80d05",
+          "name": "Tentativa/Roubo de cargas"
         }
       ],
       "clippings": [
@@ -11782,7 +11782,7 @@
         },
         "interruptedTransport": true,
         "dateInterruption": "2026-11-25T16:10:00.000Z",
-        "releaseDate": null,
+        "releaseDate": "2026-11-26T07:00:00.000Z",
         "transportDescription": "Fecharam a rua Caimbé, no Grajaú, com um ônibus, afetando 7 linhas."
       }
     ],
@@ -12107,6 +12107,105 @@
       ],
       "massacre": false,
       "policeUnit": "PM (COE)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "e183ea1a-714e-4c9a-a07d-558afa7b817b",
+    "documentNumber": 80004,
+    "address": "Morro do Timbau (Complexo da Maré) - Maré, Rio de Janeiro - RJ, 21042-050, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "aac41a17-1d54-45b5-9814-eabfb7a204ae",
+      "name": "MARE"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "dbfd01f6-d4a1-4155-8aaf-e56989379273",
+      "name": "MORRO DO TIMBAU (COMPLEXO DA MARE)"
+    },
+    "latitude": "-22.86250847\t",
+    "longitude": "-43.24132626",
+    "date": "2026-11-27T05:30:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "b70c8ccc-3c64-4189-8381-66b810a9797d",
+        "name": "Operação policial"
+      },
+      "complementaryReasons": [
+        {
+          "id": "96992524-ebf7-4008-a999-81a179a91918",
+          "name": "Tentativa/Roubo"
+        }
+      ],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "PM (BOPE, BPCHQ, NAOE, BTM, BPVE, GESAR, 22 BPM)"
+    },
+    "transports": [],
+    "victims": [],
+    "animalVictims": []
+  },
+  {
+    "id": "af260b7c-acf8-4963-b20e-22be4df09ba4",
+    "documentNumber": 80012,
+    "address": "Complexo da Penha - Penha, Rio de Janeiro - RJ, 21070-470, Brasil",
+    "state": {
+      "id": "b112ffbe-17b3-4ad0-8f2a-2038745d1d14",
+      "name": "Rio de Janeiro"
+    },
+    "region": {
+      "id": "31d96bb1-07fa-4a9e-b988-9b1beae828ed",
+      "region": "Sudeste",
+      "state": "Rio de Janeiro",
+      "enabled": true
+    },
+    "city": {
+      "id": "d1bf56cc-6d85-4e6a-a5f5-0ab3f4074be3",
+      "name": "Rio de Janeiro"
+    },
+    "neighborhood": {
+      "id": "9c1e0ddd-2d99-47ba-a72b-320af30c4bed",
+      "name": "PENHA"
+    },
+    "subNeighborhood": null,
+    "locality": {
+      "id": "1a942e2e-5d97-41d2-9c3d-5ad7c060fb77",
+      "name": "COMPLEXO DA PENHA"
+    },
+    "latitude": "-22.84557517",
+    "longitude": "-43.28296391",
+    "date": "2026-11-27T18:20:00.000Z",
+    "policeAction": true,
+    "agentPresence": true,
+    "relatedRecord": "",
+    "contextInfo": {
+      "mainReason": {
+        "id": "86b1d37b-f955-4015-9d63-3c210a845e5e",
+        "name": "Ação policial"
+      },
+      "complementaryReasons": [],
+      "clippings": [],
+      "massacre": false,
+      "policeUnit": "NI"
     },
     "transports": [],
     "victims": [],
