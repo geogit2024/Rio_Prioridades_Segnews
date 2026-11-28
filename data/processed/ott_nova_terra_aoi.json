@@ -55,6 +55,28 @@
     "fetched_at": "2026-09-22T22:06:56.758966+00:00"
   },
   {
+    "datetime": "2026-11-27T21:27:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Engenho da Rainha",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8652104,
+    "lng": -43.2934048,
+    "address": "Estrada Adhemar Bebiano, 4013",
+    "fetched_at": "2026-11-28T03:53:43.299571+00:00"
+  },
+  {
+    "datetime": "2026-11-27T21:21:00+00:00",
+    "type": "Disparos ouvidos",
+    "neighborhood": "Del Castilho",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "lat": -22.8812693,
+    "lng": -43.2762917,
+    "address": "Avenida Segal, 1",
+    "fetched_at": "2026-11-28T03:53:43.299585+00:00"
+  },
+  {
     "datetime": "2026-11-27T18:21:00+00:00",
     "type": "Tiroteio",
     "neighborhood": "Inhaúma",
